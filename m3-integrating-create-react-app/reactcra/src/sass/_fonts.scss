@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'PT Sans';
+  src: url('#{set-path($cdn-path)}/fonts/pt_sans-web-bold-webfont.woff2') format('woff2'),
+  url('#{set-path($cdn-path)}/fonts/pt_sans-web-bold-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('#{set-path($cdn-path)}/fonts/pt_sans-web-bolditalic-webfont.woff2') format('woff2'),
+  url('#{set-path($cdn-path)}/fonts/pt_sans-web-bolditalic-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('#{set-path($cdn-path)}/fonts/pt_sans-web-italic-webfont.woff2') format('woff2'),
+  url('#{set-path($cdn-path)}/fonts/pt_sans-web-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'PT Sans';
+  src: url('#{set-path($cdn-path)}/fonts/pt_sans-web-regular-webfont.woff2') format('woff2'),
+  url('#{set-path($cdn-path)}/fonts/pt_sans-web-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  // stylelint-disable indentation
+  font-family: 'Handel Gothic';
+  src: url('#{set-path($cdn-path)}/fonts/handel_gothic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Handel Gothic d-light';
+  src: url('#{set-path($cdn-path)}/fonts/handel-gothic-d-light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

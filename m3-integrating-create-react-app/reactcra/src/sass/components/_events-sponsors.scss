@@ -1,0 +1,52 @@
+.events-sponsors {
+  text-align: center;
+  padding-bottom: rem-calc(60px);
+
+  &__title {
+    font-family: $font-headers;
+    color: lighten($color-main-dark, 20%);
+    font-size: rem-calc(28px);
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+    margin-top: rem-calc(50px);
+    margin-bottom: rem-calc(40px);
+  }
+
+  &__tabs {
+    .nav-tabs {
+      justify-content: center;
+      border: none;
+      margin-bottom: rem-calc(30px);
+
+      .nav-item {
+        margin-bottom: 0;
+
+        .nav-link {
+          border: none;
+          border-bottom: 1px solid $color-borders;
+          font-family: $font-headers-light;
+          text-transform: uppercase;
+          font-size: rem-calc(16px);
+          color: lighten($color-main-dark, 70%);
+
+          &.active {
+            border: none;
+            border-bottom: 2px solid $color-contrast-1;
+            color: lighten($color-main-dark, 11%);
+          }
+        }
+      }
+    }
+
+    .tab-pane {
+      img {
+        margin: rem-calc(5px) rem-calc(20px);
+      }
+    }
+  }
+
+  &__buttons {
+    padding-top: rem-calc(40px);
+  }
+}

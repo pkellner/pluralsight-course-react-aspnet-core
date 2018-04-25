@@ -1,0 +1,49 @@
+$size: rem-calc(20px);
+$size-big: rem-calc(25px);
+
+.square-icon {
+  width: $size;
+  height: $size;
+  line-height: $size;
+  text-align: center;
+  font-size: rem-calc(12px);
+  display: inline-block;
+  border-top-right-radius: rem-calc(8px);
+  border-bottom-left-radius: rem-calc(8px);
+
+  &--primary {
+    background-color: $color-contrast-1;
+    color: $color-main-light;
+  }
+
+  &--secondary {
+    background-color: $color-contrast-2;
+    color: $color-main-light;
+  }
+
+  &--bigger {
+    width: $size-big;
+    height: $size-big;
+    line-height: $size-big;
+  }
+
+  &--twitter {
+    background-color: $color-twitter;
+    color: $color-main-light;
+  }
+
+  &--facebook {
+    background-color: $color-facebook;
+    color: $color-main-light;
+  }
+
+  &--linkedin {
+    background-color: $color-linkedin;
+    color: $color-main-light;
+  }
+
+  &--googleplus {
+    background-color: $color-google-plus;
+    color: $color-main-light;
+  }
+}

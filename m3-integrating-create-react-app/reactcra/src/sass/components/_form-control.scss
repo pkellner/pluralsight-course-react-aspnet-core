@@ -1,0 +1,38 @@
+// Bootstrap .form-control extends
+
+.form-control {
+  font-size: rem-calc(16px);
+  border-radius: 0;
+  border-top-right-radius: rem-calc(15px);
+  border-bottom-left-radius: rem-calc(15px);
+  padding: rem-calc(10px) rem-calc(15px);
+  outline: none;
+
+  &.is-invalid {
+    border-color: $brand-danger;
+  }
+
+  &--icon {
+    padding-right: rem-calc(56px);
+  }
+
+  &--select {
+    height: 42px;
+  }
+
+  & ~ .input-group-addon {
+    transition: border-color 0.2s;
+  }
+
+  &:focus ~ .input-group-addon {
+    border-color: $input-border-focus;
+  }
+}
+
+.form-control--icon ~ .form-control__icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 30px;
+  color: $color-silver-sand;
+}

@@ -1,0 +1,194 @@
+.jumbo-home {
+  height: rem-calc(400px);
+  background-image: url('#{set-path($cdn-path)}/images/lead-bg.jpg');
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+
+  @media screen and (max-width: 420px) {
+    background-image: none;
+    background-color: $color-main-dark;
+  }
+
+  .container-main,
+  .row {
+    height: 100%;
+  }
+
+  &__news {
+    padding-left: rem-calc(30px);
+    position: relative;
+
+    &__timer-mobile {
+      display: block;
+    }
+
+    &__category {
+      color: $color-contrast-1;
+      font-size: rem-calc(18px);
+      font-family: $font-headers;
+      text-transform: uppercase;
+      line-height: 1;
+      padding-bottom: rem-calc(15px);
+
+      @media screen and (max-width: 347px) {
+        font-size: rem-calc(14px);
+      }
+    }
+
+    &__title {
+      position: relative;
+      color: $color-main-light;
+      font-size: rem-calc(36px);
+      font-family: $font-headers;
+      text-transform: uppercase;
+      line-height: 1.2;
+      margin-bottom: rem-calc(10px);
+
+      @media screen and (max-width: 746px) {
+        font-size: rem-calc(26px);
+      }
+
+      @media screen and (max-width: 555px) {
+        font-size: rem-calc(22px);
+      }
+
+      @media screen and (max-width: 347px) {
+        font-size: rem-calc(16px);
+      }
+
+      &::before {
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: rem-calc(-35px);
+        top: rem-calc(10px);
+        width: rem-calc(12px);
+        height: rem-calc(13px);
+        background-image: url('#{set-path($cdn-path)}/images/timeline-icon-transparent.png');
+        background-size: 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+      }
+    }
+
+    &__date-place {
+      font-family: $font-headers-light;
+      font-size: rem-calc(18px);
+      color: $color-main-light;
+      margin-bottom: rem-calc(20px);
+
+      @media screen and (max-width: 555px) {
+        font-size: rem-calc(16px);
+      }
+
+      @media screen and (max-width: 347px) {
+        font-size: rem-calc(14px);
+      }
+
+      .date {
+        font-family: $font-headers;
+      }
+    }
+
+    &__description {
+      font-family: $font-content;
+      color: $color-main-light;
+      font-size: rem-calc(17px);
+      line-height: 1.3;
+      margin-bottom: rem-calc(30px);
+
+      @media screen and (max-width: 555px) {
+        font-size: rem-calc(15px);
+      }
+    }
+
+    &__buttons {
+      .btn {
+        margin-right: rem-calc(15px);
+
+        &:last-child {
+          margin-right: 0;
+        }
+
+        @media screen and (max-width: 347px) {
+          width: 100%;
+          margin-bottom: rem-calc(10px);
+        }
+      }
+    }
+
+    &::before {
+      content: ' ';
+      display: block;
+      position: absolute;
+      left: 0;
+      top: rem-calc(55px);
+      width: 2px;
+      background-color: $color-borders;
+      height: 100%;
+
+      @media screen and (max-width: 992px) {
+        height: 110%;
+      }
+    }
+  }
+
+  &__timer {
+    position: relative;
+    background-color: rgba($color-main-dark, 0.361);
+    color: $color-main-light;
+    padding: rem-calc(15px) rem-calc(35px);
+    font-size: rem-calc(21px);
+    font-family: $font-headers-light;
+    width: 100%;
+    border-top-right-radius: rem-calc(15px);
+    border-bottom-left-radius: rem-calc(15px);
+
+    &::before {
+      content: ' ';
+      position: absolute;
+      top: rem-calc(-10px);
+      left: rem-calc(-10px);
+      display: block;
+      width: 101%;
+      height: 103%;
+      border: 2px solid $color-main-light;
+      border-top-right-radius: rem-calc(15px);
+      border-bottom-left-radius: rem-calc(15px);
+      background-color: transparent;
+    }
+
+    &__time {
+      .number {
+        font-size: rem-calc(52px);
+      }
+
+      .separator {
+        font-size: rem-calc(30px);
+        padding-left: rem-calc(20px);
+        padding-right: rem-calc(20px);
+      }
+
+      .separator,
+      .number {
+        vertical-align: middle;
+      }
+    }
+
+    &__labels {
+      font-size: rem-calc(22px);
+    }
+
+    &__label {
+      margin-bottom: rem-calc(5px);
+    }
+
+    &__labels,
+    &__time {
+      text-align: center;
+      line-height: 1.2;
+      font-family: $font-headers;
+    }
+  }
+}

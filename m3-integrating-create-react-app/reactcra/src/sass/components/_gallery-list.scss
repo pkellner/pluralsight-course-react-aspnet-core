@@ -1,0 +1,12 @@
+.gallery-list {
+  margin-top: 3em;
+}
+
+.gallery-list__title {
+  font-size: rem-calc(21px);
+  font-family: $font-headers;
+  color: lighten($color-main-dark, 20%);
+  text-transform: uppercase;
+  margin: 0;
+  padding-bottom: rem-calc(10px);
+}

@@ -1,0 +1,130 @@
+
+// custom settings and mixins
+@import 'settings';
+@import 'mixins';
+
+// ==========================
+// Bootstrap imports
+// ==========================
+
+// Import all from Bootstrap
+// @import 'bootstrap/scss/bootstrap';
+
+// ...or just chosen parts of Bootstrap
+// it is better to remove unused parts
+
+// Core variables and mixins
+@import 'bootstrap/scss/variables';
+@import 'bootstrap/scss/mixins';
+@import 'bootstrap/scss/custom';
+
+// Reset and dependencies
+@import 'bootstrap/scss/normalize';
+@import 'bootstrap/scss/print';
+
+// Icons
+@import "font-awesome/scss/font-awesome";
+
+// Core CSS
+@import 'fonts';
+@import 'bootstrap/scss/reboot';
+@import 'bootstrap/scss/type';
+@import 'bootstrap/scss/images';
+@import 'bootstrap/scss/code';
+@import 'bootstrap/scss/grid';
+@import 'bootstrap/scss/tables';
+@import 'bootstrap/scss/forms';
+@import 'bootstrap/scss/buttons';
+
+// Components
+@import 'bootstrap/scss/transitions';
+@import 'bootstrap/scss/dropdown';
+@import 'bootstrap/scss/button-group';
+@import 'bootstrap/scss/input-group';
+@import 'bootstrap/scss/custom-forms';
+@import 'bootstrap/scss/nav';
+@import 'bootstrap/scss/navbar';
+@import 'bootstrap/scss/card';
+@import 'bootstrap/scss/breadcrumb';
+@import 'bootstrap/scss/pagination';
+@import 'bootstrap/scss/badge';
+@import 'bootstrap/scss/jumbotron';
+@import 'bootstrap/scss/alert';
+@import 'bootstrap/scss/progress';
+@import 'bootstrap/scss/media';
+@import 'bootstrap/scss/list-group';
+@import 'bootstrap/scss/responsive-embed';
+@import 'bootstrap/scss/close';
+
+// Components w/ JavaScript
+@import 'bootstrap/scss/modal';
+@import 'bootstrap/scss/tooltip';
+@import 'bootstrap/scss/popover';
+@import 'bootstrap/scss/carousel';
+
+// Utility classes
+@import 'bootstrap/scss/utilities';
+
+// ==========================
+// Custom imports
+// ==========================
+
+// Global custom styles
+@import 'global-styles';
+
+// Components
+@import 'components/buttons';
+@import 'components/col-form-label';
+@import 'components/form-control';
+@import 'components/form-check-input';
+@import 'components/dropdowns';
+@import 'components/icons';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/jumbo-home';
+@import 'components/jumbo-events';
+@import 'components/news-item';
+@import 'components/events-item';
+@import 'components/newsletter-block';
+@import 'components/supporter-block';
+@import 'components/login-modal';
+@import 'components/filter-bar';
+@import 'components/speakers-carousel';
+@import 'components/events-info-block';
+@import 'components/events-sponsors';
+@import 'components/events-sessions-list';
+@import 'components/events-sessions-list-speaker';
+@import 'components/jumbo-common';
+@import 'components/jumbo-session';
+@import 'components/custom-dropdown';
+@import 'components/sponsors';
+@import 'components/speakers';
+@import 'components/speaker';
+@import 'components/news-title';
+@import 'components/news-filters';
+@import 'components/news-list';
+@import 'components/news-tile';
+@import 'components/rect-social';
+@import 'components/article-excerpt';
+@import 'components/gallery-list';
+@import 'components/session-details';
+@import 'components/registration';
+@import 'components/generic-content';
+@import 'components/pop-up';
+@import 'components/heading';
+@import 'components/video-player';
+@import 'components/sidebar';
+@import 'components/portrait';
+@import 'components/image-overlay';
+@import 'components/social-button';
+@import 'components/small-text';
+@import 'components/custom-select';
+@import 'components/input-group';
+@import 'components/custom-table';
+@import 'components/custom-pagination';
+
+// Pages
+@import 'pages/home';
+@import 'pages/events';
+
+@import 'utilities/color';

@@ -1,0 +1,104 @@
+// Bootstrap .btn extends
+
+.btn {
+  font-family: $font-headers-light;
+  font-size: rem-calc(16px);
+  text-transform: uppercase;
+  border: none;
+  border-radius: 0;
+  border-top-right-radius: rem-calc(15px);
+  border-bottom-left-radius: rem-calc(15px);
+  padding: rem-calc(10px) rem-calc(25px);
+  outline: none;
+  cursor: pointer;
+  max-width: 100%;
+
+  &:active, &:focus, &:hover {
+    color: $color-main-light;
+  }
+
+  &-reversed-borders {
+    border-bottom-right-radius: rem-calc(15px);
+    border-top-left-radius: rem-calc(15px);
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+
+  &.is-active {
+    color: $color-contrast-1;
+  }
+}
+
+.btn-silver-sand {
+  background: $color-silver-sand;
+}
+
+.btn-anti-flash-white {
+  color: $color-main-dark;
+  background: $color-anti-flash-white;
+}
+
+.btn-block-margin {
+  margin-bottom: rem-calc(15px);
+  display: block;
+  width: 100%;
+}
+
+
+.btn__icon {
+  margin-left: -0.7rem;
+  margin-right: 0.5rem;
+}
+
+.social-btn {
+  border: none;
+  outline: none;
+  display: block;
+  width: rem-calc(120px);
+  height: rem-calc(38px);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  margin-right: rem-calc(25px);
+  margin-bottom: rem-calc(15px);
+
+  &.twitter {
+    background-image: url('#{set-path($cdn-path)}/images/twitter-btn.png');
+  }
+
+  &.facebook {
+    background-image: url('#{set-path($cdn-path)}/images/facebook-btn.png');
+  }
+
+  &.microsoft {
+    background-image: url('#{set-path($cdn-path)}/images/microsoft-btn.png');
+  }
+
+  &.google {
+    background-image: url('#{set-path($cdn-path)}/images/google-btn.png');
+  }
+}
+
+.btn-white {
+  background-color: $btn-white-bg;
+  color: $btn-white-color;
+
+  &--bordered {
+    border: 1px solid $color-borders;
+  }
+
+  &:active, &:hover, &:focus {
+    color: $btn-white-color;
+    box-shadow: none;
+  }
+}
+
+.btn-link {
+  border: 0;
+  color: inherit;
+
+  &:active, &:focus, &:hover {
+    color: inherit;
+    text-decoration: none;
+    box-shadow: none;
+  }
+}

@@ -1,0 +1,34 @@
+.custom-dropdown {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 90%);
+  display: none;
+  width: rem-calc(500px);
+  max-width: 100%;
+  border: 1px solid $color-borders;
+  background-color: $color-main-light;
+  padding: rem-calc(20px);
+
+  &::before {
+    position: absolute;
+    top: 0;
+    left: rem-calc(30px);
+    transform: translateY(-100%);
+    content: ' ';
+    display: block;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 15px solid $color-borders;
+  }
+
+  &.active {
+    display: block;
+  }
+}
+
+.custom-dropdown-container {
+  position: relative;
+}

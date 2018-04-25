@@ -1,0 +1,50 @@
+.article-excerpt {
+  position: relative;
+  padding-bottom: 0.5em;
+  color: $color-article-text;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+    right: 5px;
+    height: 1px;
+    background: $color-borders;
+  }
+
+  & + & {
+    margin-top: 1.5em;
+  }
+}
+
+.article-excerpt__title {
+  color: $color-main-dark;
+  font-size: rem-calc(18px);
+  text-transform: uppercase;
+  margin-bottom: 0.2em;
+}
+
+.article-excerpt__date,
+.article-excerpt__text {
+  font-size: rem-calc(16px);
+}
+
+.article-excerpt__date {
+  display: block;
+  margin-bottom: 1em;
+}
+
+.article-excerpt__text {
+  margin-bottom: 1rem;
+  line-height: 1.1875;
+}
+
+.article-excerpt__col {
+  text-align: center;
+
+  @include media-breakpoint-down(sm) {
+    margin-bottom: 1rem;
+  }
+}
+

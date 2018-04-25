@@ -1,0 +1,158 @@
+.jumbo-common {
+  background-image: url('#{set-path($cdn-path)}/images/events-jumbo-bg.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  padding-top: rem-calc(45px);
+  padding-bottom: rem-calc(45px);
+
+  & + & {
+    margin-top: 1em;
+  }
+
+  &--registration {
+    .jumbo-common__content {
+      padding-left: rem-calc(30px);
+      padding-bottom: rem-calc(25 px);
+
+      &::before {
+        left: rem-calc(5px);
+      }
+    }
+
+    .jumbo-common__title::before {
+      left: rem-calc(-30px);
+    }
+  }
+
+  &--news,
+  &--registration {
+    height: auto;
+    padding: 0;
+    padding-top: rem-calc(45px);
+
+    .jumbo-common__content {
+      padding-bottom: rem-calc(20px);
+
+      &::before {
+        height: auto;
+        bottom: 0;
+      }
+    }
+  }
+
+  &--speaker {
+    height: rem-calc(195px);
+
+    .jumbo-common__content {
+      &::before {
+        height: 110px;
+
+        @include media-breakpoint-down(xs) {
+          height: 120px;
+        }
+      }
+    }
+  }
+
+  &--margin-bottom {
+    margin-bottom: rem-calc(40px);
+  }
+}
+
+.jumbo-common__title,
+.jumbo-common__tip {
+  font-size: rem-calc(36px);
+  color: $color-main-light;
+  font-family: $font-headers;
+  text-transform: uppercase;
+  line-height: 1;
+
+  @media screen and (max-width: 950px) {
+    font-size: rem-calc(26px);
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: rem-calc(20px);
+  }
+}
+
+.jumbo-common__title {
+  position: relative;
+
+  &::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: rem-calc(-35px);
+    top: rem-calc(10px);
+    width: rem-calc(12px);
+    height: rem-calc(13px);
+    background-image: url('#{set-path($cdn-path)}/images/timeline-icon-transparent.png');
+    background-size: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+  }
+
+  &--no-icon::before {
+    display: none;
+  }
+}
+
+.jumbo-common__tip {
+  margin-bottom: rem-calc(25px);
+  font-size: rem-calc(16px);
+}
+
+.jumbo-common__content {
+  padding-left: rem-calc(47px);
+  position: relative;
+
+  &::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: rem-calc(17px);
+    top: rem-calc(22px);
+    width: 2px;
+    background-color: $color-borders;
+    bottom: rem-calc(-45px);
+  }
+}
+
+.jumbo-common__buttons {
+  margin-top: rem-calc(30px);
+
+  @include media-breakpoint-down(xs) {
+    margin-bottom: 1em;
+  }
+
+  .dropdown,
+  .btn {
+    display: inline-block;
+
+    & + .dropdown,
+    & + .btn {
+      margin-left: rem-calc(15px);
+    }
+
+    @media screen and (max-width: 608px) {
+      margin-bottom: rem-calc(5px);
+    }
+
+    @media screen and (max-width: 700px) {
+      font-size: rem-calc(13px);
+    }
+  }
+}
+
+.jumbo-common__desc {
+  line-height: 1.2;
+  color: $color-main-light;
+  font-size: rem-calc(18px);
+  margin-top: rem-calc(25px);
+
+  @media screen and (max-width: 950px) {
+    font-size: rem-calc(16px);
+  }
+}

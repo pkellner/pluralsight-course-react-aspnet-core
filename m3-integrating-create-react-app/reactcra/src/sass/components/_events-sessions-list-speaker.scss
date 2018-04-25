@@ -1,0 +1,47 @@
+.events-speaker-description {
+  .name {
+    font-size: rem-calc(18px);
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1;
+    color: $color-contrast-1;
+    margin-bottom: rem-calc(15px);
+
+    > a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: none;
+      }
+
+      &:first-child {
+        margin-left: rem-calc(10px);
+      }
+    }
+  }
+
+  .profession {
+    font-size: rem-calc(16px);
+    color: lighten($color-main-dark, 11%);
+    line-height: 1;
+    font-weight: 600;
+  }
+}
+
+.events-speaker-photo {
+  margin-right: rem-calc(15px);
+
+  img {
+    width: rem-calc(70px);
+    border-top-left-radius: rem-calc(6px);
+    border-bottom-right-radius: rem-calc(6px);
+  }
+}
+
+.events-speaker {
+  margin-bottom: rem-calc(20px);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

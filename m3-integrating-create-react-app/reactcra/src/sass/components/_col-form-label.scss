@@ -1,0 +1,32 @@
+// Bootstrap .col-form-label extends
+
+.col-form-label--large {
+  font-size: rem-calc(18px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  line-height: 1.2;
+}
+
+.col-form-label--large-right {
+  font-size: rem-calc(18px);
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  justify-content: flex-end;
+  line-height: 1.2;
+
+  @include media-breakpoint-down(xs) {
+    margin-bottom: 0.5em;
+    justify-content: flex-start;
+    padding-left: $grid-gutter-width-base / 2;
+    padding-right: $grid-gutter-width-base / 2;
+  }
+}
+
+.col-form-label__required::after {
+  content: '*';
+  color: $color-contrast-1;
+  font-weight: normal;
+}

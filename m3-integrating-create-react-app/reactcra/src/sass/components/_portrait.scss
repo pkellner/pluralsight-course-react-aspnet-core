@@ -1,0 +1,27 @@
+.portrait {
+  display: inline-block;
+  width: 140px;
+
+  & + & {
+    margin-left: rem-calc(15px);
+  }
+
+  &--medium {
+    width: 115px;
+  }
+
+  &--thumbnail {
+    width: 70px;
+  }
+}
+
+.portrait__caption {
+  margin-bottom: rem-calc(5px);
+  font-weight: bold;
+}
+
+.portrait__image {
+  display: block;
+  width: 100%;
+  border-radius: 10px 0 10px;
+}

@@ -1,0 +1,31 @@
+.newsletter-block {
+  background-color: $color-grey-section-bg;
+  padding-top: rem-calc(40px);
+  padding-bottom: rem-calc(40px);
+  text-align: center;
+
+  &__title {
+    font-family: $font-headers;
+    font-size: rem-calc(21px);
+    margin-bottom: rem-calc(20px);
+    color: lighten($color-main-dark, 20%);
+    text-transform: uppercase;
+    line-height: 1.3;
+  }
+
+  &__form {
+    form {
+      justify-content: center;
+
+      input[type=text] {
+        min-width: rem-calc(270px);
+        width: auto;
+        margin-right: rem-calc(5px);
+
+        @media screen and (max-width: 376px) {
+          margin-bottom: rem-calc(10px);
+        }
+      }
+    }
+  }
+}

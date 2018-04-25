@@ -1,0 +1,90 @@
+.events {
+  padding: rem-calc(50px) 0;
+
+  @include media-breakpoint-down(xs) {
+    padding-top: 1em;
+  }
+
+  &__header {
+    @include media-breakpoint-down(md) {
+      padding: 0 $grid-gutter-width-base / 2 1em;
+    }
+
+    &__title {
+      font-size: rem-calc(28px);
+      font-family: $font-headers;
+      color: lighten($color-main-dark, 20%);
+      text-transform: uppercase;
+      padding-left: rem-calc(40px);
+
+      &::before {
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: rem-calc(30px);
+        top: rem-calc(-25px);
+        width: 2px;
+        background-color: $color-borders;
+        height: rem-calc(37px);
+
+        @include media-breakpoint-down(xs) {
+          display: none;
+        }
+      }
+
+      &::after {
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: rem-calc(25px);
+        top: rem-calc(10px);
+        width: rem-calc(12px);
+        height: rem-calc(13px);
+        background-image: url('#{set-path($cdn-path)}/images/timeline-icon-transparent.png');
+        background-size: 100%;
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+
+        @include media-breakpoint-down(xs) {
+          display: none;
+        }
+      }
+    }
+
+    &__video-link {
+      font-family: $font-headers;
+      color: $color-contrast-1;
+      text-transform: uppercase;
+    }
+  }
+
+  &::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: calc(33.33333% - 17px);
+    top: 0;
+    width: 2px;
+    background-color: $color-borders;
+    height: rem-calc(27px);
+
+    @include media-breakpoint-down(xs) {
+      display: none;
+    }
+  }
+
+  &::after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: rem-calc(15px);
+    top: rem-calc(25px);
+    width: calc(33.33333% - 32px);
+    background-color: $color-borders;
+    height: 2px;
+
+    @include media-breakpoint-down(xs) {
+      display: none;
+    }
+  }
+}

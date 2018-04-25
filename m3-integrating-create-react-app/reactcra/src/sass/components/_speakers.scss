@@ -1,0 +1,106 @@
+.speakers-title {
+  font-size: rem-calc(28px);
+  font-family: $font-headers;
+  color: lighten($color-main-dark, 20%);
+  text-transform: uppercase;
+  padding-left: rem-calc(40px);
+  padding-top: rem-calc(45px);
+  padding-bottom: rem-calc(10px);
+  position: relative;
+  border-bottom: 1px solid $color-borders;
+
+  &::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 12px;
+    top: 68%;
+    transform: translateY(-80%);
+    width: rem-calc(12px);
+    height: rem-calc(13px);
+    background-image: url('#{set-path($cdn-path)}/images/timeline-icon-transparent.png');
+    background-size: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+  }
+
+  &::after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: rem-calc(17px);
+    top: rem-calc(-45px);
+    width: 2px;
+    background-color: $color-borders;
+    bottom: rem-calc(40px);
+  }
+}
+
+.speakers-filters {
+  float: right;
+  @include clearfix;
+
+  @include media-breakpoint-down(sm) {
+    width: calc(100% + 45px);
+  }
+
+  .dropdown,
+  .filter-bar__search {
+    float: right;
+  }
+
+  .dropdown {
+    width: 180px;
+    max-width: 100%;
+    flex: 1;
+
+    .dropdown-menu,
+    .btn {
+      font-family: $font-content;
+      font-size: 16px;
+      text-transform: none;
+    }
+  }
+
+  .filter-bar__search {
+    width: 320px;
+    max-width: 100%;
+
+    > input {
+      width: 100%;
+    }
+  }
+}
+
+.speakers-list-item {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid $color-borders;
+}
+
+.speakers-session-details {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #f5f9fa;
+}
+
+.speakers-session-title {
+  font-size: rem-calc(18px);
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1;
+  width: 50%;
+}
+
+.speakers-session-title,
+.speakers-session-date,
+.speakers-session-dropdown {
+  float: left;
+}
+
+.speakers-session-date,
+.speakers-session-dropdown {
+  width: 25%;
+}

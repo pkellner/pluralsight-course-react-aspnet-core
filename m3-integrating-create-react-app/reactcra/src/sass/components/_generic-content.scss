@@ -1,0 +1,90 @@
+.generic-content {
+  margin-bottom: 2em;
+
+  &--no-margin-bottom {
+    margin-bottom: 0;
+  }
+
+  h2, h3 {
+    margin: 1em 0;
+    text-transform: uppercase;
+    font-weight: normal;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  h2 {
+    font-size: rem-calc(28px);
+  }
+
+  h3 {
+    font-size: rem-calc(21px);
+  }
+
+  p {
+    margin-bottom: 1em;
+    line-height: 1.1875;
+  }
+
+  ol {
+    counter-reset: generic-ordered-list;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      position: relative;
+      counter-increment: generic-ordered-list;
+      padding-left: rem-calc(40px);
+      margin-bottom: rem-calc(15px);
+
+      &::before {
+        content: counter(generic-ordered-list);
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 24px;
+        height: 25px;
+        text-align: center;
+        line-height: 25px;
+        background: $color-contrast-1;
+        color: white;
+        border-radius: 0 10px;
+        font-family: $font-headers;
+        font-size: 16px;
+        font-weight: normal;
+      }
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      position: relative;
+
+      padding-left: rem-calc(20px);
+      margin-bottom: rem-calc(15px);
+
+      &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0.5em;
+        width: 7px;
+        height: 7px;
+        line-height: 25px;
+        background: $color-contrast-1;
+        border-radius: 0 3px;
+      }
+    }
+  }
+
+  .btn + .btn {
+    margin-left: rem-calc(15px);
+  }
+}

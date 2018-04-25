@@ -1,0 +1,37 @@
+.news-filters {
+  float: right;
+  @include clearfix;
+
+  .dropdown {
+    float: right;
+    width: 320px;
+    flex: 1;
+
+    @include media-breakpoint-down(sm) {
+      position: absolute;
+      top: calc(100% + 10px);
+      width: 100%;
+      left: 0;
+    }
+  }
+
+  .dropdown-menu,
+  .btn {
+    font-family: $font-content;
+    font-size: 16px;
+    text-transform: none;
+  }
+
+  .dropdown-toggle {
+    text-align: left;
+    display: block;
+    width: 100%;
+
+    &::after {
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  }
+}

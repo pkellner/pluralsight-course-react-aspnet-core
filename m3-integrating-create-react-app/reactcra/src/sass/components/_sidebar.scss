@@ -1,0 +1,27 @@
+.sidebar {
+  position: relative;
+
+  @include media-breakpoint-up(md) {
+    padding-left: rem-calc(85px);
+  }
+
+  &::before {
+    display: none;
+    content: "";
+    position: absolute;
+    left: rem-calc(50px);
+    width: 1px;
+    height: 100%;
+    background: $color-anti-flash-white;
+
+    @include media-breakpoint-up(md) {
+      display: block;
+    }
+  }
+}
+
+.sidebar__image {
+  margin-bottom: 2em;
+  display: block;
+  width: 100%;
+}

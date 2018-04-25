@@ -1,0 +1,16 @@
+.dropdown {
+  .dropdown__label--registered {
+    color: $color-contrast-2;
+  }
+
+  .dropdown__label--interested {
+    color: $color-contrast-3;
+  }
+
+  .dropdown-toggle::after {
+    color: $color-borders;
+    border-top: 0.5em solid;
+    border-right: 0.4em solid transparent;
+    border-left: 0.4em solid transparent;
+  }
+}

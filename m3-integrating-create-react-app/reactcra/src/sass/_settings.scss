@@ -1,0 +1,103 @@
+// CDN path setup (optional)
+// example: https://d2qdiycv16sgrp.cloudfront.net (without slash at the end)
+
+// stylelint-disable block-closing-brace-newline-after
+// stylelint-disable value-list-comma-space-after
+
+$cdn-path: '';
+
+// needed for CDN optional configuration
+// if there is $cdn-path it will be used, if not the path will get '..'
+@function set-path($cdn-path) {
+  @if ($cdn-path != '') {
+    @return $cdn-path;
+  } @else {
+    @return 'sassAssets';
+  }
+}
+
+// global settings and Bootstrap overwrites
+$font-headers: 'Handel Gothic', sans-serif;
+$font-headers-light: 'Handel Gothic d-light', sans-serif;
+$font-content: 'PT Sans', sans-serif;
+
+// Bootstrap font settings
+$font-family-base: $font-content;
+$headings-font-family: $font-headers;
+
+// =====
+// Sizes
+// =====
+
+$size-max-container-width: 960px;
+
+// Bootstrap headings settings
+$font-size-h1: rem-calc(36);
+$font-size-h2: rem-calc(30);
+$font-size-h3: rem-calc(28);
+$font-size-h4: rem-calc(24);
+$font-size-h5: rem-calc(21);
+$font-size-h6: rem-calc(18);
+
+// ======
+// Colors
+// ======
+
+$color-main-dark: #00FF00;
+$color-main-light: #FFFFFF;
+$color-contrast-1: #25aae2;
+$color-contrast-2: #3ab54b;
+$color-contrast-3: #f7941d;
+$color-contrast-4: #92278f;
+$color-menu-hover-bg: #f2f4f5;
+$color-grey-section-bg: #f1f6f8;
+$color-borders: #cbd6da;
+$color-silver-sand: #BCBBBB;
+$color-anti-flash-white: #F2F5F7;
+$color-chathams-blue: #095170;
+$color-catskill-white: #F5F9FA;
+
+
+$color-facebook: #0f5c98;
+$color-twitter: #25a5db;
+$color-linkedin: #237199;
+$color-google-plus: #db4437;
+$color-microsoft: #E2DDDD;
+$color-microsoft-red: #F15022;
+$color-microsoft-green: #7FBA22;
+$color-microsoft-blue: #1BA3EF;
+$color-microsoft-yellow: #FCB82A;
+
+$color-galliano: #e4a607;
+$color-catskill-white: #f1f6f9;
+
+$color-article-text: #5a5b5b;
+
+// Bootstrap main colors settings
+$brand-primary: $color-contrast-1;
+$brand-success: $color-contrast-2;
+$brand-info: $color-contrast-1;
+$brand-warning: $color-contrast-3;
+$brand-danger: #d1493c;
+
+// ======
+// Buttons
+// ======
+
+// Bootstrap main colors settings
+$btn-primary-color: $color-main-light;
+$btn-primary-bg: $color-contrast-1;
+$btn-secondary-color: $color-main-light;
+$btn-secondary-bg: $color-contrast-2;
+$btn-white-color: $color-main-dark;
+$btn-white-bg: $color-main-light;
+
+// ======
+// Dropdowns
+// ======
+
+// Bootstrap dropdowns settings
+$dropdown-min-width: 100%;
+
+// Font-awesome
+$fa-font-path: '#{set-path($cdn-path)}/fonts/';

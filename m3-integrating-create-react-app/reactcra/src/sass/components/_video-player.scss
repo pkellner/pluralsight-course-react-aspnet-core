@@ -1,0 +1,25 @@
+.video-player {
+  margin-bottom: 2em;
+}
+
+.video-player__video {
+  margin-bottom: rem-calc(30px);
+  width: 100%;
+  display: block;
+}
+
+.video-player__thumb-video {
+  width: 100%;
+}
+
+.video-player__title {
+  font-weight: bold;
+  font-size: rem-calc(16px);
+  font-family: $font-family-base;
+  margin: 0;
+}
+
+.video-player__description {
+  font-size: rem-calc(16px);
+  line-height: 1.25;
+}

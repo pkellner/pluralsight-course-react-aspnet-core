@@ -1,0 +1,131 @@
+.speakers-carousel {
+  &__title {
+    font-family: $font-headers;
+    color: lighten($color-main-dark, 20%);
+    font-size: rem-calc(28px);
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+    margin-top: rem-calc(100px);
+    margin-bottom: rem-calc(45px);
+  }
+
+  .carousel {
+    width: 100%;
+
+    @include media-breakpoint-up(sm) {
+      padding: 0 rem-calc(86px);
+    }
+  }
+
+  .carousel-inner {
+    .row {
+      width: 100%;
+      margin: 0;
+    }
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+    display: none;
+    background-color: $color-grey-section-bg;
+    width: rem-calc(60px);
+    height: rem-calc(60px);
+    line-height: rem-calc(60px);
+    text-align: center;
+    top: 50%;
+    transform: translateY(-100%);
+
+    @include media-breakpoint-up(sm) {
+      display: block;
+    }
+
+    .fa {
+      color: lighten($color-main-dark, 50%);
+      font-size: rem-calc(62px);
+    }
+  }
+
+  .carousel-control-next {
+    border-top-right-radius: rem-calc(15px);
+    border-bottom-left-radius: rem-calc(15px);
+  }
+
+  .carousel-control-prev {
+    border-top-left-radius: rem-calc(15px);
+    border-bottom-right-radius: rem-calc(15px);
+  }
+
+  .carousel-indicators {
+    position: relative;
+    bottom: 0;
+    margin: rem-calc(35px) 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      max-width: rem-calc(20px);
+      height: rem-calc(20px);
+      border-top-right-radius: rem-calc(7px);
+      border-bottom-left-radius: rem-calc(7px);
+      border: 2px solid $color-borders;
+
+      &.active {
+        background-color: $color-contrast-1;
+        border: 2px solid $color-contrast-1;
+      }
+    }
+  }
+
+  .carousel-speaker-block {
+    margin-top: rem-calc(40px);
+
+    .speaker-photo {
+      display: block;
+      position: relative;
+      margin-right: rem-calc(25px);
+
+      img {
+        position: relative;
+        border-top-left-radius: rem-calc(15px);
+        border-bottom-right-radius: rem-calc(15px);
+        width: rem-calc(115px);
+        height: rem-calc(115px);
+        z-index: 2;
+      }
+
+      &::after {
+        z-index: 1;
+        content: ' ';
+        position: absolute;
+        width: rem-calc(115px);
+        height: rem-calc(115px);
+        top: rem-calc(-15px);
+        left: rem-calc(-15px);
+        border-top-left-radius: rem-calc(15px);
+        border-bottom-right-radius: rem-calc(15px);
+        border: 2px solid $color-borders;
+      }
+
+      @media screen and (max-width: 768px) {
+        margin-bottom: rem-calc(15px);
+      }
+    }
+
+    .speaker-name {
+      font-size: rem-calc(18px);
+      color: lighten($color-main-dark, 20%);
+      font-family: $font-headers;
+      text-transform: uppercase;
+      line-height: 1.2;
+    }
+
+    .speaker-position,
+    .speaker-company {
+      font-size: rem-calc(18px);
+      font-family: $font-content;
+      color: lighten($color-main-dark, 20%);
+      line-height: 1;
+    }
+  }
+}

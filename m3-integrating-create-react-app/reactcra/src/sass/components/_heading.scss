@@ -1,0 +1,27 @@
+.heading {
+  &--h2, &--h3, &--h4 {
+    margin: 1em 0;
+    text-transform: uppercase;
+    font-weight: normal;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  &--h2 {
+    font-size: rem-calc(28px);
+  }
+
+  &--h3 {
+    font-size: rem-calc(21px);
+  }
+
+  &--h4 {
+    font-size: rem-calc(18px);
+  }
+
+  &--no-margins {
+    margin: 0;
+  }
+}

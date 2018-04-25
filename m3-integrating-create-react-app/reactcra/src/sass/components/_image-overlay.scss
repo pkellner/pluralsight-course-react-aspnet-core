@@ -1,0 +1,47 @@
+.image-overlay {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  color: $color-main-light;
+  padding: rem-calc(30px) rem-calc(20px) rem-calc(15px);
+
+  &::before {
+    content: "";
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: $color-chathams-blue;
+    opacity: 0.9;
+  }
+}
+
+.image-overlay__image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  min-width: 100%;
+  min-height: 100%;
+
+  @supports (object-fit: cover) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.image-overlay__title,
+.image-overlay__content {
+  position: relative;
+  z-index: 2;
+}
+
+.image-overlay__title {
+  margin-bottom: 0.1em;
+  font-family: $font-headers;
+  font-size: rem-calc(21px);
+  text-transform: uppercase;
+}
+

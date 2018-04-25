@@ -1,0 +1,93 @@
+.rect-social {
+  transition: opacity 0.2s;
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  margin-left: 8px;
+  width: 44px;
+  height: 47px;
+  line-height: 47px;
+  text-align: center;
+  color: $color-main-light;
+  border-radius: 14px 0;
+  background: $color-borders;
+
+  &--twitter {
+    background: $color-twitter;
+  }
+
+  &--facebook {
+    background: $color-facebook;
+  }
+
+  &--linkedin {
+    background: $color-linkedin;
+  }
+
+  > .fa {
+    position: relative;
+    top: 3px;
+    font-size: 22px;
+  }
+
+  &--medium {
+    width: 35px;
+    height: 38px;
+    line-height: 38px;
+
+    > .fa {
+      font-size: 21px;
+    }
+  }
+
+  &--small {
+    width: 29px;
+    height: 32px;
+    line-height: 32px;
+
+    > .fa {
+      top: 0;
+      font-size: 15px;
+    }
+  }
+
+  &--no-left-margin {
+    margin-left: 0;
+  }
+
+  &:hover {
+    color: $color-main-light;
+    opacity: 0.75;
+  }
+
+  &--mono {
+    transition: background-color 0.2s;
+    background: $color-borders;
+
+    &:hover {
+      opacity: 1;
+
+      &.rect-social--twitter {
+        background: $color-twitter;
+      }
+
+      &.rect-social--facebook {
+        background: $color-facebook;
+      }
+
+      &.rect-social--linkedin {
+        background: $color-linkedin;
+      }
+    }
+  }
+
+  & + & {
+    margin-left: 4px;
+  }
+}
+
+.rect-social__text {
+  position: absolute;
+  left: -999em;
+  top: -999em;
+}

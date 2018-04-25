@@ -1,0 +1,150 @@
+.jumbo-session {
+  background-image: url('#{set-path($cdn-path)}/images/events-jumbo-bg.jpg');
+  background-color: darken($color-contrast-1, 20%);
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  padding-top: rem-calc(45px);
+}
+
+.jumbo-session__title,
+.jumbo-session__tip {
+  font-size: rem-calc(36px);
+  color: $color-main-light;
+  font-family: $font-headers;
+  margin-bottom: rem-calc(25px);
+  text-transform: uppercase;
+  line-height: 1;
+
+  @media screen and (max-width: 950px) {
+    font-size: rem-calc(26px);
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: rem-calc(20px);
+  }
+}
+
+.jumbo-session__title {
+  position: relative;
+
+  &::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    top: rem-calc(10px);
+    left: rem-calc(-35px);
+    width: rem-calc(12px);
+    height: rem-calc(13px);
+    background-image: url('#{set-path($cdn-path)}/images/timeline-icon-transparent.png');
+    background-size: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+
+    @include media-breakpoint-down(xs) {
+      top: rem-calc(2px);
+      left: rem-calc(-20px);
+    }
+  }
+}
+
+.jumbo-session__tip {
+  font-weight: normal;
+  padding-left: rem-calc(20px);
+  font-size: rem-calc(16px);
+}
+
+.jumbo-session__tip-additional {
+  position: relative;
+  padding-left: 0.4em;
+  color: $color-contrast-1;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0.1em;
+    width: 1px;
+    background: $color-contrast-1;
+  }
+}
+
+.jumbo-session__content {
+  padding: 0 0 rem-calc(30px) rem-calc(20px);
+  position: relative;
+
+  &::before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: rem-calc(-10px);
+    top: rem-calc(22px);
+    bottom: 0;
+    width: 2px;
+    background-color: $color-borders;
+
+    @include media-breakpoint-down(xs) {
+      left: rem-calc(5px);
+      top: rem-calc(15px);
+    }
+  }
+}
+
+.jumbo-session__desc {
+  line-height: 1.2;
+  color: $color-main-light;
+  margin-bottom: rem-calc(30px);
+  font-size: rem-calc(18px);
+
+  @media screen and (max-width: 950px) {
+    font-size: rem-calc(16px);
+  }
+}
+
+.jumbo-session__info-container {
+  margin: 3.1em 0 0;
+  text-align: right;
+
+  @include media-breakpoint-down(xs) {
+    margin: 0 0 1em rem-calc(20px);
+    text-align: left;
+  }
+}
+
+.jumbo-session__info-title {
+  line-height: 1.16;
+  text-transform: uppercase;
+  font-size: rem-calc(18px);
+  font-family: $font-headers;
+  color: $color-main-light;
+
+  &--margin-top {
+    margin-top: 1em;
+  }
+}
+
+.jumbo-session__info {
+  line-height: 1.1875;
+  font-size: rem-calc(18px);
+  font-family: $font-content;
+  color: $color-main-light;
+
+  &--smaller {
+    font-size: rem-calc(16px);
+  }
+}
+
+.jumbo-session__info-link {
+  transition: color 0.2s;
+  color: $color-main-light;
+  text-decoration: underline;
+
+  &:hover {
+    color: $color-contrast-3;
+  }
+
+  &--block {
+    display: block;
+  }
+}

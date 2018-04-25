@@ -1,0 +1,12 @@
+// main container custom styles
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.container-main {
+
+  @extend .container-fluid;
+  max-width: $size-max-container-width;
+}

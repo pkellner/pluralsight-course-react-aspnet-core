@@ -1,0 +1,23 @@
+.events-info-block {
+  padding-top: rem-calc(45px);
+  padding-bottom: rem-calc(45px);
+  text-align: center;
+  background-image: url('#{set-path($cdn-path)}/images/supporters-bg.jpg');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+
+  &__title {
+    font-family: $font-headers;
+    font-size: rem-calc(21px);
+    margin-bottom: rem-calc(20px);
+    color: $color-main-light;
+    text-transform: uppercase;
+  }
+
+  &__buttons {
+    .btn {
+      margin-right: rem-calc(10px);
+    }
+  }
+}

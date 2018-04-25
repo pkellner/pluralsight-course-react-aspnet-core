@@ -1,0 +1,103 @@
+.social-button {
+  transition: background-color 0.2s;
+  color: $color-main-light;
+  border-radius: 3px;
+  display: inline-flex;
+  overflow: hidden;
+
+  &:hover,
+  &:focus {
+    color: $color-main-light;
+    text-decoration: none;
+  }
+
+  &--facebook {
+    background: $color-facebook;
+
+    &:hover,
+    &:focus {
+      background: lighten($color-facebook, 5%);
+    }
+  }
+
+  &--google-plus {
+    background: $color-google-plus;
+
+    &:hover,
+    &:focus {
+      background: lighten($color-google-plus, 5%);
+    }
+  }
+
+  &--twitter {
+    background: $color-twitter;
+
+    &:hover,
+    &:focus {
+      background: lighten($color-twitter, 5%);
+    }
+  }
+
+  &--microsoft {
+    color: darken($color-microsoft, 50%);
+    background: $color-microsoft;
+
+    &:hover,
+    &:focus {
+      color: darken($color-microsoft, 50%);
+      background: lighten($color-microsoft, 5%);
+    }
+  }
+}
+
+.social-button__icon-wrapper {
+  width: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba($color-main-dark, 0.1);
+
+  &--microsoft {
+    position: relative;
+    background: rgba($color-main-light, 0.5);
+
+    &::before,
+    &::after,
+    > div::before,
+    > div::after {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 10px;
+      height: 10px;
+      background: $color-microsoft-red;
+    }
+
+    &::before {
+      transform: translate(-100%, -100%);
+    }
+
+    &::after {
+      transform: translate(1px, -100%);
+      background: $color-microsoft-green;
+    }
+
+    > div::after {
+      transform: translate(-100%, 1px);
+      background: $color-microsoft-blue;
+    }
+
+    > div::before {
+      transform: translate(1px, 1px);
+      background: $color-microsoft-yellow;
+    }
+  }
+}
+
+.social-button__text {
+  text-align: center;
+  padding: 9px 10px 8px;
+  font-size: 14px;
+  min-width: 80px;
+}
