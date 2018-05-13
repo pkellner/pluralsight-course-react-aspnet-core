@@ -98,7 +98,16 @@ records in the database.
 | json-server   	| Launches json-server by itself running with a Node Express server in code	|
 
 
+##Configuration File (.env)
 
+In modules 5 and 6, we introduce a configuration file (.env) that let's you specify whether our running in development or production.
+It also let's you set the base URL for the REST endpoint to pick up speakers and sessions.
+
+The two choices for NODE_ENV are development or production.  When set to development, the URL is retrieved from the corresponding environment variable `JSONSERVER_RESTURL` and when in production `PROD_RESTURL`.
+
+By default, they are set to `http://svcc-react1.azurewebsites.net/rest` which happens to be the same ASP.NET Core web site used also in modules 5 and 6 (source code in ../WebApp).
+
+You can see that data actually downloaded by hitting `http://svcc-react1.azurewebsites.net/rest/speakers` and `http://svcc-react1.azurewebsites.net/rest/sessions`.
 
 
 
