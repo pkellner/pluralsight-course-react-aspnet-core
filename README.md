@@ -98,7 +98,8 @@ records in the database.
 | json-server   	| Launches json-server by itself running with a Node Express server in code	|
 
 
-##Configuration File (.env)
+
+## Configuration File (.env)
 
 In modules 5 and 6, we introduce a configuration file (.env) that let's you specify whether our running in development or production.
 It also let's you set the base URL for the REST endpoint to pick up speakers and sessions.
