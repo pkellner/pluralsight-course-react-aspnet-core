@@ -1,7 +1,7 @@
 # pluralsight-course-react-aspnet-core
 The master branch here is the latest updates to the Pluralsight course published by Peter Kellner in May of 2018 (pending) in the master branch
 
-# Course Code for [Building a Website with React and ASP.NET Core](http://www.pluralsight.com/author/cory-house) on Pluralsight
+# Course Code for [Building a Website with React and ASP.NET Core](https://app.pluralsight.com/library/courses/aspdotnet-core-react-building-website) on Pluralsight
 
 This GitHub repo includes the final code for all the modules in the course that develop code. 
 That is modules 2,3,5 and 6.
