@@ -25,8 +25,23 @@ namespace WebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<MyDbContext>
-                (opt => opt.UseInMemoryDatabase("CodeCampInMemoryDb"));
+            // this references "appsettings.json"
+            var connectString = Configuration.
+                GetConnectionString("SvccConnection");
+
+            // if connection string is hardcoded to "inMemory" then uses inMemoryDb
+            if (connectString.Equals("inMemory"))
+            {
+                services.AddDbContext<MyDbContext>
+                    (options =>
+                    options.UseInMemoryDatabase("CodeCampInMemoryDb"));
+            }
+            else
+            {
+                services.AddDbContext<MyDbContext>
+                    (options =>
+                    options.UseSqlServer(connectString));
+            }
 
             services.AddCors(options =>
             {
