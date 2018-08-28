@@ -1,4 +1,4 @@
-#Problems and Fixes Notes (in progress as of 8/28/2018)
+# Problems and Fixes Notes (in progress as of 8/28/2018)
 
 01-Introducing
 02-Learn-The-JavaScript-Build-Tools
