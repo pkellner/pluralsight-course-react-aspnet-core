@@ -4,10 +4,10 @@
 02-Learn-The-JavaScript-Build-Tools
 03-Learn-to-Work-with-webpack
 04-Bring-in-React
-
-Updates in Progress as of 8/28/2018, 01-04 directories in place. Below updates coming
-
 05-Adding-React-Router
+
+Updates in Progress as of 8/28/2018, 01-05 directories in place. Below updates coming
+
 06-Updating-The-Example
 07-Why-you
 08-Splitting-the-WebPack-Config
@@ -29,6 +29,10 @@ Video Suggestions and Issues
 npm install babel-core babel-loader@7 babel-preset-env babel-preset-react babel-preset-stage-2 react react-dom
 
 04 - at 02:20, move JavaScript include to above closing body tag to make work
+
+05 - at 01:20, Before running with out new browser routes, we need to tell the webpack-dev-server to not return 404's on bad routes and simply execute the javascript.  We do this by adding to the webpack config devServer config, historyApiFallback: true.
+
+
 
 
 
