@@ -1,0 +1,20 @@
+{
+  "name": "03-learn-to-work-with-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/HelloWorld.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC"
+}
