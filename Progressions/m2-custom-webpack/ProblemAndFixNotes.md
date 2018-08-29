@@ -1,4 +1,4 @@
-# Problems and Fixes Notes (in progress as of 8/28/2018)
+# Problems and Fixes Notes (8/28/2018, video updates coming soon so this will not be needed)
 
 01-Introducing
 02-Learn-The-JavaScript-Build-Tools
@@ -10,10 +10,6 @@
 08-Splitting-the-WebPack-Config
 09-Implementing-serverside-Rendering
 10-Using-ReactDOM-renderToString
-
-Updates in Progress as of 8/28/2018, 01-06 directories in place. Below updates coming
-
-
 11-Integrating-React-With-ASPNET
 
 Video Suggestions and Issues
@@ -42,8 +38,13 @@ npm install babel-core babel-loader@7 babel-preset-env babel-preset-react babel-
   At 2:04, should not show action event for Route Not Found. That comes in later in SSR.
 
 
-09 - at 0:27.  Because we’ve created a separate client webpack config, let’s change the output to clientbundle.js from just bundle.js.  if you’re coding along with me, make sure to also change the reference to clientbundle.js in the public/index.html file also.  Then later, you’ll wee when we work on webpack.server.js, we’ll create a different bundle called serverbundle.js…
+09 - at 0:27.  Because we’ve created a separate client webpack config, let’s change the output to clientbundle.js from just bundle.js.  if you’re coding along with me, make sure to also change the reference to clientbundle.js in the public/index.html file also.  Then later, you’ll wee when we work on webpack.server.js, we’ll create a different bundle called serverbundle.js.  Finally, make sure to update your package.json to make sure that start:dev executes the new webpack.client.js and not the default webpack.config.js.
 
 
+10 - at 4:24.  For convenience, and to make this easier if you want to run this yourself, let’s add to our package.json file three commands.  Dev:build-server to bundle our client javascript, dev:build-server to bundle our server side javascript, and dev:server to run our server side bundle. Keep in mind that the node command may be different on different OS’s.  Sometimes it’s called node and sometimes it’s called nodedaemon.
+
+
+
+Moved final react files back to course completion root
 
 
