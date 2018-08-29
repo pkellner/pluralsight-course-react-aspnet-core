@@ -6,13 +6,14 @@
 04-Bring-in-React
 05-Adding-React-Router
 06-Updating-The-Example
-
-Updates in Progress as of 8/28/2018, 01-06 directories in place. Below updates coming
-
 07-Why-you
 08-Splitting-the-WebPack-Config
 09-Implementing-serverside-Rendering
 10-Using-ReactDOM-renderToString
+
+Updates in Progress as of 8/28/2018, 01-06 directories in place. Below updates coming
+
+
 11-Integrating-React-With-ASPNET
 
 Video Suggestions and Issues
@@ -37,6 +38,11 @@ npm install babel-core babel-loader@7 babel-preset-env babel-preset-react babel-
 
   To solve this, we simply go up one level to client.js, and there, we add the Router and have it wrap essentially our FullPage component.  Then of course, we have to remove the Router element from our Routes component we created a minute ago.  That way, CodeCampMenu can have Routes in it, as well as our Routes component.  We do now have an app with lots more components then we did a minute ago, but we've done nothing to add complexity.  We've simply added more of the same type of components we had before and moved things around some. It's all very straight forward.
 
+  At 1:00, should show just “bundle.js”, not “clientbundle.js”
+  At 2:04, should not show action event for Route Not Found. That comes in later in SSR.
+
+
+09 - at 0:27.  Because we’ve created a separate client webpack config, let’s change the output to clientbundle.js from just bundle.js.  if you’re coding along with me, make sure to also change the reference to clientbundle.js in the public/index.html file also.  Then later, you’ll wee when we work on webpack.server.js, we’ll create a different bundle called serverbundle.js…
 
 
 
