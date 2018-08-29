@@ -30,6 +30,10 @@ then run the script name as follows:
 
 ### Module 2 - Building a Custom Webpack Configuration for React and Core
 
+You can follow the progression of each section in this module by looking at soure code section by section.
+
+See the /Progressions directory in the base of this repo for more details.
+
 Details of each script in package.json are as follows:
 
 | Script Name   	| Script Description  	
