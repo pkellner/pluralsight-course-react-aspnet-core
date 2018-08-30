@@ -19,7 +19,7 @@ import SpeakersHeader from './SpeakersHeader';
 //import SpeakerList from './SpeakerList';
 import SpeakerDetailOne from './SpeakerDetailOne';
 
-//import axios from 'axios';
+import axios from 'axios';
 
 class SpeakerDetail extends Component {
 
@@ -58,23 +58,23 @@ class SpeakerDetail extends Component {
 
     componentDidMount() {
 
-        //const url = '/data/speakers.json';
+        const url = '/data/speakers.json';
         //const url = '/api/speaker';
 
         console.log('Speakers:cdm');
-        // axios.get(url)
-        //     .then((result)=> {
-        //         console.log('api/speaker then called');
-        //         this.setState({
-        //             appData: result.data,
-        //             isLoading: false
-        //         });
-        //     })
-        //     .catch(error => {
-        //         if (error.response) {
-        //             console.log(error.responderEnd);
-        //         }
-        //     });
+        axios.get(url)
+            .then((result)=> {
+                console.log('api/speaker then called');
+                this.setState({
+                    appData: result.data,
+                    isLoading: false
+                });
+            })
+            .catch(error => {
+                if (error.response) {
+                    console.log(error.responderEnd);
+                }
+            });
     }
 
 
