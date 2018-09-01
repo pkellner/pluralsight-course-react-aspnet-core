@@ -1,18 +1,18 @@
 # Problems and Fixes Notes (8/28/2018, video updates coming soon so this will not be needed)
 
-01-Introducing
-02-Learn-The-JavaScript-Build-Tools
-03-Learn-to-Work-with-webpack
-04-Bring-in-React
-05-Adding-React-Router
-06-Updating-The-Example
-07-Why-you
-08-Splitting-the-WebPack-Config
-09-Implementing-serverside-Rendering
-10-Using-ReactDOM-renderToString
-11-Integrating-React-With-ASPNET
+01-Introducing  
+02-Learn-The-JavaScript-Build-Tools  
+03-Learn-to-Work-with-webpack  
+04-Bring-in-React  
+05-Adding-React-Router  
+06-Updating-The-Example  
+07-Why-you  
+08-Splitting-the-WebPack-Config  
+09-Implementing-serverside-Rendering  
+10-Using-ReactDOM-renderToString  
+11-Integrating-React-With-ASPNET 
 
-Video Suggestions and Issues
+## Video Improvements and Issues Coming (not done yet). Corrections fixed in GitHub Repo
 
 03a - Before running the app (npm run start:dev), you may need to execute the command: “npm install webpack-cli”
 
