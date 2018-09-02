@@ -7,11 +7,11 @@
 05-Redux-Actions-Updates  
 06-Debugging-Redux  
 07-JSON-server  
+08-REST-Updates-PUT  
+09-Adding-Sessions  
 
 *Currently working through corrections. Completed through clip 07 as of 9/1/2018.  Expect more over the weekend.*  
 
-08-REST-Updates-PUT  
-09-Adding-CSS  
 10-Axios-Getting-Data  
 11-Decouple-React-From-Core  
 12-Adding-Middeware  
@@ -29,4 +29,7 @@ m5-07 - at 2:19 remove -g option so that json-server gets added to packages.json
 m5-07 - at 3:24 ...at the same time as the webpack dev server.... "we will use the npm package npm-run-all which we must install by typing npm install npm-run-all"
 
 m5-07 - at 3:41 ... leave npm start on screen longer
+
+m5-09 - at 0:31 ... In addition, we need to update our home component to fetch the data using our new sessionsFetchData redux method. THis is basically the same code pattern we explained earlier for retrieving speakers data with redux.  We also have here an update session method which gets called from our child component we were just looking at, HomeContainer.
+
 

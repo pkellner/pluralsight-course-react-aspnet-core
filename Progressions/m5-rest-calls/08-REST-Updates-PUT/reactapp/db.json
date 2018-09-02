@@ -1,0 +1,1712 @@
+{
+  "speakers": [
+    {
+      "id": "45454",
+      "firstName": "Gabriel",
+      "lastName": "Abinante",
+      "imageUrl": "assets/images/speakers/speaker-45454.jpg"
+    },
+    {
+      "id": "5443",
+      "firstName": "Mark",
+      "lastName": "Abramson",
+      "imageUrl": "assets/images/speakers/speaker-5443.jpg"
+    },
+    {
+      "id": "44364",
+      "firstName": "Vidya Vrat",
+      "lastName": "Agarwal",
+      "imageUrl": "assets/images/speakers/speaker-44364.jpg"
+    },
+    {
+      "id": "410",
+      "firstName": "Siamak",
+      "lastName": "Ashrafi",
+      "imageUrl": "assets/images/speakers/speaker-410.jpg"
+    },
+    {
+      "id": "41355",
+      "firstName": "Nate",
+      "lastName": "Barbettini",
+      "imageUrl": "assets/images/speakers/speaker-41355.jpg"
+    },
+    {
+      "id": "45627",
+      "firstName": "Amir",
+      "lastName": "Barylko",
+      "imageUrl": "assets/images/speakers/speaker-45627.jpg"
+    },
+    {
+      "id": "8575",
+      "firstName": "Tom",
+      "lastName": "Becker",
+      "imageUrl": "assets/images/speakers/speaker-8575.jpg"
+    },
+    {
+      "id": "44367",
+      "firstName": "Bhavana",
+      "lastName": "Bhasker",
+      "imageUrl": "assets/images/speakers/speaker-44367.jpg"
+    },
+    {
+      "id": "2885",
+      "firstName": "Jeancarl",
+      "lastName": "Bisson",
+      "imageUrl": "assets/images/speakers/speaker-2885.jpg"
+    },
+    {
+      "id": "10812",
+      "firstName": "Sam",
+      "lastName": "Bowne",
+      "imageUrl": "assets/images/speakers/speaker-10812.jpg"
+    },
+    {
+      "id": "45432",
+      "firstName": "Joe",
+      "lastName": "Brinkman",
+      "imageUrl": "assets/images/speakers/speaker-45432.jpg"
+    },
+    {
+      "id": "953",
+      "firstName": "Oswald",
+      "lastName": "Campesato",
+      "imageUrl": "assets/images/speakers/speaker-953.jpg"
+    },
+    {
+      "id": "4087",
+      "firstName": "Doris",
+      "lastName": "Chen",
+      "imageUrl": "assets/images/speakers/speaker-4087.jpg"
+    },
+    {
+      "id": "731",
+      "firstName": "Tim",
+      "lastName": "Child",
+      "imageUrl": "assets/images/speakers/speaker-731.jpg"
+    },
+    {
+      "id": "12474",
+      "firstName": "Sungyeol",
+      "lastName": "Choi",
+      "imageUrl": "assets/images/speakers/speaker-12474.jpg"
+    },
+    {
+      "id": "10803",
+      "firstName": "Eugene",
+      "lastName": "Chuvyrov",
+      "imageUrl": "assets/images/speakers/speaker-10803.jpg"
+    },
+    {
+      "id": "46086",
+      "firstName": "Travis",
+      "lastName": "Cook",
+      "imageUrl": "assets/images/speakers/speaker-46086.jpg"
+    },
+    {
+      "id": "17424",
+      "firstName": "Eric",
+      "lastName": "Courville",
+      "imageUrl": "assets/images/speakers/speaker-17424.jpg"
+    },
+    {
+      "id": "1124",
+      "firstName": "Douglas",
+      "lastName": "Crockford",
+      "imageUrl": "assets/images/speakers/speaker-1124.jpg"
+    },
+    {
+      "id": "36228",
+      "firstName": "Jennelle",
+      "lastName": "Crothers",
+      "imageUrl": "assets/images/speakers/speaker-36228.jpg"
+    },
+    {
+      "id": "36223",
+      "firstName": "Jessica",
+      "lastName": "Deen",
+      "imageUrl": "assets/images/speakers/speaker-36223.jpg"
+    },
+    {
+      "id": "20985",
+      "firstName": "Randall",
+      "lastName": "Degges",
+      "imageUrl": "assets/images/speakers/speaker-20985.jpg"
+    },
+    {
+      "id": "45649",
+      "firstName": "Rohit",
+      "lastName": "Dhamija",
+      "imageUrl": "assets/images/speakers/speaker-45649.jpg"
+    },
+    {
+      "id": "46088",
+      "firstName": "Ilya",
+      "lastName": "Dmitrichenko",
+      "imageUrl": "assets/images/speakers/speaker-46088.jpg"
+    },
+    {
+      "id": "6414",
+      "firstName": "Daniel",
+      "lastName": "Egan",
+      "imageUrl": "assets/images/speakers/speaker-6414.jpg"
+    },
+    {
+      "id": "10893",
+      "firstName": "E John",
+      "lastName": "Feig",
+      "imageUrl": "assets/images/speakers/speaker-10893.jpg"
+    },
+    {
+      "id": "3299",
+      "firstName": "Ben",
+      "lastName": "Foden",
+      "imageUrl": "assets/images/speakers/speaker-3299.jpg"
+    },
+    {
+      "id": "27961",
+      "firstName": "Sara",
+      "lastName": "Ford",
+      "imageUrl": "assets/images/speakers/speaker-27961.jpg"
+    },
+    {
+      "id": "18653",
+      "firstName": "Claudia",
+      "lastName": "Galvan",
+      "imageUrl": "assets/images/speakers/speaker-18653.jpg"
+    },
+    {
+      "id": "8891",
+      "firstName": "Mohit",
+      "lastName": "Goenka",
+      "imageUrl": "assets/images/speakers/speaker-8891.jpg"
+    },
+    {
+      "id": "509",
+      "firstName": "Kim",
+      "lastName": "Greenlee",
+      "imageUrl": "assets/images/speakers/speaker-509.jpg"
+    },
+    {
+      "id": "1269",
+      "firstName": "Arun",
+      "lastName": "Gupta",
+      "imageUrl": "assets/images/speakers/speaker-1269.jpg"
+    },
+    {
+      "id": "43911",
+      "firstName": "Gautam",
+      "lastName": "Gupta",
+      "imageUrl": "assets/images/speakers/speaker-43911.jpg"
+    },
+    {
+      "id": "46090",
+      "firstName": "Sachet",
+      "lastName": "Hegde",
+      "imageUrl": "assets/images/speakers/speaker-46090.jpg"
+    },
+    {
+      "id": "45481",
+      "firstName": "Lisa",
+      "lastName": "Huang",
+      "imageUrl": "assets/images/speakers/speaker-45481.jpg"
+    },
+    {
+      "id": "45872",
+      "firstName": "Bryan",
+      "lastName": "Hughes",
+      "imageUrl": "assets/images/speakers/speaker-45872.jpg"
+    },
+    {
+      "id": "28628",
+      "firstName": "Pieter",
+      "lastName": "Humphrey",
+      "imageUrl": "assets/images/speakers/speaker-28628.jpg"
+    },
+    {
+      "id": "45663",
+      "firstName": "Carmen",
+      "lastName": "J. Sandoval",
+      "imageUrl": "assets/images/speakers/speaker-45663.jpg"
+    },
+    {
+      "id": "45754",
+      "firstName": "Melinda",
+      "lastName": "Jacobson",
+      "imageUrl": "assets/images/speakers/speaker-45754.jpg"
+    },
+    {
+      "id": "46083",
+      "firstName": "Mandar",
+      "lastName": "Jog",
+      "imageUrl": "assets/images/speakers/speaker-46083.jpg"
+    },
+    {
+      "id": "1405",
+      "firstName": "Theo",
+      "lastName": "Jungeblut",
+      "imageUrl": "assets/images/speakers/speaker-1405.jpg"
+    },
+    {
+      "id": "46138",
+      "firstName": "sharan",
+      "lastName": "kadagad",
+      "imageUrl": "assets/images/speakers/speaker-46138.jpg"
+    },
+    {
+      "id": "7164",
+      "firstName": "Jon",
+      "lastName": "Kalb",
+      "imageUrl": "assets/images/speakers/speaker-7164.jpg"
+    },
+    {
+      "id": "45463",
+      "firstName": "Asif",
+      "lastName": "Khan",
+      "imageUrl": "assets/images/speakers/speaker-45463.jpg"
+    },
+    {
+      "id": "45914",
+      "firstName": "Michael",
+      "lastName": "Klose",
+      "imageUrl": "assets/images/speakers/speaker-45914.jpg"
+    },
+    {
+      "id": "46171",
+      "firstName": "Malcolm",
+      "lastName": "Knapp",
+      "imageUrl": "assets/images/speakers/speaker-46171.jpg"
+    },
+    {
+      "id": "41650",
+      "firstName": "Randall",
+      "lastName": "Koutnik",
+      "imageUrl": "assets/images/speakers/speaker-41650.jpg"
+    },
+    {
+      "id": "653",
+      "firstName": "Deborah",
+      "lastName": "Kurata",
+      "imageUrl": "assets/images/speakers/speaker-653.jpg"
+    },
+    {
+      "id": "225",
+      "firstName": "Jerry",
+      "lastName": "Kurata",
+      "imageUrl": "assets/images/speakers/speaker-225.jpg"
+    },
+    {
+      "id": "11752",
+      "firstName": "Donn",
+      "lastName": "Lee",
+      "imageUrl": "assets/images/speakers/speaker-11752.jpg"
+    },
+    {
+      "id": "11243",
+      "firstName": "Ami",
+      "lastName": "Levin",
+      "imageUrl": "assets/images/speakers/speaker-11243.jpg"
+    },
+    {
+      "id": "2920",
+      "firstName": "Ron",
+      "lastName": "Lichty",
+      "imageUrl": "assets/images/speakers/speaker-2920.jpg"
+    },
+    {
+      "id": "1415",
+      "firstName": "Juval",
+      "lastName": "Lowy",
+      "imageUrl": "assets/images/speakers/speaker-1415.jpg"
+    },
+    {
+      "id": "2991",
+      "firstName": "Hien",
+      "lastName": "Luu",
+      "imageUrl": "assets/images/speakers/speaker-2991.jpg"
+    },
+    {
+      "id": "11661",
+      "firstName": "Lenny",
+      "lastName": "Markus",
+      "imageUrl": "assets/images/speakers/speaker-11661.jpg"
+    },
+    {
+      "id": "4816",
+      "firstName": "Ramona",
+      "lastName": "Maxwell",
+      "imageUrl": "assets/images/speakers/speaker-4816.jpg"
+    },
+    {
+      "id": "45807",
+      "firstName": "Daren",
+      "lastName": "May",
+      "imageUrl": "assets/images/speakers/speaker-45807.jpg"
+    },
+    {
+      "id": "5995",
+      "firstName": "David",
+      "lastName": "McCarter",
+      "imageUrl": "assets/images/speakers/speaker-5995.jpg"
+    },
+    {
+      "id": "32745",
+      "firstName": "David",
+      "lastName": "McCarter",
+      "imageUrl": "assets/images/speakers/speaker-32745.jpg"
+    },
+    {
+      "id": "8367",
+      "firstName": "Gayle Laakmann",
+      "lastName": "McDowell",
+      "imageUrl": "assets/images/speakers/speaker-8367.jpg"
+    },
+    {
+      "id": "45875",
+      "firstName": "John",
+      "lastName": "McFarlane",
+      "imageUrl": "assets/images/speakers/speaker-45875.jpg"
+    },
+    {
+      "id": "11625",
+      "firstName": "Todd",
+      "lastName": "McLeod",
+      "imageUrl": "assets/images/speakers/speaker-11625.jpg"
+    },
+    {
+      "id": "8668",
+      "firstName": "Soham",
+      "lastName": "Mehta",
+      "imageUrl": "assets/images/speakers/speaker-8668.jpg"
+    },
+    {
+      "id": "13162",
+      "firstName": "Ryan",
+      "lastName": "Michela",
+      "imageUrl": "assets/images/speakers/speaker-13162.jpg"
+    },
+    {
+      "id": "10801",
+      "firstName": "Troy",
+      "lastName": "Miles",
+      "imageUrl": "assets/images/speakers/speaker-10801.jpg"
+    },
+    {
+      "id": "41638",
+      "firstName": "Akansh",
+      "lastName": "Murthy",
+      "imageUrl": "assets/images/speakers/speaker-41638.jpg"
+    },
+    {
+      "id": "391",
+      "firstName": "Steve",
+      "lastName": "Mylroie",
+      "imageUrl": "assets/images/speakers/speaker-391.jpg"
+    },
+    {
+      "id": "11370",
+      "firstName": "Jerry",
+      "lastName": "Nixon",
+      "imageUrl": "assets/images/speakers/speaker-11370.jpg"
+    },
+    {
+      "id": "39062",
+      "firstName": "Mike",
+      "lastName": "North",
+      "imageUrl": "assets/images/speakers/speaker-39062.jpg"
+    },
+    {
+      "id": "8764",
+      "firstName": "Arthur",
+      "lastName": "O'Dwyer",
+      "imageUrl": "assets/images/speakers/speaker-8764.jpg"
+    },
+    {
+      "id": "9576",
+      "firstName": "Megan",
+      "lastName": "O'Neill",
+      "imageUrl": "assets/images/speakers/speaker-9576.jpg"
+    },
+    {
+      "id": "45761",
+      "firstName": "Robert",
+      "lastName": "Oliver",
+      "imageUrl": "assets/images/speakers/speaker-45761.jpg"
+    },
+    {
+      "id": "1430",
+      "firstName": "Manish",
+      "lastName": "Pandit",
+      "imageUrl": "assets/images/speakers/speaker-1430.jpg"
+    },
+    {
+      "id": "45472",
+      "firstName": "Nelson",
+      "lastName": "Petracek",
+      "imageUrl": "assets/images/speakers/speaker-45472.jpg"
+    },
+    {
+      "id": "46137",
+      "firstName": "Leslie",
+      "lastName": "Pound",
+      "imageUrl": "assets/images/speakers/speaker-46137.jpg"
+    },
+    {
+      "id": "46069",
+      "firstName": "monu",
+      "lastName": "pradhan",
+      "imageUrl": "assets/images/speakers/speaker-46069.jpg"
+    },
+    {
+      "id": "32901",
+      "firstName": "Nic",
+      "lastName": "Raboy",
+      "imageUrl": "assets/images/speakers/speaker-32901.jpg"
+    },
+    {
+      "id": "21405",
+      "firstName": "Rakesh",
+      "lastName": "Ranjan",
+      "imageUrl": "assets/images/speakers/speaker-21405.jpg"
+    },
+    {
+      "id": "44365",
+      "firstName": "Nikhil",
+      "lastName": "Rati",
+      "imageUrl": "assets/images/speakers/speaker-44365.jpg"
+    },
+    {
+      "id": "43243",
+      "firstName": "Jon",
+      "lastName": "Reid",
+      "imageUrl": "assets/images/speakers/speaker-43243.jpg"
+    },
+    {
+      "id": "8590",
+      "firstName": "Chris",
+      "lastName": "Richardson",
+      "imageUrl": "assets/images/speakers/speaker-8590.jpg"
+    },
+    {
+      "id": "10808",
+      "firstName": "Antony",
+      "lastName": "Ross",
+      "imageUrl": "assets/images/speakers/speaker-10808.jpg"
+    },
+    {
+      "id": "2925",
+      "firstName": "Sunil",
+      "lastName": "Sabat",
+      "imageUrl": "assets/images/speakers/speaker-2925.jpg"
+    },
+    {
+      "id": "46014",
+      "firstName": "Marek",
+      "lastName": "Sadowski",
+      "imageUrl": "assets/images/speakers/speaker-46014.jpg"
+    },
+    {
+      "id": "1533",
+      "firstName": "Robin",
+      "lastName": "Shahan",
+      "imageUrl": "assets/images/speakers/speaker-1533.jpg"
+    },
+    {
+      "id": "44431",
+      "firstName": "Zafar",
+      "lastName": "Shahid",
+      "imageUrl": "assets/images/speakers/speaker-44431.jpg"
+    },
+    {
+      "id": "43097",
+      "firstName": "Basil",
+      "lastName": "Shikin",
+      "imageUrl": "assets/images/speakers/speaker-43097.jpg"
+    },
+    {
+      "id": "37898",
+      "firstName": "Raju",
+      "lastName": "Shreewastava",
+      "imageUrl": "assets/images/speakers/speaker-37898.jpg"
+    },
+    {
+      "id": "44372",
+      "firstName": "Abhinav",
+      "lastName": "Shroff",
+      "imageUrl": "assets/images/speakers/speaker-44372.jpg"
+    },
+    {
+      "id": "10871",
+      "firstName": "Muhammad",
+      "lastName": "Siddiqi",
+      "imageUrl": "assets/images/speakers/speaker-10871.jpg"
+    },
+    {
+      "id": "5960",
+      "firstName": "Qirfiraz",
+      "lastName": "Siddiqui",
+      "imageUrl": "assets/images/speakers/speaker-5960.jpg"
+    },
+    {
+      "id": "45630",
+      "firstName": "Cathy",
+      "lastName": "Simpson",
+      "imageUrl": "assets/images/speakers/speaker-45630.jpg"
+    },
+    {
+      "id": "5062",
+      "firstName": "Cindy",
+      "lastName": "Solomon",
+      "imageUrl": "assets/images/speakers/speaker-5062.jpg"
+    },
+    {
+      "id": "4509",
+      "firstName": "David",
+      "lastName": "Spark",
+      "imageUrl": "assets/images/speakers/speaker-4509.jpg"
+    },
+    {
+      "id": "37620",
+      "firstName": "Arun",
+      "lastName": "Sriraman",
+      "imageUrl": "assets/images/speakers/speaker-37620.jpg"
+    },
+    {
+      "id": "25761",
+      "firstName": "Marcus",
+      "lastName": "Stephan",
+      "imageUrl": "assets/images/speakers/speaker-25761.jpg"
+    },
+    {
+      "id": "46051",
+      "firstName": "Mickey",
+      "lastName": "Stuewe",
+      "imageUrl": "assets/images/speakers/speaker-46051.jpg"
+    },
+    {
+      "id": "45779",
+      "firstName": "Richard",
+      "lastName": "Suselbeck",
+      "imageUrl": "assets/images/speakers/speaker-45779.jpg"
+    },
+    {
+      "id": "8503",
+      "firstName": "Sumant",
+      "lastName": "Tambe",
+      "imageUrl": "assets/images/speakers/speaker-8503.jpg"
+    },
+    {
+      "id": "45804",
+      "firstName": "Troy",
+      "lastName": "Taylor",
+      "imageUrl": "assets/images/speakers/speaker-45804.jpg"
+    },
+    {
+      "id": "565",
+      "firstName": "Bruno",
+      "lastName": "Terkaly",
+      "imageUrl": "assets/images/speakers/speaker-565.jpg"
+    },
+    {
+      "id": "5364",
+      "firstName": "Peter",
+      "lastName": "Thoeny",
+      "imageUrl": "assets/images/speakers/speaker-5364.jpg"
+    },
+    {
+      "id": "8637",
+      "firstName": "Sastry",
+      "lastName": "Vedantam",
+      "imageUrl": "assets/images/speakers/speaker-8637.jpg"
+    },
+    {
+      "id": "6395",
+      "firstName": "Guy",
+      "lastName": "Vider",
+      "imageUrl": "assets/images/speakers/speaker-6395.jpg"
+    },
+    {
+      "id": "6674",
+      "firstName": "Ivan",
+      "lastName": "Wallis",
+      "imageUrl": "assets/images/speakers/speaker-6674.jpg"
+    },
+    {
+      "id": "45737",
+      "firstName": "Corey",
+      "lastName": "Weathers",
+      "imageUrl": "assets/images/speakers/speaker-45737.jpg"
+    },
+    {
+      "id": "45758",
+      "firstName": "Andrew",
+      "lastName": "Webster",
+      "imageUrl": "assets/images/speakers/speaker-45758.jpg"
+    },
+    {
+      "id": "45778",
+      "firstName": "Chris",
+      "lastName": "Woodruff",
+      "imageUrl": "assets/images/speakers/speaker-45778.jpg"
+    },
+    {
+      "id": "46087",
+      "firstName": "changjie",
+      "lastName": "yang",
+      "imageUrl": "assets/images/speakers/speaker-46087.jpg"
+    },
+    {
+      "id": "45824",
+      "firstName": "Murat",
+      "lastName": "Yener",
+      "imageUrl": "assets/images/speakers/speaker-45824.jpg"
+    },
+    {
+      "id": "12591",
+      "firstName": "Tobiah",
+      "lastName": "Zarlez",
+      "imageUrl": "assets/images/speakers/speaker-12591.jpg"
+    },
+    {
+      "id": "32",
+      "firstName": "Roman",
+      "lastName": "Zhovtulya",
+      "imageUrl": "assets/images/speakers/speaker-32.jpg"
+    },
+    {
+      "id": "46056",
+      "firstName": "Raheel",
+      "lastName": "Zubairy",
+      "imageUrl": "assets/images/speakers/speaker-46056.jpg"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 6182,
+      "title": "Diving INTO THE Deep Learning",
+      "sessionUrl": "diving-into-deep-learning",
+      "description": "A fast-paced introduction for beginners (knowledge of Python is helpful) to Deep Learning (DL) concepts, such as Neural Networks, backprop, activation functions, and CNNs, RNNs (e.g., LSTMs). We'll look at some code samples in TensorFlow, Keras, Angular, and Android, and then wrap up with a book raffle of recent books.\n",
+      "speakersNamesCsv": "Oswald Campesato",
+      "interestLevel": 0
+    },
+    {
+      "id": 6183,
+      "title": "Rock Your .NET Core Best Practices",
+      "sessionUrl": "rock-your-net-core-best-practices",
+      "description": "In this sessions, you will learn how to apply .NET Framework best practices to .NET Core. There are a lot of changes and every developer needs to attend this session before moving to .NET Core. This is part 6 in my 6 part series titled “Improving Code Quality… One Developer At A Time”.",
+      "speakersNamesCsv": "David McCarter",
+      "interestLevel": 1
+    },
+    {
+      "id": 6184,
+      "title": "Lean Startup for Engineers",
+      "sessionUrl": "lean-startup-for-engineers",
+      "description": "Get Idea! Build a Product! Sell it! We've all spent too many hours and too much damn money with this approach only to fail in the end. Mark will teach you had to turn this \"Conventional Engineer's Wisdom\" on its head and build products that people will buy on day one. Many times, we engineers build features without ever talking to the customers and users who they benefit. We'll start with the absolute basics: how to define your customer and discover what their true problem is. \"But I don't have any customers or users!\" you will say. You will learn how and where to find them and then how to engage them in meaningful conversation about their problems. Our goal? Build the right solution for the right customer and make them ultimately beg you for your solution. Teaching with examples, Mark will share his specific experiences finding customers and how to talk to them. We'll run through several tools, tips and tricks Mark used to find success (after years of failing). This is a unique opportunity to learn nuggets of Lean Startup wisdom from one of the Bay Area's most enthusiastic trainers and mentors.",
+      "speakersNamesCsv": "Mark Abramson",
+      "interestLevel": 2
+    },
+    {
+      "id": 6185,
+      "title": "gRPC Crash Course: Simple Microservices in Java",
+      "sessionUrl": "grpc-crash-course-simple-microservices-in-java",
+      "description": "gRPC is a new high-performance, open source, universal RPC framework. Built on top of Protocol Buffers and HTTP/2, gRPC makes building scalable, efficient microservices fast and easy.\n<br/><br/>\nWhat you will learn: How to implement a microservice using gRPC and Java.\n<br/><br/>\nIn this session, Ryan Michela gives you an introduction to gRPC and its capabilities will live coding a simple IRC style chat system using gRPC. You will see how easy it is to implement request/response and bi-directional streaming services using gRPC, and how easy it is to integrate gRPC into other common Java technologies like Spring Boot and RxJava.<br/><br/>",
+      "speakersNamesCsv": "Ryan Michela",
+      "interestLevel": 1
+    },
+    {
+      "id": 6187,
+      "title": "Securing Your Containers",
+      "sessionUrl": "securing-your-containers",
+      "description": "Digitization is driving a fundamental change in society that is transforming the way businesses work with their customers, their supply chains and their people. Digital transformation leverages DevOps best practices, such as Agile Parallel Development, Continuous Delivery and Agile Operations to capitalize on opportunities and create competitive differentiation in the application economy.\nHowever, information security has been notably absent from the DevOps movement. Speed doesn’t have to negatively impact security. Container-to-container communication should not be in clear text, yet it is. So why is it so hard to implement good security practices like encryption for DevOps? The primary reason, provisioning of keys and certificates in a DevOps environment takes too long and results in bottlenecks—so people don’t use encryption unless they have to.\nIn this session we will discuss security strategies that can be implemented for CAPS (Chef, Ansible, Puppet, Salt) and Docker and how you can implement encryption easily without causing bottlenecks.",
+      "speakersNamesCsv": "Ivan Wallis",
+      "interestLevel": 0
+    },
+    {
+      "id": 6188,
+      "title": "Bitcoin Digital Cash: Send cash to anyone on Earth with your phone or PC",
+      "sessionUrl": "bitcoin-digital-cash-send-cash-to-anyone-on-earth-with-your-phone-or-pc",
+      "description": "Returning for another year, this talk may include some new surprises. Bitcoin is changing in big ways! What is Bitcoin? How does it work? Who controls it? What is mining? Is it possible to counterfeit bitcoin? This lively, interactive session will provide you with a base understanding of the in's and out's of this and similar digital currencies. After this session you will have enough basics to get some bitcoin and, if you desire, send it to anyone on Earth in seconds.",
+      "speakersNamesCsv": "Donn Lee",
+      "interestLevel": 1
+    },
+    {
+      "id": 6189,
+      "title": "Re-Engineering your career into Technical Product Management",
+      "sessionUrl": "re-engineering-your-career-into-technical-product-management",
+      "description": "Are you considering Technical Product Management as your next career step? This session will discuss career development into this discipline and the basic skills and strategies needed to successfully transition into this new role.",
+      "speakersNamesCsv": "Claudia Galvan",
+      "interestLevel": 0
+    },
+    {
+      "id": 6190,
+      "title": "Recursion and DP for coding interviews",
+      "sessionUrl": "recursion-and-dp-for-coding-interviews",
+      "description": "<p>It is no secret that the bar to crack technical interviews is only getting higher with each passing year. </p>\n\n<p>Recursion is pervasive in many such interviews. Whether it is dealing with basic algorithms of Sorting, whether it's simple data-structures like Linked Lists, Arrays & Strings, or whether it's about traversing complex data-structures like Trees and Graphs, you're bound to come across Recursion-based solutions.</p>\n\n<p>Recursion can be a difficult concept to grasp for many of us, but it doesn't have to be. It's one of those things that can be reigned with practice, and once reigned, it gives dividends all through your practice.</p> \n\n<p>Once you're comfortable with recursion, then Dynamic Programming also becomes easier, because Recursion is the first logical step to solving many DP problems. In this session, we'll patiently walk through some Recursion and DP problems, until time permits.</p>\n\n<p><a href=\"http://interviewkickstart.com\">Interview Kickstart</a></p>\n",
+      "speakersNamesCsv": "Soham Mehta",
+      "interestLevel": 0
+    },
+    {
+      "id": 6191,
+      "title": "Need of DevOps in the Enterprise",
+      "sessionUrl": "need-of-devops-in-the-enterprise",
+      "description": "<p>Very detailed and value oriented content to discuss hardcore devops concepts</p>\n\n<p>DevOps and It's Key Values\n  <br />Delivery Cycles\n\n  <br />DevOps Workflow\n\n  <br />DevOps Practices\n\n  <br />With/Without DevOps\n\n  <br />DevOps Metrics\n\n  <br />DevOps Automation</p>",
+      "speakersNamesCsv": "Vidya Vrat Agarwal",
+      "interestLevel": 0
+    },
+    {
+      "id": 6192,
+      "title": "Tuning Kafka Pipelines",
+      "sessionUrl": "tuning-kafka-pipelines",
+      "description": "Kafka is a high-throughput, fault-tolerant, scalable platform for building high-volume near-real-time data pipelines. This presentation is about tuning Kafka pipelines for high-performance.\n<br/><br/>\nThis presenter will begin by introducing the basic concepts of Kafka including, producer, consumer, and the broker. Kafka pipelines will be discussed next and the role of Mirror-maker in creating global data pipelines that span multiple datacenters. The presenter will then discuss select configuration parameters and deployment topologies essential to achieve higher throughput and low latency across the pipeline. \n<br/><br/>\nIn the second part the presenter will discuss anecdotes based on the real-world experience in running Kafka at LinkedIn. Specifically, lessons learned in troubleshooting and optimizing a truly global data pipeline that replicates 100GB data under 25 minutes will be discussed. \n<br/><br/>\nNo prior knowledge of Kafka is necessary however familiarity with publish-subscribe, big data technologies, sharding/partitioning will come in handy.",
+      "speakersNamesCsv": "Sumant Tambe",
+      "interestLevel": 0
+    },
+    {
+      "id": 6193,
+      "title": "AWS Lambda with Serverless Framework and Java",
+      "sessionUrl": "aws-lambda-with-serverless-framework-and-java",
+      "description": "Serverless is a node.js based framework that makes creating, deploying, and managing serverless functions a breeze. We will use AWS Lambda as our FaaS (Function-as-a-Service) provider, although Serverless supports IBM OpenWhisk and Microsoft Azure as well.\n<br/><br/>\nIn this session, we will talk about Serverless Applications, and Create and deploy a java-maven based AWS Lambda API. We will also explore the command line interface to manage lambda, which is provided out of the box by serverless framework.",
+      "speakersNamesCsv": "Manish Pandit",
+      "interestLevel": 0
+    },
+    {
+      "id": 6194,
+      "title": "Build Chrome Extensions using React/Webpack",
+      "sessionUrl": "build-chrome-extensions-using-reactwebpack",
+      "description": "Chrome extensions are like apps for your desktop - they can alert you to changes and incoming events from around the web, improve your browsing experience, or add new functionality to old web sites. \n\nExtensions are surprisingly easy to build. With just a little bit of JavaScript, and some knowledge of the DOM, you too can build a useful Chrome extension, and even publish it in the web store. \n\nAdding React and Webpack to the mix allow us to create reusable components, and repeatable building environment, making it ever easier to add new functionality to our browser. \n\nIn this session we'll cover the basics of a Chrome extension, and create one together, using ES6 flavored JavaScript for the logic, React for the view, and Webpack 2 for the build/package environment. \n\nSome basic familiarity with ES6, React, and Webpack 2 is recommended, but not mandatory.",
+      "speakersNamesCsv": "Guy Vider",
+      "interestLevel": 0
+    },
+    {
+      "id": 6195,
+      "interestLevel": 0
+    },
+    {
+      "id": 6196,
+      "title": "Dream Teams: Making Your Dream (Team) Come True",
+      "sessionUrl": "dream-teams-making-your-dream-team-come-true",
+      "description": "What differentiates high performance teams?\n<br/><br/>\nAlmost all of us have been on a high performance team. Just invite us, and we’ll sign up for another in a second! Typically, it was a team for which we worked harder - but from which we took away more exhilaration and joy - than any other team in our careers. What made it so? And what can we do to get it again?\n<br/><br/>\nSuccessful software development cultures are ones that are not just performant but that also both delight customers and are a joy for every team member to be part of. \n<br/><br/>\nOne of the characteristics that differentiates agile cultures is that (finally!) it’s not just managers who are responsible for crafting culture - but everyone. Every one of the various kinds of managers engaged with product and project teams have a role in crafting culture and supporting the emergence of high performance teams. But agile, done well, means every one of us engages in the crafting of it. \n<br/><br/>\nUltimately, stellar team experiences derive from us. We need to truly trust and respect and engage and share - behaviors that can feel at odds with the fierce independence from whence we’ve come.\n<br/><br/>\nHow can people who are often introverted, highly-logical, independent thinkers not only form teams but make those teams self-organizing and high-performance? What’s the role of leaders in crafting culture that supports emergence of high performance teams? What can we all do to be part of a high performance team once again? How do we make our dream teams come true?",
+      "speakersNamesCsv": "Ron Lichty",
+      "interestLevel": 0
+    },
+    {
+      "id": 6197,
+      "title": "Angular 2 -- Components",
+      "sessionUrl": "angular-2----components",
+      "description": "A demo how to build components in Angular 2. We will use ng CLI to create a new Angular project and Visual Studio Code to show the implementation details. Some knowledge of Javascript and HTML is helpful. Angular 2 knowledge is not needed.",
+      "speakersNamesCsv": "Marcus Stephan",
+      "interestLevel": 0
+    },
+    {
+      "id": 6198,
+      "title": "Swagger and Open API Specifications (OAS)",
+      "sessionUrl": "swagger-and-open-api-specifications-oas",
+      "description": "REST APIs provides us lots of advantages including JSON based responses and supporting plain HTTP. This simplicity makes it difficult to utilize them for statically typed clients. Swagger allows these services to publish their contracts using the same HTTP. The session would be a deep dive discussing how Swagger can be used for API documentation, discovery and client code generation specially for polyglot development.",
+      "speakersNamesCsv": "Muhammad Siddiqi",
+      "interestLevel": 0
+    },
+    {
+      "id": 6199,
+      "title": "Near Field Communication (NFC) Technology as a Tutoring Tool",
+      "sessionUrl": "near-field-communication-nfc-technology-as-a-tutoring-tool",
+      "description": "The example embodiment is board that includes an array of active NFC antennas in the base of the board. The locations on the board are also place markers, and there are active NFC readers installed at the corners of the board. These readers may be active and may include battery power. The positions within the board may be calibrated with the readers so the instructional objects  may be identified via its NFC tag (passive or active)  based on a power estimation measurement and/or interpolation calculation between the plurality of readers. The number of NFC tag readers may be one, two, three, four, eight, etc., and may use any known algorithm to estimate the power of the NFC tag in the game piece so the exact position may be estimated based on the relative power strength as measured by the active readers (e.g., triangulation, time difference of arrival (TDOA), etc.).\nIdentification of instructional objects, as well as the relative “micro-location” of the objects are used to select/initiate instructional content  to teach the user about combinations (e.g., multiplication tables, chemical compounds, words, etc.). For example, if it is detected that the letters “A”, “R” and “T” are present on the board, the computer application associated with the NFC readable tags in the three letters may detect their presence and position.  Another example would include chemical elements that may be included to generate complex hydrocarbon compounds used to teach the user about chemistry.\n",
+      "speakersNamesCsv": "Qirfiraz Siddiqui",
+      "interestLevel": 0
+    },
+    {
+      "id": 6201,
+      "title": "Using Apache Spark To Determine Whether San Francisco Restaurants Are Clean",
+      "sessionUrl": "using-apache-spark-to-determine-whether-san-francisco-restaurants-are-clean",
+      "description": "Apache Spark has become one of the must-know big data technologies due to its speed, ease of use, and flexibility. With each newer version, Spark is even faster, provides more powerful new features to make it even easier than before to build intelligent and scalable data processing infrastructure and applications.  This session will start with a quick introduction of Spark advanced features and then proceeds to demonstrate some of those advanced features through the analysis San Francisco Restaurant inspection data.  The data analysis part will help answering the important question of whether San Francisco restaurants are clean.  By attending this session, attendees will gain a good understanding of some of Spark’s advanced capabilities and see how Spark’s features make it easy to perform exploratory data analysis.",
+      "speakersNamesCsv": "Hien Luu",
+      "interestLevel": 0
+    },
+    {
+      "id": 6204,
+      "title": "Regular Expressions, To Match Or Not, That is the Question",
+      "sessionUrl": "regular-expressions-to-match-or-not-that-is-the-question",
+      "description": "A regular expression (regex for short) is a powerful language to describe a search pattern to analyze and modify text. Initially used in Unix text processing utilities ed and grep, many programming languages now have built-in support for regular expressions, such as Perl, Ruby, AWK, and Tcl. Others support it via a standard library, such as .NET languages, Java, Python and C++. This talk assumes you dabbled with regular expressions before, and teaches you how to read, construct and use simple to complex regular expressions. At the end of the session you'll understand how to define a regex that validates an e-mail address: \\b\\w[\\w.%+-]?@[\\w.-]+\\.[a-zA-Z]{2,6}\\b",
+      "speakersNamesCsv": "Peter Thoeny",
+      "interestLevel": 0
+    },
+    {
+      "id": 6205,
+      "title": "Service Discovery in Container Orchestration Frameworks",
+      "sessionUrl": "service-discovery-in-container-orchestration-frameworks",
+      "description": "Service registration, discovery and horizontal scalability are key operational requirements of a microservice architecture.Each service needs to replicate. A standard mechanism by which services can easily scale up and down based upon metadata is important. The exact address of a service may not be known until the service is deployed and ready to be used. The dynamic nature of a service’s endpoint address is handled by service registration, discovery and a load balancer. This is all the more important in a containerized world where each container is like a cattle.Docker, Kubernetes, DC/OS and ECS are commonly used container orchestration platforms. They all have built-in support for service discovery and scalability. This talk will explain how this requirement of microservices are met in these orchestration frameworks. Specifically, configuration files for a Java application talking to a database will be shown for different frameworks.",
+      "speakersNamesCsv": "Arun Gupta",
+      "interestLevel": 0
+    },
+    {
+      "id": 6206,
+      "title": "Software Project Design",
+      "sessionUrl": "software-project-design",
+      "description": "Much as the need to design the system, you must also design the project: from scheduling resources behind the services, to tracking your progress across developers, services and phases of completion, to validating your plan, and accommodating changes. This requires understanding the inner dependencies between services and activities, the critical path of integration, the available floats, the staff distribution and the risks involved. All of these challenges stem from your design and addressing them properly is a hard core engineering task – designing the project. In this intense session Juval Lowy shares his approach software project design, along with his unique insight for delivering software on schedule and budget. You will also see to deal with common misconceptions and typical roles and responsibilities in the team.\n",
+      "speakersNamesCsv": "Juval Lowy",
+      "interestLevel": 0
+    },
+    {
+      "id": 6207,
+      "title": "Zen of Architecture",
+      "sessionUrl": "zen-of-architecture",
+      "description": "For the beginner architect, there are many options for doing pretty much anything. But for the Master architect, there are only a few. In this dense session Juval Lowy will explain his approach to large system analysis and design, using volatility to decompose a system into its comprising services. Juval will contrast it with the most common mistake done in architecture, using functionality to identify services. These are universal design principles, and Juval will use examples from software and non-software systems alike. You will also see how to overcome the real hurdles architects face pursuing volatility-based decomposing, simple and practical techniques for identifying areas of volatility, common telltale signs or \"smells\" when your design is still functional when using the Method, IDesign's approach for system architecture. You will see how to literally mechanize software system design, how to do it quickly and effectively. ",
+      "speakersNamesCsv": "Juval Lowy",
+      "interestLevel": 0
+    },
+    {
+      "id": 6208,
+      "title": "Numbers",
+      "sessionUrl": "numbers",
+      "description": "Computers are machines that manipulate numbers. That is literally all that they can do, and yet they are now facilitating and mediating virtually all human activity. This is the story of numbers: where they came from, how they work, and where they may be going. Every programmer should know this story.",
+      "speakersNamesCsv": "Douglas Crockford",
+      "interestLevel": 0
+    },
+    {
+      "id": 6209,
+      "title": "Character Sets",
+      "sessionUrl": "character-sets",
+      "description": "This is the story of the representation of text as numbers. We will range from the earliest codes, Hollerith and Morse, to what will likely be the last character code, Unicode. The mysterious control codes of ASCII will be explained. Subtle decisions made in the last century had large unintended consequences. The irritating eternal dilemma \"Tabs or Spaces?\" will finally be resolved logically for the first time.",
+      "speakersNamesCsv": "Douglas Crockford",
+      "interestLevel": 0
+    },
+    {
+      "id": 6210,
+      "title": "Introduction To The Lean Definition Process",
+      "sessionUrl": "introduction-to-the-lean-definition-process",
+      "description": "The Lean Definition Process provides a structured approach to uncovering the tangible 360 degree view of the full product to be built by leveraging the various points of view across all the new product touch points prior to build. This presentation will provide an overview of the benefits and a walk through of the results of the process, as well as case studies on the application of the process.\nBenefits of The Lean Definition Process\nProvides a 360 degree view of \"What The Product Is\" prior to execution\nFacilitates cross-discipline communication between domain experts \nUncovers unknowns and prevents bottlenecks in the product development phase\nIncreases a culture of collaboration across silos\nEnables efficient on boarding of new team members\n<br/><br/>\nFor independent programmers and developers, the Lean Definition Process provides a clear cut way to establish rapport with your client, uncover unknowns upfront, manage expectations, enable a visual representation of their product vision with a reality check, clearly communicate, work with non-technical customers, and educate them as to all that is involved to build the product. Especially applicable to IOT, hardware and software applications that are device specific.\n",
+      "speakersNamesCsv": "Cindy Solomon,Malcolm Knapp",
+      "interestLevel": 0
+    },
+    {
+      "id": 6211,
+      "title": "Everything you wanted to know about Git, but were afraid to ask.",
+      "sessionUrl": "everything-you-wanted-to-know-about-git-but-were-afraid-to-ask",
+      "description": "<p>Git (and GitHub) have become pillars in how we manage our code workflow, particularly when we work with large teams. Yet developers tend to be afraid of Git, and only handle but the most basic of operations. This presentation will reveal the magic of Git, and help you understand how and why operations are carried out.\n</p><p>\nAfter this session, you'll never be afraid of a merge conflict again.\n</p>\n<strong>Topics covered:</strong><br/><br/>\n<ul>\n<li>Git under the hood</li>\n<li>Git basics</li>\n<li>Merging vs Rebasing</li>\n<li>Conflict resolution</li>\n<li>Triangular Workflow</li>\n</ul>\n<p>\nCommon error scenarios and how to solve them * Tips and Tricks \n</p>",
+      "speakersNamesCsv": "Lenny Markus",
+      "interestLevel": 0
+    },
+    {
+      "id": 6212,
+      "title": "JWTs Aren't So Great",
+      "sessionUrl": "jwts-arent-so-great",
+      "description": "<p>JSON Web Tokens (JWTs) are all the rage in the security world. They’re becoming more and more ubiquitous in web authentication libraries, and are commonly used to store a user’s identity information.<br /> <br />In this talk, Randall Degges, Developer Advocate at Okta, will walk you through web authentication from the ground up, explaining how it works both with and without JWTs. Along the way you’ll learn why JWTs aren’t as great as you might hear, and learn about better ways to speed up web authentication for your web applications.<br /> <br />Through this talk, you’ll learn:<br /> <br />- How web authentication works.<br />- How HTTP sessions and cookies store information.<br />- How JWTs work.<br />- How JWTs are commonly used in authentication libraries and tools.<br />- Why JWTs are so popular.<br />- Why JWTs aren’t the right solution for most web applications.</p>",
+      "speakersNamesCsv": "Randall Degges",
+      "interestLevel": 0
+    },
+    {
+      "id": 6213,
+      "title": "Deep Dive: Oracle MySQL Cloud Service ",
+      "sessionUrl": "deep-dive-oracle-mysql-cloud-service",
+      "description": "This session introduces a new platform-as-a-service offering: Oracle MySQL Cloud Service. MySQL is the world’s most popular open source database and the #1 open source database in the cloud. Oracle has engineered the proven MySQL Enterprise Edition together with Oracle Public Cloud to deliver a secure, cost-effective, and enterprise-grade MySQL database service. \nJoin this deep dive session to learn \nHow self-service provisioning creates preconfigured MySQL databases optimized for performance, and how cloud tooling automates databases instance lifecycle management\nHow advanced security features including MySQL Enterprise Firewall, authentication, and MySQL Enterprise Audit protect your databases against external attacks and misuse of information while helping you achieve regulatory compliance \nHow MySQL Enterprise Monitor and the MySQL Query Analyzer continuously monitor your databases",
+      "speakersNamesCsv": "Sastry Vedantam",
+      "interestLevel": 0
+    },
+    {
+      "id": 6214,
+      "title": "There Is No Such Thing as a Microservice!",
+      "sessionUrl": "there-is-no-such-thing-as-a-microservice",
+      "description": "The microservice architecture is becoming increasingly popular. However, frequent references to using “a microservice to solve a problem” suggest that the concept is not universally well understood. In this talk, I define the microservice architecture as an architectural style and explain what that actually means. I also describe how the primary goal of the microservice architecture is to enable continuous delivery and deployment, and how it achieves that. You will learn why the architecture that you pick for your application matters. And you will learn how to solve key challenges with decomposing an application into microservices. This talk explains why there is no such thing as a microservice!",
+      "speakersNamesCsv": "Chris Richardson",
+      "interestLevel": 2
+    },
+    {
+      "id": 6215,
+      "title": "DevOps for building Polyglot Microservices - Containerized",
+      "sessionUrl": "devops-for-building-polyglot-microservices---containerized",
+      "description": "Availability of powerful technology stacks, with each having an advantage of its own. Polyglot Microservices gives great flexibility to the developers.\nLearn to cook the DevOps recipe for the multi stack flavored Microservices. Giving developers perspective of building Microservice Architecture and way to seamlessly execute DevOps using containers for technology stacks such as Nodejs and SparkJava.",
+      "speakersNamesCsv": "Abhinav Shroff",
+      "interestLevel": 0
+    },
+    {
+      "id": 6216,
+      "title": "Manage your life: Web-based goal, time, project, health management",
+      "sessionUrl": "manage-your-life-web-based-goal-time-project-health-management",
+      "description": "This session is an attempt to not only offer some fresh approaches to time/goal management, but also to engage in a discussion about new ideas and look at some thought-provoking concepts for total life management, that are made possible by a holistic approach to web-based application development nowadays. \n<br/><br/>\nWe'll start by reviewing some classic approaches and theories for time and project management (GTD, books \"The Time Trap\", \"One minute manager\", etc), discussing goal-based time/project management and speculating about the future trends. \n<br/><br/>\nThen we'll take a look at some popular web-based applications for time/goal/project management and compare them to several integrated, \"all-in-one\" solutions. \n\nAt the end, we'll engage in a lively discussion on what the future for these approaches and applications will be and how to best use them. \n\nSome of the ideas/points will be quite controversial with far-reaching implications (security, privacy, etc), so be sure to arm yourself with some real-life questions, examples and concerns. Hopefully, we'll have an intellectually-stimulating discussion where everybody will learn something new and get a fresh perspective on how to make the most of their potential. \n",
+      "speakersNamesCsv": "Roman Zhovtulya",
+      "interestLevel": 0
+    },
+    {
+      "id": 6217,
+      "title": "Introduction to GPGPU and ManyCore Systems Programming",
+      "sessionUrl": "introduction-to-gpgpu-and-manycore-systems-programming",
+      "description": "An Introduction to GPGPU and Many-Core Systems Programming with OpenCL, CUDA, WebCL and C++AMP. GPU and Many-Core systems are important to the future of computing. They can provide tremendous performance speed ups of 5x to 100x, or more! GPUs are available with all device types(servers,desktops,laptops,tablets,mobile). Their power is harnessed using specialty programming languages, OpenCL, CUDA, WebCL and C++AMP, with parallel algorithms, Scan, Reduce and more... With what you can learn from this presentation you'll know enough to impress your friends and be really dangerous on a GPU!",
+      "speakersNamesCsv": "Tim Child",
+      "interestLevel": 0
+    },
+    {
+      "id": 6218,
+      "title": "Common Post Deployment Snafus",
+      "sessionUrl": "common-post-deployment-snafus",
+      "description": "This session will cover, from personal experience after just a year of professional programming, the 10 most common problems that surface after deploying code to production environments. It will encompass concepts such as performance, style, security, null, patterns in service oriented architectures and more! I'll show actual code and walk through how to avoid the pitfalls by modifying said code. Ultimately, this is a checklist-type talk to improve code quality and delivery.",
+      "speakersNamesCsv": "Akansh Murthy",
+      "interestLevel": 0
+    },
+    {
+      "id": 6221,
+      "title": "Modern HTML5 UI for desktop and embedded apps",
+      "sessionUrl": "modern-html5-ui-for-desktop-and-embedded-apps",
+      "description": "HTML5 is the best technology for a modern user interface. What if you are building a desktop or embedded app, and you don't want to run it as a server, or port it into an application shell such as Electron? What if you could simply add a browser control to the app and hook it up to your code? \n\nThis session shows an example of a C# .NET application, with an Angular UI running in a CefSharp (Chromium Embedded Framework for C#) browser control, and a minimal back end using ASP.NET WebAPI. There is no server. All the networking layers between the browser and the WebAPI are replaced with asynchronous callbacks. The Angular UI and the ASP.NET WebAPI are completely standard and can be tested separately from the rest of your app. So you get a well-structured application with a beautiful modern user interface and minimal overhead. It's a lot easier than you may think. ",
+      "speakersNamesCsv": "Tom Becker",
+      "interestLevel": 0
+    },
+    {
+      "id": 6222,
+      "title": "The Internet of Things, and Why it is the Future",
+      "sessionUrl": "the-internet-of-things-and-why-it-is-the-future",
+      "description": "I will be talking about the Internet of Things. I will not only be covering the conceptual facets and how it originated, but also the advances in technology that have paved way for the Internet of Things, and how it is slowly being integrated into the technology and media that we use and see every single day. I will be talking about future applications of the Internet of Things, and how individuals immersed in the tech world can anticipate future technology to revolve around this inevitable construct.",
+      "speakersNamesCsv": "Nikhil Rati",
+      "interestLevel": 0
+    },
+    {
+      "id": 6223,
+      "title": "Women in Tech: Your Value Creation, Visibilty, and Growth",
+      "sessionUrl": "women-in-tech-your-value-creation-visibilty-and-growth",
+      "description": "As women we know our work experiences differ from our male colleagues and the career advice we need is not always what we’ve been receiving. Most advice is for men.  For women the hard work, advanced degrees, and networking activities have not been enough.  What we’ll discuss in this session are tips and tools to increase the visibility of the value you create for your company and your teams, what you can do to grow yourself, and how you can create more career options.",
+      "speakersNamesCsv": "Kim Greenlee,Carmen J. Sandoval",
+      "interestLevel": 0
+    },
+    {
+      "id": 6224,
+      "title": "Android Architecture & Material components with Kotlin.",
+      "sessionUrl": "android-architecture-material-components-with-kotlin",
+      "description": "It has always been said that Android is not a complete platform.  The app developer must include several popular libraries as a base just to start to build a simple app.  Now Google has expressed the same sediment.  The four App components of Android (Activities, Services, Broadcast receivers and Content providers) are not the building blocks of an Android app but a contract between the OS and Application.  App developers need to rebuild the basic building blocks whenever starting a new App.   This causes many problems for developers and leads to ambiguity about how to best build a robust App. \n <br/><br/>\nGoogle is looking to remedy this problem by releasing the Android Architectural Components (Room, Lifecycle-aware components, ViewModels and LiveData).  While they individually address developer pain points (Persist Data, Manage Lifecycles, Modular & remove errors) they also work together to implement a sane app architecture. In this talk we will detail each components functions and benefits\n  <br/><br/>\nOnce we have a clear understanding of the Architectural Components we will explain how they work together to form a robust reference architecture. Common architectural principles: The most important thing you should focus on is the separation of concerns in your app.\n <br/><br/>\nThe second important principle is that you should drive your UI from a model, preferably a persistent model.\n  <br/><br/>\nWe end the talk by reviewing how these new components replace and interact with current popular Android libraries. <br/><br/>\n",
+      "speakersNamesCsv": "Siamak Ashrafi",
+      "interestLevel": 0
+    },
+    {
+      "id": 6225,
+      "title": "Full Stack Development with JavaScript and NoSQL",
+      "sessionUrl": "full-stack-development-with-javascript-and-nosql",
+      "description": "Being a backend developer, frontend developer, or system administrator often isn’t enough in the modern technology space. Now it is often the expectation that the developer is responsible for all parts of the stack, making them what can be referred to as a Full Stack Developer.\n\nWe’re going to see how to leverage Node.js towards building a very modular web application that can be expanded beyond the web to things like mobile, desktop, and the Internet of Things (IoT). In particular, we’re going to be looking at NoSQL as our data layer, Node.js as our logic layer, and Angular as our client layer when building a web application.\n\nA breakdown of the session can be seen below:\n\n* Building a RESTful API with Node.js that has several CRUD endpoints\n\n* Connecting the Node.js application to a NoSQL database for flexible data storage in JSON format and complex querying\n\n* Creating and consuming API data from an Angular with TypeScript frontend application\n\nAs an attendee, you’ll walk away with knowledge that can be applied towards creating your own very powerful, yet lightweight, full stack web applications.",
+      "speakersNamesCsv": "Nic Raboy",
+      "interestLevel": 0
+    },
+    {
+      "id": 6226,
+      "title": "9 things every developer can do to be more inclusive",
+      "sessionUrl": "9-things-every-developer-can-do-to-be-more-inclusive",
+      "description": "The only thing stopping software from being inclusive is the developers. Being inclusive is not a \"bonus if we have enough time\", but needs to be a core focus of a project from the earliest stage to the final product. \n<br/><br/>\nA large number of developers recognize this is an important issue, but don’t think they have the resources to do anything about it. If more developers did these things, they could increase their potential audience tremendously. This isn't about altruism, it's just good business practice. \n<br/><br/>\nTobiah Zarlez from Microsoft will share what he has learned through his work with developers, as well as his own development experience. Attendees will take away 9 simple ideas that developers should know about when creating their software to greatly increase the inclusivity their final products. They will learn that inclusivity can be cheap and easy to integrate as long as these concepts are kept in mind from the beginning. ",
+      "speakersNamesCsv": "Tobiah Zarlez",
+      "interestLevel": 0
+    },
+    {
+      "id": 6227,
+      "title": "Cracking the Coding Interview",
+      "sessionUrl": "cracking-the-coding-interview",
+      "description": "Programming interviews are a different breed from other interviews and, as such, require specialized skills and techniques. This talk will teach you how to prepare for coding interviews, what top companies like Google, Amazon, Facebook, and Microsoft really look for, and how to tackle the toughest programming and algorithm problems. This is not a fluffy be-your-best talk; it is deeply technical and will discuss specific algorithm and data structure topics.",
+      "speakersNamesCsv": "Gayle Laakmann McDowell",
+      "interestLevel": 0
+    },
+    {
+      "id": 6229,
+      "title": "Hiring Coders with Whiteboard Interviews and Other Questions",
+      "sessionUrl": "hiring-coders-with-whiteboard-interviews-and-other-questions",
+      "description": "Google is (in)famous for its tough algorithm questions, and then making candidates code on a whiteboard. Other companies are partial to behavioral questions, factual/knowledge questions, and big lofty architecture and design questions. \n\nWe’ll discuss the different styles of technical and behavioral interviews for software developers. What’s right for your company? And how do you help candidates do their very best (and why is this so important)? How to keep your standards reasonable, but high and consistent? How do you limit your false negatives and false positives? \n\nHiring managers and recruiters will learn how to create a better process. Interviewers will learn how to select and ask better questions. And candidates will get to explore what happens on the other side of the hiring table. \n\nThis session will cover behavioral questions, coding questions, algorithm questions, knowledge questions, design questions, and code assessment/test tools.",
+      "speakersNamesCsv": "Gayle Laakmann McDowell",
+      "interestLevel": 0
+    },
+    {
+      "id": 6230,
+      "title": "Business Networking Pickup Lines for Developers",
+      "sessionUrl": "business-networking-pickup-lines-for-developers",
+      "description": "There will be NO NAPPING during this session. In this workshop everyone will stand up, talk, move around, and learn professional networking engagement techniques. David Spark, author of \"Three Feet from Seven Figures: One-on-One Engagement Techniques to Qualify More Leads at Trade Shows\" challenges the most introverted developers to come to this session and learn how to make in-person cold connections, find *the* person in the room you need to talk to, and qualify a person for a potential business relationship.",
+      "speakersNamesCsv": "David Spark",
+      "interestLevel": 0
+    },
+    {
+      "id": 6232,
+      "title": "Your Vertical Intranet – When OOTB is Out of the Question",
+      "sessionUrl": "your-vertical-intranet---when-ootb-is-out-of-the-question",
+      "description": "<p>SharePoint's PnP Deployment engine allows us to create repeatable builds of customized client portals. How can you utilize this for legal, healthcare and other industry specific portals? We will look at how to achieve this in SharePoint 2016 and SharePoint Online in the following scenarios:</p>\n<ul><li>\n<ul>Legal</li>\n<ul>Medical</li>\n<ul>Entertainment</li></ul>\n<p>\nSpecial considerations such as metadata, branding and security will be discussed for a realistic overview of what the PnP Deployment Engine can, and cannot provide in the way of process automation for deployments.</p>",
+      "speakersNamesCsv": "Ramona Maxwell",
+      "interestLevel": 0
+    },
+    {
+      "id": 6233,
+      "title": "Intro to Test Driven Development",
+      "sessionUrl": "intro-to-test-driven-development",
+      "description": "<p>What is Test Driven Development? How does it differ from conventional programming? In this session, we'll look at:</p>\n\n<p>• The 3 Steps of TDD\n  <br />• The 3 Laws of TDD\n\n  <br />• A collaborative demonstration with a simple <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Kata_(programming)\">code kata</a>\n\n  <br />• Costs vs. Benefits</p>",
+      "speakersNamesCsv": "Jon Reid",
+      "interestLevel": 0
+    },
+    {
+      "id": 6234,
+      "title": "Angular 101",
+      "sessionUrl": "angular-101",
+      "description": "Angular is *the* framework for creating modern client-side Web applications. In this session, we cover what you need to get started using the latest version of Angular.\nWe cover the key building blocks, such as modules, components, and templates and learn how to use the Angular CLI for generating Angular code.\n",
+      "speakersNamesCsv": "Deborah Kurata",
+      "interestLevel": 0
+    },
+    {
+      "id": 6235,
+      "title": "Build an Alexa skill with .NET Core and AWS Lambda",
+      "sessionUrl": "build-an-alexa-skill-with-net-core-and-aws-lambda",
+      "description": "AI is expanding into our daily lives. Devices and agents like Siri, Cortana, Amazon Alexa, and Google Home are gaining huge traction in homes and phones around the globe. What better way to embrace our AI overlords than to build your own Alexa skill?\n <br/><br/>\nLearn how to use open-source tools and .NET Core to build and deploy a custom Alexa skill. The project will utilize AWS Lambda for friction-free deployment and scaling. A live demo will be included!",
+      "speakersNamesCsv": "Nate Barbettini",
+      "interestLevel": 0
+    },
+    {
+      "id": 6236,
+      "title": "dynamic_cast From Scratch",
+      "sessionUrl": "dynamiccast-from-scratch",
+      "description": "This session will introduce you to the C++ object model: the rules by which C++ class objects are translated into memory layouts. We'll move from simple structures to polymorphic class types, then onward to multiple and virtual inheritance. We'll discuss the anatomy of a virtual method call, the difference between `static_cast` and `reinterpret_cast`, and what's contained in a vtable besides function pointers. The climax will be a complete implementation of C++'s built-in `dynamic_cast`, using our own hand-crafted artisanal run-time type information (RTTI). We'll see that the way `dynamic_cast` thinks about the class hierarchy is slightly different from the way we're used to drawing it!\n<br/>\nAttendees will incidentally be exposed to several features of the modern C++ language, including type traits, the `final` qualifier, and the library type `std::variant`.\n<br/>\nThis session will mostly be talking about the Itanium C++ ABI, which is the standard on Linux and OS X systems. Mapping these concepts to the MSVC ABI will be left as an exercise for the reader.",
+      "speakersNamesCsv": "Arthur O'Dwyer",
+      "interestLevel": 0
+    },
+    {
+      "id": 6237,
+      "title": "Getting Deep into Machine Learning with TensorFlow",
+      "sessionUrl": "getting-deep-into-machine-learning-with-tensorflow",
+      "description": "In this talk we discuss Deep Learning, the technique that powers many of the most powerful Artificial Intelligent products and applications. Such as self-driving cars, automatic image labeling in social networks, and robotic vision.\n <br/><br/>\nWe look at technology that underlies Deep Learning solutions, and how to implement these solutions with Google’s popular machine learning framework, TensorFlow.  We go over what deep learning is, how it works, and how we use TensorFlow and Keras to quickly and efficiently implement world-class AI solutions and products.\n",
+      "speakersNamesCsv": "Jerry Kurata",
+      "interestLevel": 0
+    },
+    {
+      "id": 7238,
+      "title": "Goodbye VMs - Hello Docker",
+      "sessionUrl": "goodbye-vms---hello-docker",
+      "description": "For the last 20 years, virtual machines have allowed us to create isolated environments for running applications. VMs are especially useful for developers who may not always want their development tools to destabilize their main work environment or who do development on different operating systems. In recent years Docker and containers have provided a more lightweight solution for providing these isolated environments.\n\nIn this session I'll show you how to migrate existing web applications to Docker. We'll use DNN (DotNetNuke) to show how easy it is to use Docker for building and deploying applications.",
+      "speakersNamesCsv": "Joe Brinkman",
+      "interestLevel": 0
+    },
+    {
+      "id": 7239,
+      "title": "A Machine Learning Primer ",
+      "sessionUrl": "a-machine-learning-primer",
+      "description": "This session will provide a primer on machine learning, a high-level non-intimidating overview. We’re going to demystify machine learning and its use. We’ll look at how learning occurs and how deep learning is different. We will review 6-8 common algorithms such that you get a good intuition about each one. (e.g., Linear Regression, Logistic Regression, Support Vector Machines, Decision Trees, K-Nearest Neighbor, K-Means, Neural Networks, Deep Learning). There will be very little math and no coding. The goal is for everyone to become conversant with machine learning.",
+      "speakersNamesCsv": "Antony Ross",
+      "interestLevel": 0
+    },
+    {
+      "id": 7240,
+      "title": "The Data Science Process",
+      "sessionUrl": "the-data-science-process",
+      "description": "This session will provide a clear overview of the data science process. We will discuss how to take an identified problem or idea and frame it as an effective question that will guide the project. We will then talk about acquiring, pre-processing, and exploring the data. Next, we'll consider how to model the data in a way that enables us to answer the proposed question, and how to choose the best from among several effective algorithms. Finally, we will discuss the important skill of data storytelling in communicating the insights and predictions of the analysis in a compelling way. The goal is to enable attendees to understand the workflow of solving a data problem.",
+      "speakersNamesCsv": "Antony Ross",
+      "interestLevel": 0
+    },
+    {
+      "id": 7241,
+      "title": "A Math-Free Introduction to Neural Networks",
+      "sessionUrl": "a-math-free-introduction-to-neural-networks",
+      "description": "Have you ever tried learning about Neural Networks but are allergic to dense equations?  This is the talk for you!  Learn the concepts behind neural networks with nothing more complicated than addition and multiplication.\n<br/><br/>\nThis talk is intended for beginners who are interested in machine learning - if you've ever opened up a TensorFlow tutorial, this talk is for you!  You'll learn a brief history behind neural networks as well as common applications today.  Then we'll cover neural networks from the ground up, covering the architecture and how all the components fit together.  Finally, we'll assemble those components into a basic neural network that solves the Warrior programming game.",
+      "speakersNamesCsv": "Randall Koutnik",
+      "interestLevel": 0
+    },
+    {
+      "id": 7242,
+      "title": "Creating an AWS Lambda Function with Kotlin",
+      "sessionUrl": "creating-an-aws-lambda-function-with-kotlin",
+      "description": "Kotlin is a language from the tool gurus at JetBrains. In 2016, after about six years of development, Kotlin reached version 1.0. In 2017  it won the hearts of developers and became an officially supported language for Android. \n<br/><br/>\nKotlin, like Java, is for more than creating Android applications. It can replace or enhance Java most places it is used today including on AWS. AWS Lambda functions sometimes called Serverless Computing, is a service which lets us developers build web services without worrying about configuring servers. \n<br/><br/>\nIn this session, we will create a lambda service on AWS using  Kotlin. Along the way, we will learn what a makes Kotlin an excellent replacement for Java and how simple it is to construct an AWS Lambda function.",
+      "speakersNamesCsv": "Troy Miles",
+      "interestLevel": 0
+    },
+    {
+      "id": 7243,
+      "title": "Living on the IOT Edge (Developing Sensor Application for the Cloud Edge)",
+      "sessionUrl": "living-on-the-iot-edge-developing-sensor-application-for-the-cloud-edge",
+      "description": "The availability of machine learning in the cloud combined with extensive press coverage of “IOT (Internet Of Things) evolution has led to extensive speculation about innovative new applications.  A key element in most of these application are sensor elements residing on the cloud edge which are capable of automatically feeding data to cloud resident machine learning applications.\nThese sensor applications face a number of constrains, which are not normally encountered when developing other computer based applications. Two of the most important constrains are related to power and communications. Cost and complexity issues preclude the use of hardwired connections. In addition the commonly used Wi-Fi and Cellular Radio (Smart Phone) wireless technologies do not provide suitable solutions for most of the application. Since power must be obtained from batteries or solar cell sources low power consumption is also a critical issue.\nThe presentation will provide a overview of the following topics\n Microcontroller vs other computing environments\nMicrocontroller development tools\nLow Power Communication options such as Sigfox, and Lorawan along their pros and cons\nThings Network Open Source Project\nConnecting to Cloud IOT servers\nFollow the overview a walk thought of the development of the code used to implement a low cost IOT metrological   sensor will be presented.\nSample of various hardware components used for IOT sensor development will be shown\n",
+      "speakersNamesCsv": "Steve Mylroie",
+      "interestLevel": 0
+    },
+    {
+      "id": 7245,
+      "title": "Passwords on a Phone",
+      "sessionUrl": "passwords-on-a-phone",
+      "description": "Almost all Android apps from major retailers store your password on the phone, which is dangerous and unnecessary.  And they don't even use the Android KeyStore; they just use custom encryption schemes that generate a key in predictable ways, so passwords are easily recoverable.  This is “fake encryption” – the data appears to be encrypted but in fact is not actually protected from attackers.\n<br/><br/>\nThe Safeway app is typical: it encrypts passwords with AES, generating the key from other values that are stored on the phone.  I notified Safeway of this in April, 2017, but they never fixed it.  \n<br/><br/>\nI will present results of my tests of many top retailers, and demonstrate how to steal passwords from them.  I will also list a few (very few) companies who actually protect their customers' passwords properly.\n<br/><br/>\nThe purpose of this talk is to raise awareness of the poor quality of retail Android apps, and to encourage developers into improving their products.",
+      "speakersNamesCsv": "Sam Bowne",
+      "interestLevel": 0
+    },
+    {
+      "id": 7247,
+      "title": "Fantastic Transcoder: Massively Parallel video conversion in AWS Lambda",
+      "sessionUrl": "fantastic-transcoder-massively-parallel-video-conversion-in-aws-lambda",
+      "description": "Fantastic Transcoder is a serverless video encoder which utilizes massively parallel compute in AWS Lambda to achieve ludicrous conversion speeds. It exists as an orchestrated collection of Lambda tasks which uses DynamoDB, SQS, and S3 for data structure, job tracking, and object storage respectively, essentially turning Lambda into a render farm. Take a deep dive on how Fantastic Transcoder itself works, gotchas of massively parallel programming, failure cases, and using lambda efficiently at scale.",
+      "speakersNamesCsv": "Gabe Abinante",
+      "interestLevel": 0
+    },
+    {
+      "id": 7248,
+      "title": "Microservice Architecture using 12-factor on AWS",
+      "sessionUrl": "microservice-architecture-using-12-factor-on-aws",
+      "description": "<p>Microservices is an architectural style that structures an application as a collection of loosely coupled services. An important tenet is – services should be fine-grained and the protocols should be lightweight. This improves modularity and makes the application easier to understand, develop and test. It also parallelizes development by enabling small autonomous teams to develop, deploy and scale their respective services independently and improve architecture via continuous refactoring. The microservice architecture enables continuous delivery and deployment. The Twelve-factor App methodology allows to build modern, agile, scalable and maintainable web applications.\n  <br />&#160; <br />In this talk we will provide a walkthrough of how to develop a microservices-based application and apply the twelve Factor App to refactor your application from a monolith to a micro service. Attendees will learn key architectural patterns such as Continuous Deployment, Service Discovery, Secrets management, Blue-Green Deployments to enable a micro service architecture on AWS using containers.\n\n  <br />&#160; <br />Topics include:\n\n  <br />• Micro service Architecture overview\n\n  <br />• The Twelve Factor App overview\n\n  <br />• Deep Dive on several components of AWS stack\n\n  <br />• Architectural patterns and best practices\n\n  <br />• Deployment Pipelines\n\n  <br />• Service Discovery</p>",
+      "speakersNamesCsv": "Asif Khan",
+      "interestLevel": 0
+    },
+    {
+      "id": 7249,
+      "title": "Extending Blockchain To Enterprise Applications",
+      "sessionUrl": "extending-blockchain-to-enterprise-applications",
+      "description": "Most people have heard of Bitcoin, and also know that blockchain is one of the underlying concepts behind this cryptocurrency.  However, the ability to share information via a shared, trusted distributed network with embedded business logic also has many potential benefits for an enterprise deployment.  Join this session to hear about blockchain, enterprise use cases, and associated concepts such as smart contracts.  We will build a smart contract in Java or Go on the Hyperledger Fabric blockchain technology, and also discuss what we, as technologists, should be thinking about as we look to apply these concepts across various enterprise use cases.",
+      "speakersNamesCsv": "Nelson Petracek",
+      "interestLevel": 0
+    },
+    {
+      "id": 7250,
+      "title": "Learn To Build A Website with Golang",
+      "sessionUrl": "learn-to-build-a-website-with-golang",
+      "description": "The Go programming language is the best choice for web programming today. \n<br/><br/>\nCreated by Google, the Go programming language allows you to build web services that easily scale. \n<br/><br/>\nIn this session, you will learn how to build a web server in Go and will see how to program routes to handle requests and serve responses.\n<br/><br/>\nFor three years, it has been my privilege to teach the Go Programming Language and Web Development With Go at both the college and university level. I have taught Go as an introductory programming course and I have taught Go to graduate students in computer science. In addition, I have taught over 50,000 students online the Go Programming Language.\n<br/><br/>\nI am looking forward to sharing with you my passion for Go, along with the great repositories I have developed over the last two years to help people learn Web Development With Go.",
+      "speakersNamesCsv": "Todd McLeod",
+      "interestLevel": 0
+    },
+    {
+      "id": 7252,
+      "title": "Instant Mobile Web: An Accelerated Mobile Pages primer",
+      "sessionUrl": "instant-mobile-web-an-accelerated-mobile-pages-primer",
+      "description": "<p>In Oct 2016, mobile and tablet internet usage exceeded desktop for the first time worldwide!&#160; With over 50% of your users on their phones, is your web app optimized for them?\n  <br />&#160; <br />Accelerated Mobile Pages (AMP) is an open-source initiative, a Javascript library for building lightening speed mobile web apps.&#160; As of May 2017, there are over 2billion AMP pages and growing!&#160; The Washington Post, eBay, Airbnb, these are just some companies who are using AMP in their web products \n\n  <br />&#160; <br />We will look under the hood and learn about how AMP optimizes performance with resource allocation, invisible ink, sandbox iframes and more. Attendees will learn about what makes AMP pages lightning fast on mobile, and get up and running with a code demo. \n\n  <br />&#160; <br />Attendees will learn first hand about:\n\n  <br />1. How AMP addresses mobile web challenges \n\n  <br />2. How to build a valid AMP page with navigation, embedded media, and user interactivity. \n\n  <br />3. Future AMP integration with progressive web apps (PWA)</p>",
+      "speakersNamesCsv": "Lisa Huang",
+      "interestLevel": 0
+    },
+    {
+      "id": 7253,
+      "title": "Lockdown: a SHOCKING security primer for web developers",
+      "sessionUrl": "lockdown-a-shocking-security-primer-for-web-developers",
+      "description": "Security is an increasingly important part of building modern web applications, but it often falls victim to the pressure of tight deadlines. As attacks become more sophisticated, protecting our users becomes not just an ethical responsibility, but part of preserving a company’s reputation and trust.\n<br/>\nIn an effort to understand what we as developers are up against, we’ll  get hands-on experience staging some attacks, and in doing so learn how we can fend off those who would do our users harm.\n<br/>\nThis workshop is intended for web application developers who have an understanding of how a client and server interact with each other. If you know what HTTPS, DNS and SQL are, and have some hands-on experience with JavaScript, you should get a lot out of this!",
+      "speakersNamesCsv": "Mike North",
+      "interestLevel": 0
+    },
+    {
+      "id": 7254,
+      "title": "Container and Kubernetes networking 101",
+      "sessionUrl": "container-and-kubernetes-networking-101",
+      "description": "<p>With the widespread adoption of Docker, containers have taken the DevOps world by storm. Cloud-native is the new programming paradigm. Since developers are not only the creators of these systems, but also the administrators and users - it is imperative for them to understand the different models of container networking both within a host and across hosts along with some of the newer Linux kernel constructs that aid container networking</p>\n\n<p>This talk is aimed at introducing out-of-the-box docker networking and diving deeper into understanding the nuts &amp; bolts of the system - from network namespaces to linux system calls that make everything work. We will also look at various open source networking projects such as Calico, Flannel and Weave for inter-node communication with Kubernetes as the container orchestration tool.</p>\n\n<p>Some specifics that will be covered in the talk:\n  <br />+ Direct host container networking (L2/L3 connectivity for Containers with the external network)\n\n  <br />+ MACVLAN and IPVLAN\n\n  <br />+ K8S pod network model &amp; CNI\n\n  <br />+ Running network backend outside of K8S versus running them as K8S objects (Daemon Sets)\n\n  <br />+ Recent developments in Docker Networking\n\n  <br />+ Debugging network issues using probes (Eg: Sysdig)\n\n  <br />+ Gotchas in container networking\n\n  <br />+ Future trends in container networking</p>\n\nThis talk is aimed at introducing out-of-the-box docker networking and diving deeper into understanding the nuts & bolts of the system - from network namespaces to linux system calls that make everything work. We will also look at various open source networking projects such as Calico, Flannel and Weave for inter-node communication with Kubernetes as the container orchestration tool.\n\nSome specifics that will be covered in the talk:\n+ Direct host container networking (L2/L3 connectivity for Containers with the external network)\n+ MACVLAN and IPVLAN\n+ K8S pod network model & CNI\n+ Running network backend outside of K8S versus running them as K8S objects (Daemon Sets)\n+ Recent developments in Docker Networking\n+ Debugging network issues using probes (Eg: Sysdig)\n+ Gotchas in container networking\n+ Future trends in container networking",
+      "speakersNamesCsv": "Arun Sriraman",
+      "interestLevel": 0
+    },
+    {
+      "id": 7255,
+      "title": "Zero Configuration Networking",
+      "sessionUrl": "zero-configuration-networking",
+      "description": "If you have an electric lamp, you can plug it anywhere in electric socket and it is expected to work. Could we think the same way for computers? Could we connect our laptop to any Network and make use of the devices available on that network including printer, scanner etc. The answer is YES, we can do it with help of Zero Configuration networking. Zero Configuration networking is a set of protocols which are used together to make devices talk to each other on the same Network, without any DHCP or DNS server. This is has numerous applications including Wake-on-Lan services. In 1980’s, AppleTalk was handling this scenario for Macs which are connected together with LocalTalk cabling. Later on, it was extended to AppleTalk over Ethernet. Currently we have several implementations of Zero Configuration Networking including Apple’s Bonjour, Windows LLMNR, Avahi, Presto etc. ",
+      "speakersNamesCsv": "Zafar Shahid",
+      "interestLevel": 0
+    },
+    {
+      "id": 7256,
+      "title": "Principles of Security",
+      "sessionUrl": "principles-of-security",
+      "description": "<p>As our systems become more distributed and more connected, security has never been more important. The catalog of known exploits is vast. There are more vulnerabilities and pitfalls than any expert can understand. And yet, security is so important that it can not be left to experts.</p>\n\n<p>\n  Fortunately, all good practices flow from a small set of principles. These principles should be known by every programmer and every manager.</p>\n\n",
+      "speakersNamesCsv": "Douglas Crockford",
+      "interestLevel": 0
+    },
+    {
+      "id": 7257,
+      "title": "Automating AWS infrastructure with the AWS Cli",
+      "sessionUrl": "automating-aws-infrastructure-with-the-aws-cli",
+      "description": "In depth tips on leveraging the AWS Python CLI.  We'll cover using the tool to obtain details about your environment, and setting up new services.  We also delve into topics and examples of how to use the AWS cli as a part of your Configuration Management, and CI/CD toolchain.",
+      "speakersNamesCsv": "Eric Courville",
+      "interestLevel": 0
+    },
+    {
+      "id": 7258,
+      "title": "Getting Started with The Go Programming Language ( golang )",
+      "sessionUrl": "getting-started-with-the-go-programming-language-golang",
+      "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software. Go provides the ability for \"server-side\" programming. Traditional choices for server-side languages have included PHP, ASP, and JSP. Currently popular server-side programming languages include Ruby, Python, and Node.js. While there are advantages and disadvantages to all languages, no server-side language is going to be faster than \"Go.\" Couple the speed of Go with Google App Engine and Cloud Storage, and you are now using the exact same architecture as Google. This means that your web apps are going to be incredibly fast and will easily scale to millions of users. Go is an amazing choice for a server-side language as it was developed by some of the same individuals who created the C programming language and Unix, two of the most influential languages of all time. Robert Griesemer, Rob Pike, and Ken Thompson created Go to be a modern language that easily uses multiple cores, easily implements concurrency, easily works in distributed environments, and easily allows the programmer to write programs - it has a very lean and user-friendly syntax! Come learn about one of the greatest languages ever created. You will leave with resources and code samples to start making all of your software and apps really go.…",
+      "speakersNamesCsv": "Todd McLeod",
+      "interestLevel": 0
+    },
+    {
+      "id": 7259,
+      "title": "Kubernetes – Hands-On Demos for Container Orchestration",
+      "sessionUrl": "kubernetes---hands-on-demos-for-container-orchestration",
+      "description": "This session is about the future of distributed computing and how both enterprises and ISVs are running server-based applications at scale on large clusters. The session is a step-by-step walkthrough that will guide you to building out a web service that runs on Kubernetes, leveraging Python and Flask to implement the web component. It also includes a REDIS caching layer in addition to a MySQL database This presentation will provide both conceptual and concrete hands-on guidance that will help new and existing developers better understand how companies such as Twitter, AirBnB, Netflix run server-based applications at massive scale, leveraging containerization and cluster orchestration technologies. Participants will better understand the trends and future direction of modern distributed computing and how the Azure Container Service provides a vendor neutral and 100% open source solution.",
+      "speakersNamesCsv": "Bruno Terkaly",
+      "interestLevel": 0
+    },
+    {
+      "id": 7262,
+      "title": "BlockChain: Learn to implement Blockchain ",
+      "sessionUrl": "blockchain-learn-to-implement-blockchain",
+      "description": "Build a BlockChain App from scratch. Yes, future of financial payments is moving in the direction of BlockChain.\n<br/>\nI will explain the fundamentals of BlockChain in this session and build a complete decentralized BlockChain App.",
+      "speakersNamesCsv": "Gautam Gupta",
+      "interestLevel": 0
+    },
+    {
+      "id": 7264,
+      "title": "The Functional Programming Converter project",
+      "sessionUrl": "the-functional-programming-converter-project",
+      "description": "Many developers feel disheartened by functional programming because not only the language is different but the idioms, approach, and patterns also change.\n<br/><br/>\nThe idea of this session is to present a list of strategies and patterns that are common to imperative programming and object oriented programming and show with examples how to make them work in a functional language.\n\n\nThe talk will include topics like working with immutability, recursion, replacing loops with well-known functions, avoiding null values, using function to short-circuit flow, dependency injection, variadic parameters, generative testing and testing with mocks\n\n\nThe examples will be mainly in Clojure, Scala, Haskell, F# and we may even include Elixir and Lua.",
+      "speakersNamesCsv": "Amir Barylko",
+      "interestLevel": 0
+    },
+    {
+      "id": 7265,
+      "title": "iOS: The Best Parts",
+      "sessionUrl": "ios-the-best-parts",
+      "description": "This session starts with a review of how to build “Real World” not “Hello World” iOS Apps. We dive into the best architecture, design patterns, libraries, components, tools, tips, tricks and common mistakes to avoid before writing your first line of code.  After setting the context we start to learn the language using “A Swift (4.0) Tour” Playgrounds.  \n<br/><br/>\nFollowed by “Start Developing iOS Apps (Swift)”.\n“Start Developing iOS Apps (Swift) is the perfect starting point for learning to create apps that run on iPhone and iPad. View this set of incremental lessons as a guided introduction to building your first app—including the tools, major concepts, and best practices that will ease your path.”\n<br/><br/>\nWe finish the session by examining the similarities between Kotlin & Swift / Material Design & Apple HIG / Android Studio  & XCode / Play Store & App Store.  The similarities will shock you :-)\n",
+      "speakersNamesCsv": "Siamak Ashrafi",
+      "interestLevel": 0
+    },
+    {
+      "id": 7267,
+      "title": "Introduction to Spring Boot",
+      "sessionUrl": "introduction-to-spring-boot",
+      "description": "Spring Boot, the new convention-over-configuration centric framework from the Spring team at Pivotal, marries Spring's flexibility with conventional, common sense defaults to make application development move swiftly and enjoyable. It's ideally suited for building microservices and distributed systems and makes streamlining devops practices simple. Join Pieter Humphrey from the Spring Team or a look at what Spring Boot is, why it's turning heads, why you should consider it for your next application (REST, web, batch, big-data, integration, whatever!) and how to get started.",
+      "speakersNamesCsv": "Pieter Humphrey",
+      "interestLevel": 0
+    },
+    {
+      "id": 7268,
+      "title": "Extending Enterprise Applications to Mobile Interfaces",
+      "sessionUrl": "extending-enterprise-applications-to-mobile-interfaces",
+      "description": "In this session discover a best practice architecture for mobile-based solutions that can read data from a cloud application (such as Oracle Sales Cloud) or an on-premises ERP application (such as Oracle E-Business Suite). Often, enterprises need to build bespoke mobile applications based on critical business needs, but building enterprise-grade mobile apps poses many challenges. Implementing data retrieval in mobile application client code is incredibly complex because it needs to be shaped in the required format within reasonable performance limits and with all aspects of security handled appropriately. These requirements are addressed by a mobile back-end implemented in Oracle Mobile Cloud Service, resulting in a superior user experience that provides increased user adoption.",
+      "speakersNamesCsv": "Rohit Dhamija",
+      "interestLevel": 0
+    },
+    {
+      "id": 7272,
+      "title": "Bitcoin Blockchain - New Money",
+      "sessionUrl": "bitcoin-blockchain---new-money",
+      "description": "Learning history of MONEY, let us discuss new money, digital money.\n<br/>\nWe will discuss blockchain that powers new currencies like Bitcoin, Ethereum etc. We will go over how new money is created and distributed. We will also cover a practical example of send/receive of digital money using digital wallet. \n<br/>\nIn this session, you will learn how you can build your block chain network and develop new apps. Emerging usage of block chain will be discussed. We will go over demos of several technologies in this session. These demos will help you understand how technology is evolving. You will learn how cryptology and distributed trust form core of   technology. You will gather new ideas to develop your own app as well. \n<br/>\nIn the end, we will cover future of new money. We will discuss what we can do stay prepared. This will be an useful  session for all who want to know cryprocurrency, block chain  technology and new usage that is going to change financial markets of future. ",
+      "speakersNamesCsv": "Sunil Sabat",
+      "interestLevel": 0
+    },
+    {
+      "id": 7273,
+      "title": "Clean Code – The Art of Decoupling",
+      "sessionUrl": "clean-code---the-art-of-decoupling",
+      "description": "Why writing Clean Code makes us more efficient? Over the lifetime of a product, maintaining the product is actually one - if not the most - expensive area(s) of the overall product costs.  \n \nWe will dive into why decoupling is so crucial and what design patterns, best practices, and technologies are out there to do it right and want can go wrong.\n \nWe start by reviewing the basics of Inversion of Control (IOC) and Dependency Injection (DI) and different ways of achieving decoupling on class-level, using and exploring both: Best Practices, Design and Anti Patterns. Then we will move into Microservices, how these push decoupling to the next level and how to combine the different patterns for an extensible, supportable and maintainable code base.\n \nThis presentation requires knowledge and understanding of basics like DRY, SoC, SRP, SOLID etc. which are building the base for decoupled architecture. However, we will start at the basics of DI and will work towards intermediate scenarios for DI and Microservices depending on the participating group.  \n \nThis presentation is based on C# and Visual Studio 2017. However, the demonstrated patterns and practice can be applied to every other programming language too. ",
+      "speakersNamesCsv": "Theo Jungeblut",
+      "interestLevel": 0
+    },
+    {
+      "id": 7274,
+      "title": "Clean Code - Best Practices",
+      "sessionUrl": "clean-code---best-practices",
+      "description": "All Clean Code presentations provide great value by themselves, but taken together are designed to offer a holistic approach to successful software creation. This first session creates the foundation for the 2nd Clean Code presentation on The Art of Decoupling, as it explains expected base knowledge. Why writing Clean Code makes us more efficient Over the lifetime of a product, maintaining the product is actually one - if not the most - expensive area(s) of the overall product costs. \n\nWriting clean code can significantly lower these costs. However, writing clean code also makes you more efficient during the initial development time and results in more stable code. You will be presented design patterns and best practices which will make you write better and more easily maintainable code, seeing the code in a holistic way. \n\nYou will learn how to apply them by using an existing implementation as the starting point of the presentation. Finally, patterns & practices benefits are explained. \n\nThis presentation is based on C# and Visual Studio 2017. However, the demonstrated patterns and practice can be applied to every other programming language too. Slides: http://www.slideshare.net/theojungeblut/clean-code-i-best-practices",
+      "speakersNamesCsv": "Theo Jungeblut",
+      "interestLevel": 0
+    },
+    {
+      "id": 7275,
+      "title": "Accidentally Manager – A Survival Guide for First-Time Engineering Managers",
+      "sessionUrl": "accidentally-manager---a-survival-guide-for-first-time-engineering-managers",
+      "description": "This session is about your career perspective as an engineer, especially when the path may take an “unexpected” turn from technical lead to first-time engineering manager. We will explore the differences between managing and leading, review different management styles, and discuss their impact on both the manager and the team member. \n\nFinally, we will find out why you do not want to treat everyone equally. I will share my personal experiences going from being one of the team to actually managing it: the pitfalls of suddenly being responsible for the team, typical problems surfacing, and how to avoid common mistakes. \n\nAs part of the session, I would also like to share thoughts and considerations about which career path could be the right one for whom, and what the advantages and disadvantages are going one way or the other. This is not a “You get it all from the expert”- session, but a session to share experiences and discuss how this fits to your career path. ",
+      "speakersNamesCsv": "Theo Jungeblut",
+      "interestLevel": 0
+    },
+    {
+      "id": 7276,
+      "title": "Your User Stories Are Too Big!",
+      "sessionUrl": "your-user-stories-are-too-big",
+      "description": "A common problem for scrum teams is user stories that are too big. When a user story is too big, it is harder to understand, estimate, and implement successfully.\nWhat to do? Scrum promotes incremental development. We talk about getting thin vertical slices of potentially shippable functionality. For many that is a tall order and often seems impossible.\n<br/><br/>\nIn this experiential session - come get hands-on experience with 4 techniques to split the large stories in your backlog into smaller stories 1 slice at a time.\nAfter completing this workshop, participants will be able to split large stories into smaller, more specific stories using: - Conjunctions and connector words - Generic terms - Acceptance criteria - Timeline analysis\n",
+      "speakersNamesCsv": "Cathy Simpson",
+      "interestLevel": 0
+    },
+    {
+      "id": 7277,
+      "title": "Gherkin: Hit Your Development Target Every Time",
+      "sessionUrl": "gherkin-hit-your-development-target-every-time",
+      "description": "Ever get through implementing something, and then find out you didn't build what you were meant to build?  Or discover something ambiguous in a spec half way through that suddenly made the scope of work mushroom into something much larger than you thought it was?  Misunderstandings and false assumptions result in frustration for both customers and developers, plus lots of wasted time.\n<br/><br/>\nThis session will show you a way to ensure clear mutual understanding of specs using Gherkin language.  You will be able to create a clear contract for delivery that removes all the ambiguity.  Extra benefits: a blueprint for automation or manual testing.  The focus will be on agile development and integrating this practice into user story execution, but it can be adapted easily for other types of projects. Participants will leave the session with all they need to begin applying this technique at work every day.",
+      "speakersNamesCsv": "Melinda Jacobson",
+      "interestLevel": 0
+    },
+    {
+      "id": 7278,
+      "title": "Agile Appetizer",
+      "sessionUrl": "agile-appetizer",
+      "description": "<p>Ever met a resistant team? Or managers who say “Agile doesn’t work.” Or executives who think that agile is some kind of get-to-market-quick magic? Well, consider they have no actual idea what agile is. Why would they if no-one has ever explained it to them properly? Worse, their misunderstanding serves as their context during training and coaching and never getting any benefit, preventing successful agile transformations. Andrew Webster calls it “Agile PTSD.” </p>\n\n<p>In this session, you’ll get a deeper insight into the wisdom of agile practices, learning how to shift people’s context for agile development so they see it as a huge exciting opportunity instead of another thing they’ve got to handle when they’re already way too busy.</p>\n\n<p>We’ll cover a set of “dimensions” that explain:\n  <br />Takeaways\n\n  <br />•&#160;&#160;&#160; Why agile practices are inevitable \n\n  <br />•&#160;&#160;&#160; Why up to 70% of people hate their work and how agile practices can transform that\n\n  <br />•&#160;&#160;&#160; How a company benefits financially from using agile approaches\n\n  <br />•&#160;&#160;&#160; How to make sense of work and thereby improve the product, the process, and workers’ experience \n\n  <br />•&#160;&#160;&#160; And more!\n\n  <br />We know agile development is &quot;the difference maker.&quot; Now let’s make that difference!\n\n  <br /></p>\n",
+      "speakersNamesCsv": "Andrew Webster",
+      "interestLevel": 0
+    },
+    {
+      "id": 7279,
+      "title": "Team Scaling Ninja",
+      "sessionUrl": "team-scaling-ninja",
+      "description": "Do you have multiple teams working together in your organization? How's that going? Join us to learn about current team scaling frameworks. See which could help you resolve inter-team problems and harness your teams' inner ninja power. We will explore the ASK Matrix as a tool to self-organize your multi-team development and take it to the next level.",
+      "speakersNamesCsv": "Robert Oliver",
+      "interestLevel": 0
+    },
+    {
+      "id": 7280,
+      "title": "TypeScript in Action",
+      "sessionUrl": "typescript-in-action",
+      "description": "TypeScript continues its growth journey with more and more JavaScript developers and framework authors taking advantage of the excellent tooling and productivity boost that TypeScript provides. In this talk, Doris will go through how TypeScript enables you to leverage features from the current and future of JavaScript while increasing the productivity of JavaScript development incrementally for existing and future JavaScript projects. This session will cover some of the latest features of TypeScript 2.x, including future ECMAScript proposals, support for Angular, React/JSX and Node, the state of the art type system capabilities, and how it all comes together to make working and creating things in JavaScript more productive and fun with TypeScript.",
+      "speakersNamesCsv": "Doris Chen",
+      "interestLevel": 0
+    },
+    {
+      "id": 7281,
+      "title": "Electron: Desktop Development For Web Developers",
+      "sessionUrl": "electron-desktop-development-for-web-developers",
+      "description": "Imagine if you will, your Manager asks you to develop a new desktop application. You're so used to web development that you don't know how to get started. What should you do? Dig out your old VB 6 books or learn a new technology? Better yet, keep those web skills and use Electron. Electron is the cross-platform application shell GitHub originally built for the Atom editor. The focus of this talk will allow you to leave with the starting skills to set up your development environment, generate your starter project, and build some business logic. We will also start building a killer UX with the Photon control kit. Chris Woodruff will be your guide to leveraging your valuable skills for the desktop.",
+      "speakersNamesCsv": "Chris Woodruff",
+      "interestLevel": 0
+    },
+    {
+      "id": 7282,
+      "title": "Intro to Map and Location APIs",
+      "sessionUrl": "intro-to-map-and-location-apis",
+      "description": "We've all gotten lost at some point in our lives. Finding out where we are, where we want to go, and how to get there is hard enough for people, but it’s even harder for our applications and devices.\n<br/>\nFortunately, map and location APIs are here to help. From latitudes to longitudes, from geocoding to geofencing, in this session you'll learn to go beyond maps and help your apps and devices find their way using location technology. \n",
+      "speakersNamesCsv": "Richard Suselbeck",
+      "interestLevel": 0
+    },
+    {
+      "id": 7285,
+      "title": "Brief history of JavaScript Modules",
+      "sessionUrl": "brief-history-of-javascript-modules",
+      "description": "Are you new to JavaScript and confused about the module, module loader, and module bundler? Or you have been writing JavaScript code for a while, but can’t get a grip of the jargons about module? You heard about the jargons like CommonJS, AMD, Browserify, SystemJS, Webpack, JSPM, etc., but don’t understand why we need them?\n<br/>\nI will try to explain what are they, and what problem they try to solve, and how they solve the problem.",
+      "speakersNamesCsv": "Sungyeol Choi",
+      "interestLevel": 0
+    },
+    {
+      "id": 7286,
+      "title": "Extending Components in Angular",
+      "sessionUrl": "extending-components-in-angular",
+      "description": "Components are the building blocks in Angular application development. Come take a ride through the Angular framework as we take advantage of TypeScript to build custom components and extend existing ones. Along the journey, we will discuss Angular modules & decorators, highlight some core features of TypeScript and demonstrate the benefits TypeScript with Angular. ",
+      "speakersNamesCsv": "Troy Taylor",
+      "interestLevel": 0
+    },
+    {
+      "id": 7288,
+      "title": "Containers Your Way",
+      "sessionUrl": "containers-your-way",
+      "description": "Containers are the new abstraction for the datacenter, both on-site and off.  They seem like VMs, but they aren't. Learn a variety of ways to run containers in your organization, for both Linux and Windows and where containers fit in the world of private and public cloud offerings.\n<br/>\nIn this session, you will learn a variety of ways to run and use containers and microservices in your organization, for both Linux and Windows applications. Container technology allows you to achieve greater density on your hosts, reduce conflicts between dev/test/prod environments and increase deployment speed. \n<br/>\nYou can easily get started using Docker containers on your workstation, bring those containers to your datacenter or cloud provider (either on IaaS or a container service) and then deploy them at scale using popular orchestration tools, like Docker or Kubernetes.\n",
+      "speakersNamesCsv": "Jennelle Crothers",
+      "interestLevel": 0
+    },
+    {
+      "id": 7289,
+      "title": "Forward-Thinking Continuous Integration and Delivery Pipeline",
+      "sessionUrl": "forward-thinking-continuous-integration-and-delivery-pipeline",
+      "description": "<p>Building the technology powering the best consumer email inbox in the world is no easy task. When you start on such a journey, it is important to consider how to deliver such an experience to the users. After all, any consumer feature we build can only make a difference after it is delivered to everyone via the tech pipeline.</p><p>As we began building out the new version of Yahoo Mail, we wanted to ensure that our internal developer productivity would not be hindered by how our pipelines work. Keeping this in mind, we identified the following principles as most important while designing the delivery pipeline for the new Yahoo Mail experience:</p><p>* Product updates are pushed at regular intervals<br />* Releases are stable<br />* Builds are not blocked by irrational test failures<br />* Developers are notified of code pushes<br />* Hotfixes<br />* Rollbacks<br />* Heartbeat pushes</p>",
+      "speakersNamesCsv": "Mohit Goenka",
+      "interestLevel": 0
+    },
+    {
+      "id": 7290,
+      "title": "Light up your app with the Composition API",
+      "sessionUrl": "light-up-your-app-with-the-composition-api",
+      "description": "For the first time, managed developers have direct access to the native graphics subsystem in Windows. With this, complex designs can be realized without compromising performance. But how do you do it and how difficult is the API. Leave this session with the confidence to build incredible apps. ",
+      "speakersNamesCsv": "Daren May",
+      "interestLevel": 0
+    },
+    {
+      "id": 7291,
+      "title": "The Psychology of Developer Tool Un-usability",
+      "sessionUrl": "the-psychology-of-developer-tool-un-usability",
+      "description": "This is *not* a talk on proper UX design. What this talk will cover is what goes wrong cognitively when we try to design our own tools.\n<br/>\nHave you ever watched the moon rise on the horizon and thought, \"Wow! I've never seen the moon so big!\" Sorry to tell you, but the moon isn't actually bigger. The moon has the same physical size the entire time in the sky, even on the horizon. What you are experiencing is a type of ocular illusion called the moon illusion. Google it!\n<br/>\nJust like the moon illusion, there are other psychological traps we developers need to be aware of when writing dev tools. For example, color does not exist. There is no consensus what \"red\" actually looks like, because there's no way to compare our subjective experiences of what we actually see when the \"red\" wavelength hits our eyes. \n<br/>\nIn 2015 I received my Masters degree in Human Factors (UX), where I built a Kinect application to study motor learning for a kinesiology professor. I was shocked to discover the usability issues in my own project's design, considering I had studied UX for the past 3 years. Based on this feedback, I hypothesized that developer tools have usability issues because we eventually convince ourselves at the subconscious level our design is correct because it is the ideal way for us to test the tools. We think \"this design is the ideal way to use my framework!\" But in reality, this design is really the ideal way for us to test our own UI or code. \n",
+      "speakersNamesCsv": "Sara Ford",
+      "interestLevel": 0
+    },
+    {
+      "id": 7292,
+      "title": "Developing for Mixed Reality and the HoloLens",
+      "sessionUrl": "developing-for-mixed-reality-and-the-hololens",
+      "description": "The Microsoft HoloLens, the first fully untethered, holographic Windows computer brings with it a new wave of holographic development. This talk will cover how the basics of the device, how it works, and how you can start developing holographic applications today using Unity.",
+      "speakersNamesCsv": "Tobiah Zarlez",
+      "interestLevel": 0
+    },
+    {
+      "id": 7293,
+      "title": "Sketch App 101 for Engineers",
+      "sessionUrl": "sketch-app-101-for-engineers",
+      "description": "Sketch App has become one of the most popular tools among User Experience and Product Designers in the tech industry. Want to be able to jump into Sketch and easily collaborate with the Designers on your team? This session will give you the basic working knowledge of this powerful design tool. There will also be discussion related to best practices of building strong partnerships between design and engineering. \n\n \n\n\n\n\n\nIn this session we will cover how Engineers can easily jump into Sketch and learn the basics. We will discuss how you can use Sketch in a collaborative work environments  \n\nAttendees are encouraged to bring their laptop and download the Sketch App trial.  ",
+      "speakersNamesCsv": "Megan O'Neill",
+      "interestLevel": 0
+    },
+    {
+      "id": 7294,
+      "title": "Design Patterns with Kotlin",
+      "sessionUrl": "design-patterns-with-kotlin",
+      "description": "Kotlin looks great but do you feel like suddenly loosing all your coding skills and wisdom? \n<br/>\nLet's visit the Gang of Four Design Patterns and implement them on Kotlin using IntelliJ's native Kotlin support.",
+      "speakersNamesCsv": "Murat Yener,E John Feig",
+      "interestLevel": 0
+    },
+    {
+      "id": 7295,
+      "title": "Dive into Bots",
+      "sessionUrl": "dive-into-bots",
+      "description": "Bots have become a huge buzzword. How does people actually use bots? What real life scenarios are there? This session examines a handful of bot capabilities, design patterns, and best practices.  Knowledge based bots, handling user actions, how bots interact with websites/apps, and how hand off to human bot works will be explored in the session. Bot demo, and code sample will be illustrated throughout the session. ",
+      "speakersNamesCsv": "Doris Chen",
+      "interestLevel": 0
+    },
+    {
+      "id": 7296,
+      "title": "Microsoft, Linux, Open Source, Cloud + DevOps",
+      "sessionUrl": "microsoft-linux-open-source-cloud-devops",
+      "description": "During the past year, Microsoft has made significant contributions to the Open Source community. We have open sourced tools such as Visual Studio Code, PowerShell Core, NET Core, and even added support for Bash to Windows 10. In this session, I will teach you how you can use these open source tools in your dev and production environments to implement DevOps best practices such as source control and continuous update in conjunction with Microsoft’s Azure cloud. If you have ever wanted to get started with web apps and version control, I will show you how you can use the integrated terminal within VS Code to edit local code and automatically push to a published website hosted in Microsoft Azure. Come on out and learn how to safely build and deploy a website, with version control and CD included!",
+      "speakersNamesCsv": "Jessica Deen",
+      "interestLevel": 0
+    },
+    {
+      "id": 7297,
+      "title": "Complete CI/CD Pipeline to Microsoft Azure with Docker using Jenkins",
+      "sessionUrl": "complete-cicd-pipeline-to-microsoft-azure-with-docker-using-jenkins",
+      "description": "We will first review what CD (continuous deployment/delivery) is and will briefly cover how it works. If you’re not familiar with CI/CD tools, I will demo how CD tools handle continuous deployment to Azure and how you can use them to stand up Docker infrastructure (or even Kubernetes) and pass Docker commands for your dev environments. This session will teach attendees how to push apps to Docker containers or Kubernetes Pods on Azure from a CI/CD pipeline. The code used to support Azure is highly scalable and can be applied to a host of CI/CD tools, such as Jenkins, Travis CI, Codeship, Codefresh, etc. If you’ve ever been curious about how to get started with continuous integration / continuous deployment and Docker containers, or even Microsoft Azure, this is the talk to attend! After this session, you will firmly understand how you can use CI/CD with Microsoft Azure and Docker to build images and run your applications in running containers. You will also learn how to create a non-interactive, command line based, login session to Microsoft Azure, a method you can use to scale with any developer environment.",
+      "speakersNamesCsv": "Jessica Deen",
+      "interestLevel": 0
+    },
+    {
+      "id": 7298,
+      "title": "Bots are the new enterprise apps. ",
+      "sessionUrl": "bots-are-the-new-enterprise-apps",
+      "description": "While many of the bots that you have seen can help you buy tickets to a movie, or book flights, or even add a mustache to a picture, bots can also be integrated into the enterprise. From bots that integrate with Jenkins to help you manage your build process, to handling first level support in a call center, conversation bots can be deployed in an enterprise in a very effective way. Let you users interact with systems in the communication channels they prefer (Facebook, Slack, Kik, Skype, email, sms) in one integrated solution. In this session we will show you how to utilize the BotFramework to build bots for your enterprise",
+      "speakersNamesCsv": "Daniel Egan",
+      "interestLevel": 0
+    },
+    {
+      "id": 7299,
+      "title": "Intro to Azure CosmosDB ",
+      "sessionUrl": "intro-to-azure-cosmosdb",
+      "description": "Azure Cosmos DB is a globally distributed database service designed to enable you to elastically and independently scale throughput and storage across any number of geographical regions. You can develop document, key/value, or graph databases with Cosmos DB using a series of popular APIs and programming models. In this session we will show you how easy it is to use and scale with CosmosDB. ",
+      "speakersNamesCsv": "Daniel Egan",
+      "interestLevel": 0
+    },
+    {
+      "id": 7300,
+      "title": "Building Solutions with the Microsoft Dial",
+      "sessionUrl": "building-solutions-with-the-microsoft-dial",
+      "description": "What if you could leverage a new modality? What if your user’s interaction could be precise, novel and specifically tuned for your app’s use cases. Microsoft Dial is an innovative extension to interact with apps, and the API is far more straight-forward than you might expect.",
+      "speakersNamesCsv": "Daren May",
+      "interestLevel": 0
+    },
+    {
+      "id": 7301,
+      "title": "Azure Functions",
+      "sessionUrl": "azure-functions",
+      "description": "Azure Functions is a serverless compute service that enables you to run code on-demand without provisioning or managing any infrastructure. You can use Functions to run a script or a piece of code using a timer, a trigger, or a web hook. They have some great integration features for Azure Storage, Service Bus, Event Hubs, etc. I'll talk about what Functions are, and what you might use them for. I'll show several examples, including one written in C# that uses Azure Storage integration.",
+      "speakersNamesCsv": "Robin Shahan",
+      "interestLevel": 0
+    },
+    {
+      "id": 7302,
+      "title": "Getting Started as a Modern Windows Developer",
+      "sessionUrl": "getting-started-as-a-modern-windows-developer",
+      "description": "Building high-fidelity apps for the new Windows has never been easier, sort of. In this session, learn the basic technologies, necessary skills, and available tooling to be productive.  We’ll build an app together and you can gain the confidence to get started. ",
+      "speakersNamesCsv": "Jerry Nixon",
+      "interestLevel": 0
+    },
+    {
+      "id": 7304,
+      "title": "No Folders: A fast, flexible, long-term way to think and work in one place",
+      "sessionUrl": "no-folders-a-fast-flexible-long-term-way-to-think-and-work-in-one-place",
+      "description": "When was the last time you looked at an old folder and thought 'Ah, how nicely organized this is'? The last time you thought 'ah, how nicely named this file is'? \n'Ah how easy it is to find what I am looking for'?\n<br/>\nDespite countless note, team, email, and chat apps probably never. Because those are completely archaic ways to organize ideas and information, dating back to before computers were invented. \n<br/>\nNow of course you have hierarchical directories for your computer to organize its information, but that's not how humans think!  Despite this every application you've ever used (save for wikis) relies on a hierarchical structure. Now I don't need to expand on the merits of wikis (flexible editing, linking, and context) but why are we still seeing so many apps relying on folders, single tag sorted views, and alphanumeric or date-based search results?\n<br/>\nWhy do so many teams and individuals have \"haunted warehouses of dead text\" instead of a useful, accessible, and relevant information?\n<br/>\nThis session is about a solution to all of these problems. It's about a new style of team note-taking that is rooted in wiki methodology, but works in real-time with ReactJS and WebSocket to provide flexible co-editing, linking, and exploration of nearly infinite ideas and information. And as you accumulate more and more pages of information, it only becomes more organized and contextually relevant.\n<br/>\nImagine: No Folders! No Meetings! No Email! No Managers! Or at least a lot less...\n",
+      "speakersNamesCsv": "Ben Foden",
+      "interestLevel": 0
+    },
+    {
+      "id": 7305,
+      "title": "C++ Today: The Beast Is Back",
+      "sessionUrl": "c-today-the-beast-is-back",
+      "description": "This talk will cover why engineers looking for performance choose C++. Jon will present an historical perspective of C++ focusing on what's going on in the C++ community right now and where the language and its user base is heading. With a renewed interest in performance for both data centers and mobile devices, and the success of open source software libraries, C++ is back and it is hot. This talk will explain why C++ is most software engineers' go-to language for performance. You will receive a rough historical sketch that puts C++ in perspective and covers its popularity ups and downs.\n<br/>\nThis talk is based, in part, on the book \"C++ Today: The Beast is Back\" published by O'Reilly.\n",
+      "speakersNamesCsv": "Jon Kalb",
+      "interestLevel": 0
+    },
+    {
+      "id": 7306,
+      "title": "Modern Intermediate Template Techniques",
+      "sessionUrl": "modern-intermediate-template-techniques",
+      "description": "You know the basics of templates and you are ready to take the next step. This presentation by Jon Kalb will add a half dozen template-based techniques to your C++ development toolbox. You don’t have to be a wizard to learn or use these techniques—you’ll just look like you are.\n<br/>\nWe’ll cover the most important features that Modern C++ provides for template authors — type traits, compile-time conditional overloading, policy classes, perfect forwarding, and the Curiously Recurring Template Pattern. We’ll also learn a nifty trick to make template code easier to write. We’ll learn how to get the compiler to tell us the type of any variable in our code, including the ones where deep template type deduction magic is going on.",
+      "speakersNamesCsv": "Jon Kalb",
+      "interestLevel": 0
+    },
+    {
+      "id": 7307,
+      "title": "How to Write Code Others Won’t Hate",
+      "sessionUrl": "how-to-write-code-others-wont-hate",
+      "description": "Always code as if the person maintaining your code will be a violent psychopath who knows where you live.\" In this talk we explore a variety of practical ways to improve your code and application design to make the lives of your engineers, DevOps, and PMs jobs easier. Among other things we will cover: how to deal with concurrency without getting locked up, what does a healthy heartbeat look like, and when code duplication is not OK and when code duplication is OK",
+      "speakersNamesCsv": "Basil Shikin",
+      "interestLevel": 0
+    },
+    {
+      "id": 7308,
+      "title": "The Node.js Event Loop: Not So Single Threaded",
+      "sessionUrl": "the-nodejs-event-loop-not-so-single-threaded",
+      "description": "You've probably heard, and possibly lamented, that Node.js is single threaded. It's true that all JavaScript executed by Node.js is run in a single thread. This means each JavScript file you write, module you require, and even Node.js itself, all contend for processing time.\n<br/>\nBut JavaScript isn't the only code in Node.js. There's also a lot of C++, most important of which is the event loop. One of the event loops responsibilities is to manage a set of threads called the thread pool. As it turns out, most C++ code in Node.js is multithreaded!\n<br/>\nCome learn how the event loop works in detail, how it affects the performance of your app, and how you can use this knowledge to your advantage!",
+      "speakersNamesCsv": "Bryan Hughes",
+      "interestLevel": 0
+    },
+    {
+      "id": 7309,
+      "title": "Enterprise Blockchain with Microsoft Azure",
+      "sessionUrl": "enterprise-blockchain-with-microsoft-azure",
+      "description": "In this talk, we will define how enterprise chains work differently from public chains and will demonstrate how you can get started with enterprise blockchain solutions in Microsoft Cloud. We will then dive into cryptlets, which are Microsoft Cloud-specific constructs providing common and approachable way for developers to integrate blockchain solutions into existing systems, secure execution and data, and enable privacy and scalability. Finally, we'll review the features of Microsoft Coco Framework and look at the roadmap of blockchain support on Azure.",
+      "speakersNamesCsv": "Eugene Chuvyrov",
+      "interestLevel": 0
+    },
+    {
+      "id": 7310,
+      "title": "Better Numeric Types in C++",
+      "sessionUrl": "better-numeric-types-in-c",
+      "description": "It’s pretty hard to find a language which can crunch numbers as fast as C++. But much of its reputation for being an unsafe language comes from its numeric types. Is it possible to make numbers easier to use without slowing down your program? This talk looks at how to use custom arithmetic types to avoid errors such as overflow and truncation without paying more than you need to. I’ll cover many of the gotchas associated with integers and how to avoid them through good practices and a numerics library that I’m developing called CNL.",
+      "speakersNamesCsv": "John McFarlane",
+      "interestLevel": 0
+    },
+    {
+      "id": 7311,
+      "title": "Linear interpolations using SQL window functions",
+      "sessionUrl": "linear-interpolations-using-sql-window-functions",
+      "description": "Join Ami Levin for some pure T-SQL coding challenges fun!  You'll take apart common programming challenges that are typically hard to solve using conventional means.\n<br/>\nFortunately, we have on our side the less-conventional window functions to get the job done. Ami will explore linear interpolation, temporal challenges, island issues, and other goodies, as time permits.\n<br/>\nAfter this session, you'll have a few more tools in your arsenal to make your life easier, impress your colleagues (and boss!), and make your users happier :-)",
+      "speakersNamesCsv": "Ami Levin",
+      "interestLevel": 0
+    },
+    {
+      "id": 7312,
+      "title": "Where did I leave my (primary) Keys???",
+      "sessionUrl": "where-did-i-leave-my-primary-keys",
+      "description": "You will be surprised how far reaching implications arise from the keys that you choose...\nIn this session we will revisit some of the fundamental design principals of relational databases: normalization rules, key selection, and the controversies associated with these issues from a practical perspective. \nWe will consider the benefits and challenges of using different types of keys - natural, surrogates, artificial (and others?) from multiple aspects: data consistency, application development, maintenance, portability and performance.",
+      "speakersNamesCsv": "Ami Levin",
+      "interestLevel": 0
+    },
+    {
+      "id": 7313,
+      "title": "What I wish people knew about C++",
+      "sessionUrl": "what-i-wish-people-knew-about-c",
+      "description": "C++11 practically introduced a new language and it is my experience that only the fewest know that it even exists. Even recent text books that claim to follow the C++11/14/17 standard still describe how to do things the way we did 15 years ago, using C-Style arrays and lots and lots of (raw) pointers without a single mention of move semantics or RAII.\n<br/>\nIn my presentation, I will talk about things that I wish any current C++ developer knew, particularly about what move semantics and RAII are and how the former changes everything; how these together make reasoning about the life time and ownership of objects much easier, especially across function calls; how move semantics can avoid pointers in the majority of cases where you needed them previously; and if you really need pointers, how std::unique_ptr and their cousins (std::shared_ptr, std::weak_ptr) can make your life so much easier.\n<br/>\nIn addition, I will talk about lambda functions, and how these can be paired with the vast library of standard algorithms and how so doing will make your code more readable and, in all likelihood, faster.\n<br/>\nThe talk concludes with other miscellaneous things about C++/C++11 that I wished people knew, for example which containers to prefer (std::unordered_map vs std::map and std::vector vs std::list),  C++11 constructs like class enums, C++ class member initializations and others. \n<br/>\nIf you haven’t heard of move semantics or have never used a lambda function in C++, then this talk is for you.",
+      "speakersNamesCsv": "Michael Klose",
+      "interestLevel": 0
+    },
+    {
+      "id": 7318,
+      "title": "Roomba meets Watson - get familiar with the Voice of AI",
+      "sessionUrl": "roomba-meets-watson---get-familiar-with-the-voice-of-ai",
+      "description": "I will show at my speaking session how you can quickly and securely turn a simple idea into reality, like transforming a regular Roomba vacuum into a cognitive-enabled smart and chatty device. Even further, my politics-chatting robot can be turned into the media information center with an opinion on virtually any subject based on the social network sentiment digesting with cognitive services.\n<br/>\nUsing the power of voice UI, mobile and cognitive services from the cloud platform, I’ll demonstrate how to securely connect and manage devices, analyze social network data, and apply cognitive services to add human-like interaction to lightweight IoT products.\n<br/>\nRobots can now understand emotions and talk to you about it.\nMy session will demonstrate how robots implemented with IBM Watson cognitive services can interact verbally with people and respond to personal emotions. In essence, I’ll show the practicalities of joining IoT-robotics with a cloud processing and mobile platform for communications. Thanks to cloud processing, anyone can use AI for the purposes of building intelligent, unmanned systems.\nToday, anyone could turn a robot vacuum into the their own personal R2D2 or C3PO. And it is not that far-fetched! ",
+      "speakersNamesCsv": "Marek Sadowski",
+      "interestLevel": 0
+    },
+    {
+      "id": 7320,
+      "title": "Keeping your SQL Objects Safe In Development",
+      "sessionUrl": "keeping-your-sql-objects-safe-in-development",
+      "description": "It has been a long established practice to keep maintain application code in version control. Versioning your application code allows you to view changes made by several developers working on the same project. It allows the team to get the latest changes in a consistent and reliable manner. It allows you to return your code to a prior state. It even acts as a safety net for when that day comes when your developer’s computer won’t turn on.\n\nSo, what about your SQL Objects? \n\nJoin me in this demo heavy session where we will explore the benefits of versioning your SQL Objects and learn how it can enable streamlined database development without sacrificing control and visibility. We’ll be using Red Gate’s SQL Source Control tool for demos, and we’ll see how it integrates with your existing version control software to manage your SQL Objects just like application code.",
+      "speakersNamesCsv": "Mickey Stuewe",
+      "interestLevel": 0
+    },
+    {
+      "id": 7321,
+      "title": "It takes an open source village to raise a robot",
+      "sessionUrl": "it-takes-an-open-source-village-to-raise-a-robot",
+      "description": "Come learn about TJBot, IBM Watson's first Maker Kit powered by a Raspberry Pi and how easy it is to build a Cognitive robot. We'll show how to train TJBot to listen, understand what is heard, extract intents, entities, and emotions, control a LED light and servo-powered arm, and recognize objects and colors, using six IBM Watson services: Speech to Text, Text to Speech, Conversation, Language Translator, Tone Analyzer, and Visual Recognition.  \n <br/>\nJeanCarl will also share how the open source community has taken hold of this adorable bot and some of the projects that have been built. ",
+      "speakersNamesCsv": "Jeancarl Bisson",
+      "interestLevel": 0
+    },
+    {
+      "id": 7322,
+      "title": "Blockchain architecture fundamentals and developing business applications",
+      "sessionUrl": "blockchain-architecture-fundamentals-and-developing-business-applications",
+      "description": "This session is for developers who are new to blockchain technology and want to get started with understanding and piloting a blockchain network. We  will walk through the Hyperledger Fabric architecture and show  how to set up an IBM Blockchain network based on the open source Hyperledger Fabric, deploy chaincode (smart contracts), and write client apps to streamline your business processes and digital interactions. We will also show you how to rapidly build business networks using Hyperledger composer and composer playground.  ",
+      "speakersNamesCsv": "Raheel Zubairy,monu pradhan",
+      "interestLevel": 0
+    },
+    {
+      "id": 7323,
+      "title": "Introduction to Cloud Functions",
+      "sessionUrl": "introduction-to-cloud-functions",
+      "description": "In this session, learn about Cloud Functions and how they change the way a developer builds a traditional web application. You'll learn how to create a Cloud Function, expose it as a web action and make it available as an API with API Gateway, manage who can use your API, and integrate it into an application. \n<br/>\nWe'll also talk about best practices and what questions to ask when deciding if Cloud Functions or another environment is a better choice.",
+      "speakersNamesCsv": "Jeancarl Bisson",
+      "interestLevel": 0
+    },
+    {
+      "id": 7324,
+      "title": "Istio: service mesh for all",
+      "sessionUrl": "istio-service-mesh-for-all",
+      "description": "Rapid growth of microservices necessitates new tools to manage the space between them . Istio provides the common networking, security, telemetry, and policy fabric to do just that. This is the \"Service-Mesh\" !\n<br/>\nIstio obviates the need for individual services to re-implement these common concerns and implements them in a principled way.\n<br/>\nThis talk will cover motivations behind Istio, architecture and a demo.",
+      "speakersNamesCsv": "Mandar Jog",
+      "interestLevel": 0
+    },
+    {
+      "id": 7325,
+      "title": "Engage your customer using cognitive analytics in IBM Watson Explorer",
+      "sessionUrl": "engage-your-customer-using-cognitive-analytics-in-ibm-watson-explorer",
+      "description": "IBM® Watson Explorer is a cognitive search and content analysis platform that enables you to gain insights from your data. The solution allows you to search and analyze structured, unstructured, internal, external and public content to uncover trends and patterns. These insights help you improve decision-making, customer service and ROI. Leverage built-in machine learning, natural language processing and next-generation APIs to gain more value from your data. With analysis and insight, you gain a complete view of customers, in context, to help you improve your business.\nYou will have first hand experience with the tool on your own laptop in this session. Come, learn and expand your knowledge in the growing field of cognitive content analytics. ",
+      "speakersNamesCsv": "Rakesh Ranjan,Travis Cook,sharan kadagad,Sachet Hegde",
+      "interestLevel": 0
+    },
+    {
+      "id": 7326,
+      "title": "Blockchain architecture fundamentals and developing business applicationsLB",
+      "sessionUrl": "blockchain-architecture-fundamentals-and-developing-business-applicationslb",
+      "description": "PART 2 LAB\nThis session is for developers who are new to blockchain technology and want to get started with understanding and piloting a blockchain network. We  will walk through the Hyperledger Fabric architecture and show  how to set up an IBM Blockchain network based on the open source Hyperledger Fabric, deploy chaincode (smart contracts), and write client apps to streamline your business processes and digital interactions. We will also show you how to rapidly build business networks using Hyperledger composer and composer playground.  ",
+      "speakersNamesCsv": "Raheel Zubairy,monu pradhan",
+      "interestLevel": 0
+    },
+    {
+      "id": 7327,
+      "title": "Engage your customer using cognitive analytics in IBM Watson Explorer LAB",
+      "sessionUrl": "engage-your-customer-using-cognitive-analytics-in-ibm-watson-explorer-lab",
+      "description": "LAB\n\nIBM® Watson Explorer is a cognitive search and content analysis platform that enables you to gain insights from your data. The solution allows you to search and analyze structured, unstructured, internal, external and public content to uncover trends and patterns. These insights help you improve decision-making, customer service and ROI. Leverage built-in machine learning, natural language processing and next-generation APIs to gain more value from your data. With analysis and insight, you gain a complete view of customers, in context, to help you improve your business.\nYou will have first hand experience with the tool on your own laptop in this session. Come, learn and expand your knowledge in the growing field of cognitive content analytics. ",
+      "speakersNamesCsv": "Rakesh Ranjan,Travis Cook,sharan kadagad,Sachet Hegde",
+      "interestLevel": 0
+    },
+    {
+      "id": 7328,
+      "title": "Roomba meets Watson - get familiar with the Voice of AI LAB",
+      "sessionUrl": "roomba-meets-watson---get-familiar-with-the-voice-of-ai-lab",
+      "description": "I will show at my speaking session how you can quickly and securely turn a simple idea into reality, like transforming a regular Roomba vacuum into a cognitive-enabled smart and chatty device. Even further, my politics-chatting robot can be turned into the media information center with an opinion on virtually any subject based on the social network sentiment digesting with cognitive services.\n<br/>\nUsing the power of voice UI, mobile and cognitive services from the cloud platform, I’ll demonstrate how to securely connect and manage devices, analyze social network data, and apply cognitive services to add human-like interaction to lightweight IoT products.\n<br/>\nRobots can now understand emotions and talk to you about it.\nMy session will demonstrate how robots implemented with IBM Watson cognitive services can interact verbally with people and respond to personal emotions. In essence, I’ll show the practicalities of joining IoT-robotics with a cloud processing and mobile platform for communications. Thanks to cloud processing, anyone can use AI for the purposes of building intelligent, unmanned systems.\nToday, anyone could turn a robot vacuum into the their own personal R2D2 or C3PO. And it is not that far-fetched! ",
+      "speakersNamesCsv": "Marek Sadowski",
+      "interestLevel": 0
+    },
+    {
+      "id": 7329,
+      "title": "Introduction to Cloud Functions LAB",
+      "sessionUrl": "introduction-to-cloud-functions-lab",
+      "description": "In this session, learn about Cloud Functions and how they change the way a developer builds a traditional web application. You'll learn how to create a Cloud Function, expose it as a web action and make it available as an API with API Gateway, manage who can use your API, and integrate it into an application. \n<br/>\nWe'll also talk about best practices and what questions to ask when deciding if Cloud Functions or another environment is a better choice.",
+      "speakersNamesCsv": "Jeancarl Bisson",
+      "interestLevel": 0
+    },
+    {
+      "id": 7330,
+      "title": "It takes an open source village to raise a robot LAB",
+      "sessionUrl": "it-takes-an-open-source-village-to-raise-a-robot-lab",
+      "description": "Come learn about TJBot, IBM Watson's first Maker Kit powered by a Raspberry Pi and how easy it is to build a Cognitive robot. We'll show how to train TJBot to listen, understand what is heard, extract intents, entities, and emotions, control a LED light and servo-powered arm, and recognize objects and colors, using six IBM Watson services: Speech to Text, Text to Speech, Conversation, Language Translator, Tone Analyzer, and Visual Recognition.  \n <br/>\nJeanCarl will also share how the open source community has taken hold of this adorable bot and some of the projects that have been built. ",
+      "speakersNamesCsv": "Jeancarl Bisson",
+      "interestLevel": 0
+    },
+    {
+      "id": 7331,
+      "title": "Blockchain App UX Capture & Replay",
+      "sessionUrl": "blockchain-app-ux-capture-replay",
+      "description": "Blockchain mobile apps are becoming another major innovation trend to solve FinTech problems we're facing today.  Tealeaf Mobile SDK can help developers and business people identify struggles from end users, and create a more compelling story to make it easier for adoption.",
+      "speakersNamesCsv": "changjie yang",
+      "interestLevel": 0
+    },
+    {
+      "id": 7332,
+      "title": "GitOps: operations by pull-request",
+      "sessionUrl": "gitops-operations-by-pull-request",
+      "description": "In this talk, Ilya will describe how Weaveworks team manages apps in production on Kubernetes. The team had been doing this for 2 years now, and have built a number of open-source tools that you may find useful if you were to do the same. The tools we use are also available to you as a service in Weave Cloud. Ilya will demonstrate how you can use Weave Cloud to manage your apps the GitOps way (that's operations by pull-request).\n",
+      "speakersNamesCsv": "Ilya Dmitrichenko",
+      "interestLevel": 0
+    },
+    {
+      "id": 7333,
+      "title": "Machine Learning Intro for Anyone and Everyone",
+      "sessionUrl": "machine-learning-intro-for-anyone-and-everyone",
+      "description": "This session provides a fun and simple way to introduce Machine Leaning to anyone and everyone. Together we would solve a machine learning problem and find an easy way to be able to do machine learning without even coding\n",
+      "speakersNamesCsv": "Raju Shreewastava",
+      "interestLevel": 0
+    },
+    {
+      "id": 7334,
+      "title": "Artificial Intelligence for everyone, even you",
+      "sessionUrl": "artificial-intelligence-for-everyone-even-you",
+      "description": "We've made it. Science fiction is now science fact. Hardware, software, and data science have advanced to where we can finally look at artificial intelligence as a commodity, not the work of specialists in the field. Azure unlocks for the path for advanced users, while normalized wrappers like Cognitive Services have given developers & armchair scientists access to easy-to-use, easy-to-deploy, affordable solutions for everyday apps. In this session, let's look at the approach of this new age and how to make the most with the skills you already have. ",
+      "speakersNamesCsv": "Jerry Nixon",
+      "interestLevel": 0
+    },
+    {
+      "id": 7335,
+      "title": "Fun Introduction to Data in Software for Non-Techies",
+      "sessionUrl": "fun-introduction-to-data-in-software-for-non-techies",
+      "description": "Ninety percent of the data in the world today has been created in the last two years alone.  STEM education needs to include the basic concepts of data. This class is for non-technical individuals and kids over the age of 10 to explore the basic concepts of data. What is Data ? Is Data just a fancy word for information ? What is a Database  ?  Why and when do yo need one? We will explore these topics by building a trivia game based on data.\n\n",
+      "speakersNamesCsv": "Leslie Pound",
+      "interestLevel": 0
+    },
+    {
+      "id": 7336,
+      "title": "Rock Your Code Quality ",
+      "sessionUrl": "rock-your-code-quality",
+      "description": "Code quality starts with you, the developer. If you are writing your first app or have been through the battle field many times trying to improve code quality within your team, this session is for you. This fast paced session will discuss the core things you need to remember each and every day of your coding life along with real world examples and solutions. Other topics discussed will be Visual Studio add-ins to help you learn and practice good coding standard practices, architecture, performance, testing, security, the cloud and much more.",
+      "speakersNamesCsv": "David McCarter",
+      "interestLevel": 0
+    },
+    {
+      "id": 7337,
+      "title": "Using Twilio and .NET to Save the World... One Text at a Time",
+      "sessionUrl": "using-twilio-and-net-to-save-the-world-one-text-at-a-time",
+      "description": "If you ever wanted to see how Twilio is bringing the power of communications to everyone, come check out how it has impacted one family with live coding and funny stories alike",
+      "speakersNamesCsv": "Corey Weathers",
+      "interestLevel": 0
+    }
+  ]
+}

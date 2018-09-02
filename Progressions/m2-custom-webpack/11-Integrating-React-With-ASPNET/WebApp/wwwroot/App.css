@@ -1,6 +1,5 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
-@import url('app.css');
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -8558,17 +8557,45 @@ body {
   border-radius: 10px;
   background: #25aae2; }
 
-.dropdown .dropdown__label--registered {
+.dropdown .dropdown__switcher {
+  min-width: 145px;
+  background: none;
+  border: 0 none;
+  padding: 10px 20px;
+  text-align: center;
+  cursor: pointer; }
+
+.dropdown .dropdown__switcher--registered {
   color: #3ab54b; }
 
-.dropdown .dropdown__label--interested {
+.dropdown .dropdown__switcher--interested {
   color: #f7941d; }
 
-.dropdown .dropdown-toggle::after {
+.dropdown .dropdown-container {
+  padding: 0; }
+
+.dropdown .dropdown-toggle::after,
+.dropdown .dropdown__toggle-dropdown::after {
+  content: "";
   color: #cbd6da;
   border-top: 0.5em solid;
   border-right: 0.4em solid transparent;
   border-left: 0.4em solid transparent; }
+
+.dropdown .dropdown__toggle-dropdown {
+  cursor: pointer;
+  position: relative;
+  padding: 0;
+  background: none;
+  border: 0 none;
+  height: 40px;
+  vertical-align: top;
+  width: 30px; }
+  .dropdown .dropdown__toggle-dropdown::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -0.25em 0 0 -0.4em; }
 
 .square-icon {
   width: 1.25rem;
@@ -8923,7 +8950,7 @@ body {
     margin-top: 1em; }
   .jumbo-events .container-main,
   .jumbo-events .row {
-    height: 100%; }
+    heightxxx: 100%; }
     @media (max-width: 575px) {
       .jumbo-events .container-main,
       .jumbo-events .row {
@@ -9560,6 +9587,8 @@ body {
   display: none; }
   .events-sessions-list.active {
     display: block; }
+  .events-sessions-list__status-icon {
+    margin-right: 0.2rem; }
   .events-sessions-list__item {
     padding: 1.5625rem 0;
     font-family: "PT Sans", sans-serif;
@@ -9584,8 +9613,9 @@ body {
     .events-sessions-list__item:nth-child(2n) {
       background-color: #f5f9fa; }
   .events-sessions-list .session-details-dropdown-content {
-    width: 26.25rem;
-    padding: 1.25rem; }
+    margin: 0;
+    padding: 1.25rem;
+    width: 26.25rem; }
     .events-sessions-list .session-details-dropdown-content .details-title {
       margin-bottom: 0.9375rem; }
     .events-sessions-list .session-details-dropdown-content .details-attendance {
@@ -9639,7 +9669,8 @@ body {
 .session-status-dropdown .dropdown__label {
   padding-top: 10px;
   padding-bottom: 10px;
-  display: inline-block; }
+  display: inline-block;
+  min-width: 120px; }
 
 .events-speaker-description .name {
   font-size: 1.125rem;
@@ -9649,7 +9680,8 @@ body {
   color: #25aae2;
   margin-bottom: 0.9375rem; }
   .events-speaker-description .name > a {
-    text-decoration: none; }
+    text-decoration: none;
+    margin-left: 0.3125rem; }
     .events-speaker-description .name > a:hover {
       text-decoration: none; }
     .events-speaker-description .name > a:first-child {
@@ -9841,6 +9873,7 @@ body {
 .jumbo-session__tip-additional {
   position: relative;
   padding-left: 0.4em;
+  margin-left: 0.4em;
   color: #25aae2; }
   .jumbo-session__tip-additional::before {
     content: '';
@@ -9910,6 +9943,9 @@ body {
     color: #f7941d; }
   .jumbo-session__info-link--block {
     display: block; }
+
+.jumbo-session__button {
+  max-width: 200px; }
 
 .custom-dropdown {
   position: absolute;
@@ -10315,6 +10351,7 @@ body {
 
 .news-title__tab {
   position: relative;
+  margin-left: 0.5em;
   display: inline-block;
   font-size: 1.25rem;
   font-family: "PT Sans", sans-serif;
@@ -10465,6 +10502,13 @@ body {
     .rect-social--small > .fa {
       top: 0;
       font-size: 15px; }
+  .rect-social--smaller {
+    width: 20px;
+    height: 23px;
+    line-height: 23px; }
+    .rect-social--smaller > .fa {
+      top: 0;
+      font-size: 14px; }
   .rect-social--no-left-margin {
     margin-left: 0; }
   .rect-social:hover {
@@ -10543,6 +10587,12 @@ body {
   padding-left: 1.25rem;
   font-size: 1.125rem;
   line-height: 1.22; }
+  @media (max-width: 767px) {
+    .session-details__content {
+      padding-left: 0.3125rem; } }
+  @media (max-width: 575px) {
+    .session-details__content {
+      padding-left: 1.25rem; } }
 
 .session-details__left-border {
   padding-top: 3.625rem;
@@ -10713,6 +10763,9 @@ body {
 
 .registration__section {
   position: relative; }
+  @media (max-width: 991px) {
+    .registration__section {
+      padding: 0 2.1875rem; } }
   .registration__section::before {
     content: ' ';
     display: block;
@@ -10756,9 +10809,6 @@ body {
   font-size: 0.875rem;
   line-height: 1.214;
   color: #5a5b5b; }
-  @media (max-width: 767px) {
-    .registration__info {
-      margin-bottom: 1em; } }
 
 .generic-content {
   margin-bottom: 2em; }
