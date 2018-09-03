@@ -9,10 +9,7 @@
 07-JSON-server  
 08-REST-Updates-PUT  
 09-Adding-Sessions  
-
-*Currently working through corrections. Completed through clip 07 as of 9/1/2018.  Expect more over the weekend.*  
-
-10-Axios-Getting-Data  
+10-ASPNET-Core-REST  
 11-Decouple-React-From-Core  
 12-Adding-Middeware  
   
@@ -32,4 +29,7 @@ m5-07 - at 3:41 ... leave npm start on screen longer
 
 m5-09 - at 0:31 ... In addition, we need to update our home component to fetch the data using our new sessionsFetchData redux method. THis is basically the same code pattern we explained earlier for retrieving speakers data with redux.  We also have here an update session method which gets called from our child component we were just looking at, HomeContainer.
 
+m-10 - title change: "Building an ASP.NET Core REST Service" 
+
+m-11 - at 2:30, change screen shot to have production set correctly and tested correctly
 
