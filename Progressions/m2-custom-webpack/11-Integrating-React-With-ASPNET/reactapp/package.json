@@ -28,12 +28,10 @@
   },
   "scripts": {
     "start:dev": "webpack-dev-server --hot --config webpack.client.js",
-
     "dev:build-server": "webpack --config webpack.server.js",
     "dev:build-client": "webpack --config webpack.client.js",
     "dev:server": "node build/serverbundle.js",
     "dev:all": "npm-run-all --serial dev:build-server dev:build-client dev:server",
-
     "prod:bundlefordeploy": "webpack --config webpack.client.js",
     "prod:cleanwwwroot": "rimraf ../WebApp/wwwroot",
     "prod:copytowwwroot": "cpx 'public/**/*' ../WebApp/wwwroot",

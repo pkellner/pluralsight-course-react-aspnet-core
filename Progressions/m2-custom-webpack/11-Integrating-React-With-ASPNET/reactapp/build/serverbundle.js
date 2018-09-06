@@ -1390,7 +1390,7 @@ exports.default = Routes;
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 
 var _react = __webpack_require__(/*! react */ "react");
@@ -1408,17 +1408,17 @@ var _FullPage2 = _interopRequireDefault(_FullPage);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 exports.default = function (req) {
-  var context = {};
-  var content = (0, _server.renderToString)(_react2.default.createElement(
-    _reactRouterDom.StaticRouter,
-    { location: req.path, context: context },
-    _react2.default.createElement(_FullPage2.default, null)
-  ));
+    var context = {};
+    var content = (0, _server.renderToString)(_react2.default.createElement(
+        _reactRouterDom.StaticRouter,
+        { location: req.path, context: context },
+        _react2.default.createElement(_FullPage2.default, null)
+    ));
 
-  return {
-    htmlcode: '<html>\n          <head>\n            <title>SVCC React Application</title>\n            <link rel="stylesheet" href="App.css">            \n          </head>\n          \n          <body>\n            <div id="app">' + content + '</div>\n            <script src="clientbundle.js"></script>\n          </body>\n          \n        </html>\n      ',
-    routestatus: context.status
-  };
+    return {
+        htmlcode: '<html>\n          <head>\n            <title>SVCC React Application</title>\n            <link rel="stylesheet" href="App.css">            \n          </head>\n          \n          <body>\n            <div id="app">' + content + '</div>\n            <script src="clientbundle.js"></script>\n          </body>\n          \n        </html>\n      ',
+        routestatus: context.status
+    };
 };
 
 /***/ }),
