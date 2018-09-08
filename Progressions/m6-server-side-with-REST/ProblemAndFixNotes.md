@@ -21,10 +21,32 @@ In Revised Clip: (aspdotnet-core-react-building-website-m6-01RevH.mp4 final)
   
   Clip VERIFIED
   
-  m6-03
+  ------
+  m6-03 at to start (0:00 - 0:15) lets time travel forward again to the code that we completed at the end of the last module "Making REST API Calls", and the clip titled "Adding Development Time only Middleware to React Redux"
+  
+  m6-03 at 6:33, add audio: "server webpack entry point..."   Notice also, we are creating a redux store, and then passing that store, and an empty context into the renderer.  unlike our Client.js we just looked at, for client side rendering that is, we do not have our Routes component here, which of course also was wrapped in a redux Provider element in our clients.js.  Looking at our updated Renderer.js, notice we do have our Router and we have replaced the routes, which were defined in the FullPage element,  with our renderRoutes method call.  Also notice that our Router is  enclosed in the Redux Provider element, which has the stored assigned as an attribute.
+  
+  m6-03 - Clip Updates
+    at 06:33 to 07:43, new audio and visual
+    full clip, put white matt end video to clean up some black strips on edges
+    
+    Verified
+
+---
+
+  m6-04 - at 04:28 to end, replaced code slide. No audio change in clip at all. Fixed side black lines by adding white matt to all of clip.
+
+---
+
+
+  m6-05 - at 03:13, Added short text: "Don't forget that you need to first install the npm package serialize-javascript and of course import it for use." ; added white background frame under full clip to hide black line on edge in places.
   
   
+
   
+
+
+    
   
 
 
