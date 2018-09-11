@@ -17,7 +17,11 @@ const config = {
         filename: 'bundle.js'
     },
     devtool: 'source-map',
+
+
     mode: 'development',
+
+
     module: {
         rules: [
             {

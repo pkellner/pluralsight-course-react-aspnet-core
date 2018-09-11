@@ -36,10 +36,13 @@ In Revised Clip: (aspdotnet-core-react-building-website-m6-01RevH.mp4 final)
 
   m6-04 - at 04:28 to end, replaced code slide. No audio change in clip at all. Fixed side black lines by adding white matt to all of clip.
 
+  clip VERIFIED
 ---
 
 
   m6-05 - at 03:13, Added short text: "Don't forget that you need to first install the npm package serialize-javascript and of course import it for use." ; added white background frame under full clip to hide black line on edge in places.
+  
+    clip VERIFIED
   
   
 

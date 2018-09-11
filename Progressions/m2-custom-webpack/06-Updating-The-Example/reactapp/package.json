@@ -22,7 +22,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "webpack-dev-server --hot"
+    "start:dev": "webpack-dev-server --hot",
+    "start": "webpack-dev-server --hot"
   },
   "author": "",
   "license": "ISC"

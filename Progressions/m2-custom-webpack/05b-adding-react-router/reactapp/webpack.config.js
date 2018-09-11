@@ -6,7 +6,7 @@ const PUBLIC_DIR = path.resolve(__dirname,'public');
 
 const config = {
 
-    entry: APP_DIR + '/Client.js',
+    entry: APP_DIR + '/Components/Client.js',
     devServer:{
         contentBase: PUBLIC_DIR,
         port: 9000,

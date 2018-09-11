@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import CodeCampMenu from './CodeCampMenu';
 import PageTop from './PageTop';
 import Footer from './Footer';
-import Routes from "../../Routes";
+import Routes from "../Routes";
 
 
 class FullPage extends Component {

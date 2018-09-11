@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 
 import {Route, Switch} from 'react-router-dom';
-import Home from "./ClientApp/home/Home";
-import Speakers from "./ClientApp/speakers/Speakers";
-import Login from "./ClientApp/common/Login";
+import Home from "./home/Home";
+import Speakers from "./speakers/Speakers";
+import Login from "./common/Login";
 import RouteNotFound from "./RouteNotFound";
 
 
@@ -27,7 +27,7 @@ class Routes extends Component {
                     <Route exact path="/" component={Home}/>
                     <Route exact path="/speakers" component={Speakers}/>
                     <Route exact path="/login" component={Login}/>
-                    <Route render={() => <RouteNotFound />}></Route>
+                    <Route render={() => <RouteNotFound/>}/>
                 </Switch>
             </div>
         );
