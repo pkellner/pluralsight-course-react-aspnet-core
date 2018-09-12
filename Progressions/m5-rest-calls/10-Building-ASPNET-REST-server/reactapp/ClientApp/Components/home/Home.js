@@ -1,17 +1,16 @@
 import React, {Component} from 'react';
-
 import PropTypes from 'prop-types';
 import HomeHeader from './HomeHeader';
 import HomeContainer from './HomeContainer';
 import { connect } from 'react-redux';
 
-import { sessionsFetchData } from ".././../../redux/actions/sessions";
-import { speakersFetchData } from ".././../../redux/actions/speakers";
+import {updateSession}
+    from "../../../redux/actions/sessions";
 
-import {updateSession} from "../../../redux/actions/sessions";
+import { sessionsFetchData }
+    from ".././../../redux/actions/sessions";
 
 class Home extends Component {
-
     componentDidMount() {
         this.props.sessionsFetchData();
     }
@@ -53,7 +52,7 @@ export default connect(mapStateToProps,
 
 
 
-
+// import { speakersFetchData } from ".././../../redux/actions/speakers";
 
 
 

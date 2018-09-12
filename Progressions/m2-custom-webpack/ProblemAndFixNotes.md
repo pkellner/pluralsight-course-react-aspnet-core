@@ -50,10 +50,13 @@ Revisions:
 
 ---
 
+05a - at 0:27 insert 9 seconds.
+
 05a - at 01:20, Before running with out new browser routes, we need to tell the webpack-dev-server to not return 404's on bad routes and simply execute the javascript.  We do this by adding to the webpack config devServer config, historyApiFallback: true.
 
 
 Revisions:
+  at 0:27, add 9 seconds
   at 1:19, add 19 seconds audio and video
   
 ---

@@ -6,8 +6,6 @@ import axiosMiddleware from 'redux-axios-middleware';
 
 import { composeWithDevTools } from 'redux-devtools-extension';
 
-
-
 const production = process.env.NODE_ENV &&
     process.env.NODE_ENV === "production";
 

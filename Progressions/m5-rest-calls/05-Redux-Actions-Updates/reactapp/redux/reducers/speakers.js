@@ -1,11 +1,10 @@
 import {SPEAKER_LOAD, SPEAKER_LOAD_FAIL, SPEAKER_LOAD_SUCCESS} from "../actions/speakers";
 
 export function speakers(state = {
-    data: [],
-    isLoading: true,
-    hasErrored: false,
-    errorMessage: ""
-}, action) {
+    data: [], isLoading: true,
+    hasErrored: false, errorMessage: ""}, action) {
+
+
     switch (action.type) {
 
         case SPEAKER_LOAD: {
