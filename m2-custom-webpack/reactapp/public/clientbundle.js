@@ -104,7 +104,7 @@ var _reactDom = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/i
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
-var _FullPage = __webpack_require__(/*! ./common/FullPage */ "./ClientApp/common/FullPage.js");
+var _FullPage = __webpack_require__(/*! ./Components/common/FullPage */ "./ClientApp/Components/common/FullPage.js");
 
 var _FullPage2 = _interopRequireDefault(_FullPage);
 
@@ -122,10 +122,10 @@ _reactDom2.default.render(_react2.default.createElement(
 
 /***/ }),
 
-/***/ "./ClientApp/common/CodeCampMenu.js":
-/*!******************************************!*\
-  !*** ./ClientApp/common/CodeCampMenu.js ***!
-  \******************************************/
+/***/ "./ClientApp/Components/common/CodeCampMenu.js":
+/*!*****************************************************!*\
+  !*** ./ClientApp/Components/common/CodeCampMenu.js ***!
+  \*****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -240,10 +240,10 @@ function CodeCampMenu() {
 
 /***/ }),
 
-/***/ "./ClientApp/common/Footer.js":
-/*!************************************!*\
-  !*** ./ClientApp/common/Footer.js ***!
-  \************************************/
+/***/ "./ClientApp/Components/common/Footer.js":
+/*!***********************************************!*\
+  !*** ./ClientApp/Components/common/Footer.js ***!
+  \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -294,10 +294,10 @@ function Footer() {
 
 /***/ }),
 
-/***/ "./ClientApp/common/FullPage.js":
-/*!**************************************!*\
-  !*** ./ClientApp/common/FullPage.js ***!
-  \**************************************/
+/***/ "./ClientApp/Components/common/FullPage.js":
+/*!*************************************************!*\
+  !*** ./ClientApp/Components/common/FullPage.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -314,19 +314,19 @@ var _react = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 
 var _react2 = _interopRequireDefault(_react);
 
-var _CodeCampMenu = __webpack_require__(/*! ./CodeCampMenu */ "./ClientApp/common/CodeCampMenu.js");
+var _CodeCampMenu = __webpack_require__(/*! ./CodeCampMenu */ "./ClientApp/Components/common/CodeCampMenu.js");
 
 var _CodeCampMenu2 = _interopRequireDefault(_CodeCampMenu);
 
-var _PageTop = __webpack_require__(/*! ./PageTop */ "./ClientApp/common/PageTop.js");
+var _PageTop = __webpack_require__(/*! ./PageTop */ "./ClientApp/Components/common/PageTop.js");
 
 var _PageTop2 = _interopRequireDefault(_PageTop);
 
-var _Footer = __webpack_require__(/*! ./Footer */ "./ClientApp/common/Footer.js");
+var _Footer = __webpack_require__(/*! ./Footer */ "./ClientApp/Components/common/Footer.js");
 
 var _Footer2 = _interopRequireDefault(_Footer);
 
-var _Routes = __webpack_require__(/*! ../../Routes */ "./Routes.js");
+var _Routes = __webpack_require__(/*! ../../Routes */ "./ClientApp/Routes.js");
 
 var _Routes2 = _interopRequireDefault(_Routes);
 
@@ -381,10 +381,10 @@ exports.default = FullPage;
 
 /***/ }),
 
-/***/ "./ClientApp/common/Login.js":
-/*!***********************************!*\
-  !*** ./ClientApp/common/Login.js ***!
-  \***********************************/
+/***/ "./ClientApp/Components/common/Login.js":
+/*!**********************************************!*\
+  !*** ./ClientApp/Components/common/Login.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -416,10 +416,10 @@ function Login() {
 
 /***/ }),
 
-/***/ "./ClientApp/common/PageTop.js":
-/*!*************************************!*\
-  !*** ./ClientApp/common/PageTop.js ***!
-  \*************************************/
+/***/ "./ClientApp/Components/common/PageTop.js":
+/*!************************************************!*\
+  !*** ./ClientApp/Components/common/PageTop.js ***!
+  \************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -469,10 +469,10 @@ PageTop.propTypes = {
 
 /***/ }),
 
-/***/ "./ClientApp/home/Home.js":
-/*!********************************!*\
-  !*** ./ClientApp/home/Home.js ***!
-  \********************************/
+/***/ "./ClientApp/Components/home/Home.js":
+/*!*******************************************!*\
+  !*** ./ClientApp/Components/home/Home.js ***!
+  \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -492,11 +492,11 @@ var _propTypes = __webpack_require__(/*! prop-types */ "./node_modules/prop-type
 
 var _propTypes2 = _interopRequireDefault(_propTypes);
 
-var _HomeHeader = __webpack_require__(/*! ./HomeHeader */ "./ClientApp/home/HomeHeader.js");
+var _HomeHeader = __webpack_require__(/*! ./HomeHeader */ "./ClientApp/Components/home/HomeHeader.js");
 
 var _HomeHeader2 = _interopRequireDefault(_HomeHeader);
 
-var _HomeContainer = __webpack_require__(/*! ./HomeContainer */ "./ClientApp/home/HomeContainer.js");
+var _HomeContainer = __webpack_require__(/*! ./HomeContainer */ "./ClientApp/Components/home/HomeContainer.js");
 
 var _HomeContainer2 = _interopRequireDefault(_HomeContainer);
 
@@ -517,10 +517,10 @@ Home.propTypes = {
 
 /***/ }),
 
-/***/ "./ClientApp/home/HomeContainer.js":
-/*!*****************************************!*\
-  !*** ./ClientApp/home/HomeContainer.js ***!
-  \*****************************************/
+/***/ "./ClientApp/Components/home/HomeContainer.js":
+/*!****************************************************!*\
+  !*** ./ClientApp/Components/home/HomeContainer.js ***!
+  \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -536,7 +536,7 @@ var _react = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 
 var _react2 = _interopRequireDefault(_react);
 
-var _HomeSpeakersCarousel = __webpack_require__(/*! ./HomeSpeakersCarousel */ "./ClientApp/home/HomeSpeakersCarousel.js");
+var _HomeSpeakersCarousel = __webpack_require__(/*! ./HomeSpeakersCarousel */ "./ClientApp/Components/home/HomeSpeakersCarousel.js");
 
 var _HomeSpeakersCarousel2 = _interopRequireDefault(_HomeSpeakersCarousel);
 
@@ -560,10 +560,10 @@ function HomeContainer() {
 
 /***/ }),
 
-/***/ "./ClientApp/home/HomeHeader.js":
-/*!**************************************!*\
-  !*** ./ClientApp/home/HomeHeader.js ***!
-  \**************************************/
+/***/ "./ClientApp/Components/home/HomeHeader.js":
+/*!*************************************************!*\
+  !*** ./ClientApp/Components/home/HomeHeader.js ***!
+  \*************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -707,10 +707,10 @@ function HomeHeader() {
 
 /***/ }),
 
-/***/ "./ClientApp/home/HomeSpeakersCarousel.js":
-/*!************************************************!*\
-  !*** ./ClientApp/home/HomeSpeakersCarousel.js ***!
-  \************************************************/
+/***/ "./ClientApp/Components/home/HomeSpeakersCarousel.js":
+/*!***********************************************************!*\
+  !*** ./ClientApp/Components/home/HomeSpeakersCarousel.js ***!
+  \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1161,10 +1161,10 @@ function HomeSpeakersCarousel() {
 
 /***/ }),
 
-/***/ "./ClientApp/speakers/Speakers.js":
-/*!****************************************!*\
-  !*** ./ClientApp/speakers/Speakers.js ***!
-  \****************************************/
+/***/ "./ClientApp/Components/speakers/Speakers.js":
+/*!***************************************************!*\
+  !*** ./ClientApp/Components/speakers/Speakers.js ***!
+  \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1180,7 +1180,7 @@ var _react = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 
 var _react2 = _interopRequireDefault(_react);
 
-var _SpeakersHeader = __webpack_require__(/*! ./SpeakersHeader */ "./ClientApp/speakers/SpeakersHeader.js");
+var _SpeakersHeader = __webpack_require__(/*! ./SpeakersHeader */ "./ClientApp/Components/speakers/SpeakersHeader.js");
 
 var _SpeakersHeader2 = _interopRequireDefault(_SpeakersHeader);
 
@@ -1196,10 +1196,10 @@ function Speakers(props) {
 
 /***/ }),
 
-/***/ "./ClientApp/speakers/SpeakersHeader.js":
-/*!**********************************************!*\
-  !*** ./ClientApp/speakers/SpeakersHeader.js ***!
-  \**********************************************/
+/***/ "./ClientApp/Components/speakers/SpeakersHeader.js":
+/*!*********************************************************!*\
+  !*** ./ClientApp/Components/speakers/SpeakersHeader.js ***!
+  \*********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1257,10 +1257,10 @@ function SpeakersHeader() {
 
 /***/ }),
 
-/***/ "./RouteNotFound.js":
-/*!**************************!*\
-  !*** ./RouteNotFound.js ***!
-  \**************************/
+/***/ "./ClientApp/RouteNotFound.js":
+/*!************************************!*\
+  !*** ./ClientApp/RouteNotFound.js ***!
+  \************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1322,10 +1322,10 @@ exports.default = RouteNotFound;
 
 /***/ }),
 
-/***/ "./Routes.js":
-/*!*******************!*\
-  !*** ./Routes.js ***!
-  \*******************/
+/***/ "./ClientApp/Routes.js":
+/*!*****************************!*\
+  !*** ./ClientApp/Routes.js ***!
+  \*****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1344,19 +1344,19 @@ var _react2 = _interopRequireDefault(_react);
 
 var _reactRouterDom = __webpack_require__(/*! react-router-dom */ "./node_modules/react-router-dom/es/index.js");
 
-var _Home = __webpack_require__(/*! ./ClientApp/home/Home */ "./ClientApp/home/Home.js");
+var _Home = __webpack_require__(/*! ./Components/home/Home */ "./ClientApp/Components/home/Home.js");
 
 var _Home2 = _interopRequireDefault(_Home);
 
-var _Speakers = __webpack_require__(/*! ./ClientApp/speakers/Speakers */ "./ClientApp/speakers/Speakers.js");
+var _Speakers = __webpack_require__(/*! ./Components/speakers/Speakers */ "./ClientApp/Components/speakers/Speakers.js");
 
 var _Speakers2 = _interopRequireDefault(_Speakers);
 
-var _Login = __webpack_require__(/*! ./ClientApp/common/Login */ "./ClientApp/common/Login.js");
+var _Login = __webpack_require__(/*! ./Components/common/Login */ "./ClientApp/Components/common/Login.js");
 
 var _Login2 = _interopRequireDefault(_Login);
 
-var _RouteNotFound = __webpack_require__(/*! ./RouteNotFound */ "./RouteNotFound.js");
+var _RouteNotFound = __webpack_require__(/*! ./RouteNotFound */ "./ClientApp/RouteNotFound.js");
 
 var _RouteNotFound2 = _interopRequireDefault(_RouteNotFound);
 
@@ -3466,20 +3466,6 @@ var invariant = function(condition, format, a, b, c, d, e, f) {
 };
 
 module.exports = invariant;
-
-
-/***/ }),
-
-/***/ "./node_modules/isarray/index.js":
-/*!***************************************!*\
-  !*** ./node_modules/isarray/index.js ***!
-  \***************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-module.exports = Array.isArray || function (arr) {
-  return Object.prototype.toString.call(arr) == '[object Array]';
-};
 
 
 /***/ }),
@@ -23526,6 +23512,20 @@ var withRouter = function withRouter(Component) {
 
 /***/ }),
 
+/***/ "./node_modules/react-router/node_modules/isarray/index.js":
+/*!*****************************************************************!*\
+  !*** ./node_modules/react-router/node_modules/isarray/index.js ***!
+  \*****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = Array.isArray || function (arr) {
+  return Object.prototype.toString.call(arr) == '[object Array]';
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/react-router/node_modules/path-to-regexp/index.js":
 /*!************************************************************************!*\
   !*** ./node_modules/react-router/node_modules/path-to-regexp/index.js ***!
@@ -23533,7 +23533,7 @@ var withRouter = function withRouter(Component) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var isarray = __webpack_require__(/*! isarray */ "./node_modules/isarray/index.js")
+var isarray = __webpack_require__(/*! isarray */ "./node_modules/react-router/node_modules/isarray/index.js")
 
 /**
  * Expose `pathToRegexp`.

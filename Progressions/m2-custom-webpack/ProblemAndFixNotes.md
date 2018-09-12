@@ -68,16 +68,28 @@ Revisions:
   
 Revisions:
   
-  at 01:55 7 seconds - changed video only
-  at 03:00 to end
+  at  0:35 12 1:37  insert audio and visual
+  at 01:47 10 seconds - insert audio and visual  
+  at 03:09 to end updated video only
 
 ---
 
 
-09 - at 0:27.  Because we’ve created a separate client webpack config, let’s change the output to clientbundle.js from just bundle.js.  if you’re coding along with me, make sure to also change the reference to clientbundle.js in the public/index.html file also.  Then later, you’ll wee when we work on webpack.server.js, we’ll create a different bundle called serverbundle.js.  Finally, make sure to update your package.json to make sure that start:dev executes the new webpack.client.js and not the default webpack.config.js.
+09 - at 0:27.  Because we’ve created a separate client webpack config, let’s change the output to clientbundle.js from just bundle.js.  if you’re coding along with me, make sure to also change the reference to clientbundle.js in the public/index.html file also.  Then later, you’ll wee when we work on webpack.server.js, we’ll create a different bundle called serverbundle.js.  Finally, make sure to update your package.json to make sure that start:dev executes the new webpack.client.js and not   the default webpack.config.js.
 
+Revisions:
+  at 0:27 for 5 seconds. Insert audio and video
+  
 
-10 - at 4:24.  For convenience, and to make this easier if you want to run this yourself, let’s add to our package.json file three commands.  Dev:build-server to bundle our client javascript, dev:build-server to bundle our server side javascript, and dev:server to run our server side bundle. Keep in mind that the node command may be different on different OS’s.  Sometimes it’s called node and sometimes it’s called nodedaemon.
+---
+
+ 
+10 - at 4:24 for 23 seconds.  For convenience, and to make this easier if you want to run this yourself, let’s add to our package.json file three commands.  Dev:build-server to bundle our client javascript, dev:build-server to bundle our server side javascript, and dev:server to run our server side bundle. Keep in mind that the node command may be different on different OS’s.  Sometimes it’s called node and sometimes it’s called nodedaemon.
+
+Revisions:
+  10 - at 4:24 for 23 seconds, add new audio and visual
+
+---
 
 
 
