@@ -1,7 +1,7 @@
 import React from 'react';
 import {renderToString} from 'react-dom/server';
 import {StaticRouter as Router} from 'react-router-dom';
-import FullPage from "../ClientApp/common/FullPage";
+import FullPage from "../ClientApp/Components/common/FullPage";
 
 export default (req) => {
     let context = {};

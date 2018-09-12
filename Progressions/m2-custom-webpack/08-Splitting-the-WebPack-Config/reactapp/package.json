@@ -23,7 +23,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "webpack-dev-server --hot --config webpack.client.js"
+    "start:dev": "webpack-dev-server --hot --config webpack.client.js",
+    "start": "webpack-dev-server --hot --config webpack.client.js"
   },
   "author": "",
   "license": "ISC"

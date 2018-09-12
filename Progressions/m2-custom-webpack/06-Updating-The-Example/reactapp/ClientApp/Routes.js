@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 
 import {Route, Switch} from 'react-router-dom';
-import Home from "./home/Home";
-import Speakers from "./speakers/Speakers";
-import Login from "./common/Login";
+import Home from "./Components/home/Home";
+import Speakers from "./Components/speakers/Speakers";
+import Login from "./Components/common/Login";
 import RouteNotFound from "./RouteNotFound";
 
 
