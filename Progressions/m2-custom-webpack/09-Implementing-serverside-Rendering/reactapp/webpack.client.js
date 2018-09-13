@@ -18,7 +18,7 @@ const config = {
     },
     output: {
         path: PUBLIC_DIR,
-        filename: 'bundle.js'
+        filename: 'clientbundle.js'
     }
 
 };

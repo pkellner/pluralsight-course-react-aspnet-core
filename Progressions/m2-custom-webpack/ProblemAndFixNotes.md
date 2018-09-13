@@ -76,6 +76,13 @@ Revisions:
   at 03:09 to end updated video only
 
 ---
+08 -
+
+Revisions:
+  Add 9 seconds at 3:47 
+
+
+---  
 
 
 09 - at 0:27.  Because we’ve created a separate client webpack config, let’s change the output to clientbundle.js from just bundle.js.  if you’re coding along with me, make sure to also change the reference to clientbundle.js in the public/index.html file also.  Then later, you’ll wee when we work on webpack.server.js, we’ll create a different bundle called serverbundle.js.  Finally, make sure to update your package.json to make sure that start:dev executes the new webpack.client.js and not   the default webpack.config.js.
