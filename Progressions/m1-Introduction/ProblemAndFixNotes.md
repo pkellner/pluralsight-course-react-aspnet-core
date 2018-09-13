@@ -1,4 +1,0 @@
-# Problems and Fixes Notes (9/1/2018, video updates coming soon so this will not be needed)
-
-
-m1-Add at 1:12 before "You will learn in this course...".  "Something to keep in mind, this is an intermediate level course.  If you plan on coding along with me, I strongly suggest keeping the github repo "Progressions" folder close at hand. I cover react topics often quickly and make the assumption that you can connect the dots where needed. If you do get stuck, take a look at the Progressions folder for the code at the end of each clip and you'll get right back on board with me.  If not, you can still get a lot from this course. I  suggest not trying to code along,  just watch to understand concepts and you'll get an idea of what you'll need going forward.

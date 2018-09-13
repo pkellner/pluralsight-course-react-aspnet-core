@@ -64,6 +64,10 @@ Details of each script in package.json are as follows:
 
 ### Module 5 - Use REST Services from React to ASP.NET Core Endpoints
 
+You can follow the progression of each section in this module by looking at soure code section by section.
+
+See the /Progressions directory in the base of this repo for more details.
+
 This module brings a newly configured ASP.NET Core server that started with an empty server.
 It ultimately creates a stand alone REST server that uses Entity Frameworks in memory database to supply data.
 The data comes from the real Silicon Valley Code Camp 2017 speaker and session data.  Those JSON files 
@@ -87,6 +91,10 @@ records in the database.
 ### Module 6 - Implementing Server Side Rendering That Includes REST Calls
 (very similar scripts to module 5, just the code changes to support REST in html)
 
+You can follow the progression of each section in this module by looking at soure code section by section.
+
+See the /Progressions directory in the base of this repo for more details.
+
 | Script Name   	| Script Description  	
 |---	|---	|
 | webpackdev:server   	| Runs the webpack-dev-server only  	|
@@ -101,6 +109,9 @@ records in the database.
 | copytowwwroot   	| Copies all files from the build directory to the root of the ASP.NET Core app (/wwwroot) 	|
 | json-server   	| Launches json-server by itself running with a Node Express server in code	|
 
+You can follow the progression of each section in this module by looking at soure code section by section.
+
+See the /Progressions directory in the base of this repo for more details.
 
 
 ## Configuration File (.env)
