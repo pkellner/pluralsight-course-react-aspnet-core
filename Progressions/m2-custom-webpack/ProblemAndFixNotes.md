@@ -70,7 +70,6 @@ Revisions:
   
   
 Revisions:
-  
   at  0:35 12 1:37  insert audio and visual
   at 01:47 10 seconds - insert audio and visual  
   at 03:09 to end updated video only
@@ -78,7 +77,7 @@ Revisions:
 ---
 08 -
 
-Revisions:
+Revisions:npm 
   Add 9 seconds at 3:47 
 
 
