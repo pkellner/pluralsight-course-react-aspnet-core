@@ -9,8 +9,8 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
-    "cpx": "^1.5.0",
     "express": "^4.16.3",
+    "ncp": "^2.0.0",
     "npm-run-all": "^4.1.3",
     "path": "^0.12.7",
     "react": "^16.4.2",
@@ -34,7 +34,7 @@
     "dev:all": "npm-run-all --serial dev:build-server dev:build-client dev:server",
     "prod:bundlefordeploy": "webpack --config webpack.client.js",
     "prod:cleanwwwroot": "rimraf ../WebApp/wwwroot",
-    "prod:copytowwwroot": "cpx 'public/**/*' ../WebApp/wwwroot",
+    "prod:copytowwwroot": "ncp public ../WebApp/wwwroot",
     "prod:deploy": "npm-run-all --serial prod:bundlefordeploy prod:cleanwwwroot prod:copytowwwroot"
   },
   "author": "",
