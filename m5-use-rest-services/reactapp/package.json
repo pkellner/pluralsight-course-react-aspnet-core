@@ -7,7 +7,7 @@
     "axios": "^0.18.0",
     "babel-core": "^6.26.0",
     "copyfiles": "^2.0.0",
-    "cpx": "^1.5.0",
+    "ncp": "^2.0.0",
     "dotenv": "^6.0.0",
     "dotenv-webpack": "^1.5.7",
     "express-history-api-fallback": "^2.2.1",
@@ -47,7 +47,7 @@
     "dev:server": "nodemon build/serverbundle.js",
     "dev:all": "npm-run-all --serial dev:build-server dev:build-client dev:server",
     "cleanwwwroot": "rimraf ../WebApp/wwwroot",
-    "copytowwwroot": "cpx 'public/**/*' ../WebApp/wwwroot",
+    "copytowwwroot": "ncp public ../WebApp/wwwroot",
     "jsonserver": "nodemon jsonserver.js",
     "start": "npm-run-all --parallel start:dev jsonserver"
   },
