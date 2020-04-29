@@ -26,7 +26,7 @@
     "redux-axios-middleware": "^4.0.0",
     "redux-thunk": "^2.3.0",
     "rimraf": "^2.6.2",
-    "serialize-javascript": "^1.5.0",
+    "serialize-javascript": "^3.0.0",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1",
     "webpack-merge": "^4.1.1",
